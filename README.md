@@ -4,7 +4,7 @@
 To set up a new Conda environment, run the following commands:
 
 ```zsh
-conda create --name westpoint python
+conda create --name westpoint python==3.11
 conda activate westpoint
 pip install -r requirements.txt
 ```
@@ -21,9 +21,9 @@ The following are files and folders in the repository:
 * `util/`: This folder contains some utility modules.
 * `assets/raw_data`: This folder contains the original pdfs.
 * `assets/docling_out`: This directory contains the docling converted .md documents.
+* `taxonomy/qna`: Contains the QnA files for InstructLab fine tuning.
 
-### Running from your local python environment
-
+## Convert .pdf to .md using docling
 ```console
 cd util
 python convert_pdf.py ./assets/raw_data ./assets/docling_out
