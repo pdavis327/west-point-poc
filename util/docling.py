@@ -1,4 +1,6 @@
 import glob
+from pathlib import Path
+import os
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import (
     PdfPipelineOptions,
@@ -62,6 +64,15 @@ class PDFConverter:
             return
 
         for i in input_pdfs:
-            conv_result = self.doc_converter.convert(i)
-            with open(f"{output_dir}/{conv_result.input.file.stem}.md", "w") as f:
-                f.write(conv_result.document.export_to_markdown())
+            try:
+                output_path = f"{output_dir}/{Path(i).stem}.md"
+                if os.path.exists(output_path):
+                    print(f"{output_path} exists")
+                    continue
+                else:
+                    print(f"processing {i}")
+                    conv_result = self.doc_converter.convert(i)
+                    with open(f"{output_path}", "w") as f:
+                        f.write(conv_result.document.export_to_markdown())
+            except Exception as e:
+                print(f"{i} failed to process with the following error \n {e}")
