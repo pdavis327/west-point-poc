@@ -18,6 +18,7 @@ To add pre-commit hooks, run the following command:
 The following are files and folders in the repository:
 
 * `requirements.txt`: This file contains python dependencies.
+* `convert_pdf.py`: Used to convert .pdf to .md using docling
 * `util/`: This folder contains some utility modules.
 * `assets/raw_data`: This folder contains the original pdfs.
 * `assets/docling_out`: This directory contains the docling converted .md documents.
