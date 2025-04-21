@@ -128,7 +128,7 @@ seed_examples:
       battalion and a boat company at Fort Eustis, Virginia, and used those troops to
       activate thirteen movement control detachments, fourteen cargo documentation
       detachments, and four contract supervision detachments at various locations
-      throughout the command. 
+      throughout the command.
     questions_and_answers:
       - question: |-
           Which division was redesignated as a mechanized unit by FORSCOM in fiscal year
@@ -189,10 +189,3 @@ seed_examples:
           Yes, the main concerns of the DIVISION 86 project are the introduction of new
           weapons and equipment systems, tactical and organizational concepts, and the
           impact of these changes on the structure and operation of the heavy division.
-document_outline: |
-  US Army Historical Summary of Fiscal Year 1979.
-document:
-  repo: https://github.com/pdavis327/west-point-poc
-  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
-  patterns:
-    - assets/docling_out/*.md

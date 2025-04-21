@@ -1,0 +1,625 @@
+version: 3
+domain: Military History
+created_by: pdavis
+seed_examples:
+  - context: |-
+      The North Vietnamese in March 1970 drove Royal Lao forces from the Plain
+      of jars in northern Laos and threatened to overrun the Meo heartland. That
+      offensive was conducted by regular North Vietnamese units in flagrant violation
+      of the Geneva Accords concerning the neutrality of Laos. Following the ouster of
+      Prince Sihanouk as Cambodia's head of state, Viet Cong and North Vietnamese
+      forces moved out of their sanctuaries along the CambodiaVietnam border to spread
+      their control over eastern Cambodia. In conjunction with their thrusts into
+      Cambodia, the Communist forces seized two provincial capitals in southern Laos,
+      thus securing a water supply route through Laos to compensate for their loss of
+      the use of the Cambodian seaports of Kampot and Kampong Som (Sihanoukville). The
+      year thus produced the first open confrontation between North Vietnamese and
+      Cambodian forces, and for the first time since 1962 the North Vietnamese
+      attacked Royal Laotian forces without the facade of the Pathet Lao.
+    questions_and_answers:
+      - question: What was the name of the Cambodian prince who was ousted in March
+          1970?
+        answer: Prince Sihanouk was the Cambodian prince who was ousted in March
+          1970.
+      - question: |-
+          What were the consequences of the North Vietnamese offensive in northern Laos in
+          March 1970?
+        answer: |-
+          The North Vietnamese offensive in northern Laos in March 1970 led to the ouster
+          of Royal Lao forces from the Plain of Jars, threatened to overrun the Meo
+          heartland, and was a violation of the Geneva Accords concerning the neutrality
+          of Laos.
+      - question: |-
+          Given the North Vietnamese actions in Laos and Cambodia in 1970, what can be
+          inferred about their strategic objectives?
+        answer: |-
+          Based on their actions, the North Vietnamese seemed to be aiming to secure a
+          water supply route through Laos to compensate for the loss of Cambodian
+          seaports, and to spread their control over eastern Cambodia. They also appeared
+          to be increasing their assertiveness, attacking Royal Laotian forces without the
+          facade of the Pathet Lao for the first time since 1962.
+  - context: |-
+      The status of major Army units improved generally in personnel and logistics
+      during fiscal year 1970, while their training status remained essentially
+      unchanged. Support units remained about the same as the previous year; many
+      units reported unsatisfactory readiness status. The orderly reduction of Army
+      manpower during the first half of the fiscal year, through redeployments from
+      Vietnam and subsequent unit inactivations, permitted some improvement in
+      readiness of personnel. But toward the end of the year, reduced draft calls,
+      failures in meeting draft calls, and changes in planned Vietnam redeployment
+      increased the shortage of trained strength and reduced the number of personnel
+      available for assignment to units. The result was an erosion of some of the
+      gains in personnel readiness made earlier in the year.
+    questions_and_answers:
+      - question: What was the status of Army units' training during fiscal year 1970?
+        answer: |-
+          The training status of Army units remained essentially unchanged during fiscal
+          year 1970.
+      - question: |-
+          What was the overall status of Army units in terms of personnel, logistics, and
+          training during fiscal year 1970?
+        answer: |-
+          The status of major Army units improved generally in personnel and logistics
+          during fiscal year 1970, while their training status remained essentially
+          unchanged. However, towards the end of the year, reduced draft calls, failures
+          in meeting draft calls, and changes in planned Vietnam redeployment led to an
+          erosion of some of the gains in personnel readiness.
+      - question: |-
+          Based on the information provided, why did the erosion of gains in personnel
+          readiness occur towards the end of fiscal year 1970?
+        answer: |-
+          The erosion of gains in personnel readiness occurred towards the end of fiscal
+          year 1970 due to reduced draft calls, failures in meeting draft calls, and
+          changes in planned Vietnam redeployment, which increased the shortage of trained
+          strength and reduced the number of personnel available for assignment to units.
+  - context: |-
+      The operations center continued to co-ordinate the Army's contribution to the
+      U.S. Secret Service in its role of protecting the President and Vice President
+      of the United States. This support included explosive ordnance disposal
+      personnel, helicopters, and other assorted equipment and personnel resources. In
+      this connection, the Army received an increased number of requests from other
+      federal agencies and civil authorities for explosive disposal assistance,
+      involving bomb scares, disarming explosive devices, checking and disposing of
+      war souvenirs, and providing help in transportation accidents involving
+      explosives. Over 4,800 requests were acted upon in fiscal year 1970, compared
+      with 3,762 in the previous year.
+    questions_and_answers:
+      - question: How many requests were acted upon by the Army in fiscal year 1970?
+        answer: 4,800
+      - question: |-
+          What kind of assistance did the Army provide in response to the increased number
+          of requests from other federal agencies and civil authorities?
+        answer: |-
+          The Army provided explosive ordnance disposal personnel, helicopters, and other
+          equipment and personnel resources. This assistance involved dealing with bomb
+          scares, disarming explosive devices, checking and disposing of war souvenirs,
+          and helping in transportation accidents involving explosives.
+      - question: |-
+          Based on the increase in requests for explosive disposal assistance, what can be
+          inferred about the Army's role and the perceived threat level during this
+          period?
+        answer: |-
+          The Army's role in explosive ordnance disposal became more critical during this
+          period, indicating a potential increase in perceived threat level or actual
+          incidents involving explosives.
+  - context: |-
+      The Army's military assistance responsibility includes funding, training,
+      logistic support, and production. In fiscal year 1970 the Military Assistance
+      Program (MAP) continued the rapid decline that began in 1966. The Department of
+      Defense requested $430 million in new funds, and Congress appropriated $350
+      million and imposed a similar limit on 1971 new obligational authority. The
+      Army's portion of the appropriation was $208 million. The size of the
+      appropriation reflects the competing demands between domestic programs and the
+      war in Vietnam, along with increasing congressional opposition to military
+      assistance and other oversea commitments. Along this line the Army has supported
+      the national goal of replacing grant aid with military sales. Meanwhile, the
+      1970 Military Assistance Service Funded program remained at the $2.1 billion
+      level of the previous year. It was anticipated that the Vietnamization program
+      would increase this amount slightly in 1971.
+    questions_and_answers:
+      - question: |-
+          How much was the Army's portion of the Military Assistance Program appropriation
+          for fiscal year 1970?
+        answer: $208 million
+      - question: |-
+          What can be inferred about the trend of the Military Assistance Program and the
+          Army's portion of it in fiscal year 1970, considering the competing demands and
+          opposition?
+        answer: |-
+          The Military Assistance Program, including the Army's portion, continued a rapid
+          decline in fiscal year 1970 due to competing demands between domestic programs
+          and the war in Vietnam, along with increasing congressional opposition to
+          military assistance and other oversea commitments. Despite this, the Army
+          supported the goal of replacing grant aid with military sales.
+      - question: |-
+          Given the Army's support for replacing grant aid with military sales, how might
+          this affect the nature of military assistance in the future?
+        answer: |-
+          The Army's support for replacing grant aid with military sales suggests a
+          potential shift towards more self-sustained military assistance, where countries
+          would purchase military equipment and services rather than receive them as
+          grants. This could potentially lead to a more balanced distribution of financial
+          burden and a more market-oriented approach in military assistance.
+  - context: |-
+      In a day of complex, technical, and far-flung communications-electronics systems
+      and equipment, efficient and effective operation at all levels requires active
+      and sustained management. There were a number of management activities during
+      fiscal year 1970 that were more than routine. Communications-electronics
+      management in Army installations in the United States, for example, was
+      addressed in a major study, and one of the important recommendations, approved
+      by the Chief of Staff, was that the installation's communications-electronics
+      officer should be at the principal staff level. As a member of the
+      installation's principal staff, the C-E officer will be in a position to
+      evaluate communications-electronics requirements and provide support
+      expeditiously. This management improvement will be reflected not only at
+      installation level but in more responsive communications Army-wide.
+    questions_and_answers:
+      - question: |-
+          What was one of the recommendations of the major study on communications-
+          electronics management in Army installations in the United States?
+        answer: |-
+          One of the recommendations was that the installation's communications-
+          electronics officer should be at the principal staff level.
+      - question: |-
+          What changes in communications-electronics management in Army installations in
+          the United States were approved by the Chief of Staff?
+        answer: |-
+          The changes approved by the Chief of Staff included making the installation's
+          communications-electronics officer a member of the installation's principal
+          staff, which would allow for more efficient evaluation of communications-
+          electronics requirements and support provision.
+      - question: |-
+          Why would making the communications-electronics officer a member of the
+          installation's principal staff improve communications-electronics management in
+          Army installations in the United States?
+        answer: |-
+          Making the communications-electronics officer a member of the installation's
+          principal staff would allow for a more comprehensive evaluation of
+          communications-electronics requirements and more expeditious provision of
+          support, thereby improving communications-electronics management at the
+          installation level and enhancing responsiveness Army-wide.
+  - context: |-
+      In seeking to improve the management of its human and physical resources, the
+      Army moved ahead in a number of areas. Adivision restructuring study assessed
+      the organization of the Army's heavy combat divisions, and experiments using
+      alternative structures containing smaller but more numerous maneuver elements
+      began. Based upon ideas contained in a study completed in fiscal year 1978, the
+      Army brought about a number of changes to improve the training and education of
+      individual officers. In the management of installations, facilities, and
+      equipment, energy conservation increased, industrial pollution decreased,
+      property accountability improved, and escalating base operating costs were
+      checked. Continued reliance on automation and the proliferation of individual
+      automated data systems has focused attention on the integration,
+      interoperability, survivability, and security of the various systems. In October
+      1978, the Office ofthe Assistant Chief of Staff for Automation and
+      Communications was established to manage the integration of technologies in
+      these rapidly expanding fields.
+    questions_and_answers:
+      - question: |-
+          What was established in October 1978 to manage the integration of technologies
+          in the fields of automation and communications?
+        answer: The Office of the Assistant Chief of Staff for Automation and Communications
+      - question: |-
+          What were the main areas in which the Army sought to improve its management of
+          human and physical resources?
+        answer: |-
+          The Army sought to improve its management of human and physical resources
+          through division restructuring, changes in the training and education of
+          individual officers, better management of installations, facilities, and
+          equipment, and focus on the integration, interoperability, survivability, and
+          security of automated data systems.
+      - question: |-
+          Given the focus on energy conservation, decreased industrial pollution, improved
+          property accountability, and controlled base operating costs, can we infer that
+          the Army's management of installations, facilities, and equipment became more
+          efficient?
+        answer: |-
+          Yes, we can infer that the Army's management of installations, facilities, and
+          equipment became more efficient.
+  - context: |-
+      In 1979, U.S. Army, Europe, was about 200,000 soldiers strong, or more than a
+      quarter the strength of the active Army. With the exception of Brigade 75 (which
+      had transferred in late January to northern Germany) and the Berlin Brigade,
+      USAREUR was assigned to the Central Army Group. U.S. Army, Europe, contained
+      four divisions, four separate brigades, and two armored cavalry regiments. The
+      forces were becoming stronger, both armored and mechanized, an expression of
+      shock action and firepower directed at Soviet advances. For example, cavalry
+      units exchanged their Sheridans for M60's, 210 Cobra/ TOW's in ten companies
+      were installed on the ground, and armored units increased the size of their tank
+      crews. Artillery forces had been strengthened by the arrival of three battalions
+      of medium and heavy artillery (with increases in the number of tubes for every
+      battery) and adoption of a novel uploading system to quicken the responses of
+      ammunition units alerted for battle. Additional infusions of equipment and
+      technology were to follow, and progress was so sure that in 1978 a proposal was
+      made to turn over to Germany nearly all the base management operations. The
+      proposal, referred to as USAREUR-An Army Deployed, would be negotiated with the
+      NATO allies and would better enable the Army to prepare for war.
+    questions_and_answers:
+      - question: How many soldiers were in U.S. Army, Europe in 1979?
+        answer: 200,000 soldiers
+      - question: What measures were taken to strengthen the U.S. Army, Europe in
+          the late 70s?
+        answer: |-
+          Cavalry units exchanged their Sheridans for M60's, 210 Cobra/ TOW's in ten
+          companies were installed on the ground, armored units increased the size of
+          their tank crews, three battalions of medium and heavy artillery with increased
+          number of tubes for every battery and a novel uploading system to quicken the
+          responses of ammunition units alerted for battle were added, and a proposal was
+          made to turn over to Germany nearly all the base management operations.
+      - question: |-
+          Based on the information provided, why was the proposal to turn over base
+          management operations to Germany beneficial for the U.S. Army, Europe?
+        answer: |-
+          The proposal was beneficial as it would better enable the Army to prepare for
+          war by allowing them to focus more on military readiness and less on base
+          management operations.
+  - context: |-
+      In the other global trouble spot where the Army stood on guard, it was a year of
+      discovery and surprise. The withdrawal of the 2d Infantry Division from its
+      sectors in South Korea, announced by President Carter in 1977, had been based on
+      a favorable assessment ofthe peninsular balance. But in 1978, new intelligence
+      indicated that the earlier estimate had been overly optimistic, that North
+      Korea's forces, the forth largest in the communist world, had much more
+      capability to launch an invasion of the Republic of Korea than anyone in Seoul
+      or Washington had previously thought. In July 1979 the President decided to
+      temporarily freeze combat withdrawals. Certain supporting units would still
+      depart in 1980, but air defense units would leave somewhat later. Equipment
+      would continue to be turned over to the Korean forces. Other than that, the Army
+      would remain on duty in South Korea.
+    questions_and_answers:
+      - question: |-
+          What military division was withdrawn from South Korea based on a favorable
+          assessment?
+        answer: The 2d Infantry Division
+      - question: |-
+          What was the President's decision regarding combat withdrawals in South Korea in
+          July 1979?
+        answer: |-
+          The President decided to temporarily freeze combat withdrawals, with certain
+          supporting units still departing in 1980 and air defense units leaving somewhat
+          later. Equipment would continue to be turned over to the Korean forces.
+      - question: |-
+          Given the new intelligence about North Korea's forces, why did the President
+          decide to temporarily freeze combat withdrawals?
+        answer: |-
+          The President decided to temporarily freeze combat withdrawals because the new
+          intelligence indicated that North Korea's forces had much more capability to
+          launch an invasion of the Republic of Korea than anyone in Seoul or Washington
+          had previously thought.
+  - context: |-
+      The U.S. Army Forces Command (FORSCOM) continued to execute a major portion of
+      the force development activities in the active Army in fiscal year 1979. During
+      the year, FORSCOM activated 55 units, inactivated 31 , deployed 4 to Germany,
+      reorganized about 400 units, and redesignated the 24th Infantry Division as a
+      mechanized unit. The command executed Phase III of the Aviation Requirements for
+      the Combat Structure of the Army Study (ARCSA III), which involved inactivation
+      of twelve aviation units, including the three heavy lift companies employing the
+      CH-54 Flying Crane rendered obsolete by the improved CH-47D helicopter. In
+      implementing the plan for realignment of air defense capabilities in the
+      continental United States, FORSCOM inactivated the 31st Air Defense Artillery
+      Brigade in Florida, and transferred its three missile battalions (two to Fort
+      Bliss, Texas, and one to Fort Bragg, North Carolina). It also inactivated a
+      missile battalion and its support elements in Alaska. In an effort to make more
+      efficient use of its Transportation Corps troops, FORSCOM inactivated a terminal
+      battalion and a boat company at Fort Eustis, Virginia, and used those troops to
+      activate thirteen movement control detachments, fourteen cargo documentation
+      detachments, and four contract supervision detachments at various locations
+      throughout the command.
+    questions_and_answers:
+      - question: |-
+          Which division was redesignated as a mechanized unit by FORSCOM in fiscal year
+          1979?
+        answer: The 24th Infantry Division
+      - question: How many units did FORSCOM activate, inactivate, and deploy in fiscal
+          year 1979?
+        answer: |-
+          FORSCOM activated 55 units, inactivated 31 units, and deployed 4 units to
+          Germany.
+      - question: |-
+          Given the inactivation of certain aviation units due to the obsolescence of the
+          CH-54 Flying Crane, what helicopter model is considered an improvement?
+        answer: |-
+          The CH-47D helicopter is considered an improvement as it led to the inactivation
+          of certain aviation units.
+  - context: |-
+      The introduction of new types of weapons and equipment established the need for
+      fundamental changes in the future organization and composition of basic combat
+      units of the Army. In early 1976, the U.S. Army's Training and Doctrine Command
+      (TRADOC) undertook a long-range study to determine the best size, mix, and
+      organization of a heavy division (both armored and mechanized). The purpose of
+      the study was to develop a plan that would accommodate the demands of the many
+      new weapons and equipment systems that would be introduced into the Army's
+      division by the mid- 1980's. As the study progressed, it became known as the
+      DIVISION 86 project. Its objectives broadened to include not only new systems
+      but also tactical and organizational concepts, a framework for force structure
+      analysis, and a means to identify required modifications in training. A detailed
+      description ofthe heavy division studied and tested since initiation of the
+      project appears in the Department of the Army Historical Summary for Fiscal Year
+      1978. During 1979, TRADOC conducted three workshops which discussed the progress
+      of the DIVISION 86 project and established the need to present the results to
+      the Army Commanders Conference in October 1979 and to the Chief of Staff in July
+      1980. The workshops discussed the findings and conclusions of a number of
+      studies relating to key problems, concepts, and materiel systems of the heavy
+      division. Specific topics included tactical maneuvers such as delay and
+      disruption of enemy second echelon forces, the airland battle, and the standoff
+      target acquisition system. The participants also discussed the basic aspects of
+      structural framework: what should be the nature and composition ofthe corps in
+      which the division would operate and should the brigade organization be flexible
+      (drawing its supporting elements from a division base) or fixed (with most of
+      the elements forming an organic part of the brigade).
+    questions_and_answers:
+      - question: |-
+          What is the name of the long-range study conducted by the U.S. Army's Training
+          and Doctrine Command (TRADOC) in 1976?
+        answer: The DIVISION 86 project
+      - question: What are the main components of the DIVISION 86 project's objectives?
+        answer: |-
+          The DIVISION 86 project's objectives include the study of new systems, tactical
+          and organizational concepts, a framework for force structure analysis, and
+          identification of required modifications in training.
+      - question: |-
+          Given the information about the topics discussed in the workshops, such as
+          tactical maneuvers and structural framework, can we infer the main concerns of
+          the DIVISION 86 project?
+        answer: |-
+          Yes, the main concerns of the DIVISION 86 project are the introduction of new
+          weapons and equipment systems, tactical and organizational concepts, and the
+          impact of these changes on the structure and operation of the heavy division.
+  - context: |-
+      Fiscal years (FYs) 90 and 91 witnessed dramatic changes in the world order and
+      the international security environment. While many nations became more
+      politically independent, economic interdependence also increased. New centers of
+      political and economic influence were evolving. America's North Atlantic Treaty
+      Organization (NATO) allies pursued their national interests more assertively,
+      while Japan and other nations of the Pacific Rim advanced their positions in the
+      world order. U.S. leaders maintained serious concerns about a series of
+      international security issues. These issues included the proliferation of
+      nuclear, chemical, and missile technologies among many developing nations;
+      statesponsored terrorism; insurgency; the subversion of legitimate governments;
+      and international drug trafficking. On a brighter note, positive changes
+      occurred among many Communist nations during FY 90 and 91. The Soviet Union and
+      other members of the Warsaw Pact took giant steps toward renouncing communism
+      and adopting free elections and private enterprise.
+    questions_and_answers:
+      - question: |-
+          Which two international organizations were mentioned as having significant
+          changes in FY 90 and 91?
+        answer: North Atlantic Treaty Organization (NATO) and the Warsaw Pact
+      - question: |-
+          What were the main concerns of U.S. leaders regarding international security
+          during FY 90 and 91?
+        answer: |-
+          Proliferation of nuclear, chemical, and missile technologies among many
+          developing nations; statesponsored terrorism; insurgency; the subversion of
+          legitimate governments; and international drug trafficking
+      - question: |-
+          Based on the described changes, why might U.S. leaders have been concerned about
+          the proliferation of nuclear, chemical, and missile technologies during FY 90
+          and 91?
+        answer: |-
+          The increased political independence of many nations, coupled with the rise of
+          new centers of political and economic influence, could have led to unstable
+          situations where these technologies could be misused or fall into the wrong
+          hands, posing a threat to international security.
+  - context: |-
+      Although funding was limited, quality of life programs continued to receive
+      emphasis from both the Army leadership and Congress during FY 90 and 91. Budget
+      constraints on new housing resulted in concentration upon maintenance and
+      revitalization of existing structures as demonstrated by the Whole Neighborhood
+      Revitalization Program. Passed in November 1989, the Military Child Care Act
+      provided financial resources to assure minimum funding levels and also
+      improvements in the staffs of Army child care facilities. The Army Medical
+      Department (AMEDD) tried to increase the quality of medical services for Army
+      families while controlling skyrocketing medical costs. Through the Civilian
+      Health and Medical Program for Uniformed Services (CHAMPUS) Management
+      Improvement Program the Army looked to tighten review procedures for CHAMPUS
+      services and to control doctors' fees. In October 1990 the Army Surgeon General
+      introduced the Gateway to Care Program as an interim measure. The program
+      authorized local military hospital commanders to utilize both military and
+      civilian provider health care for their patients.
+    questions_and_answers:
+      - question: |-
+          What program was introduced in October 1990 to improve medical services for Army
+          families?
+        answer: The Gateway to Care Program
+      - question: |-
+          What measures were taken to improve the quality of life programs for the Army in
+          FY 90 and 91, despite budget constraints?
+        answer: |-
+          Funding was limited, but quality of life programs continued to receive emphasis.
+          Budget constraints on new housing led to a focus on maintenance and
+          revitalization of existing structures. The Military Child Care Act was passed to
+          assure minimum funding levels and improvements in the staffs of Army child care
+          facilities. The Army Medical Department tried to increase the quality of medical
+          services for Army families while controlling medical costs through the CHAMPUS
+          Management Improvement Program and the Gateway to Care Program.
+      - question: |-
+          Given the introduction of the Gateway to Care Program in October 1990, what can
+          be inferred about the Army's approach to medical services for its families?
+        answer: |-
+          The Army was looking to improve its medical services for families by introducing
+          the Gateway to Care Program, which allowed local military hospital commanders to
+          utilize both military and civilian provider health care for their patients. This
+          suggests a more flexible and comprehensive approach to medical care.
+  - context: |-
+      Army unit training was influenced during FY 90 and 91 by both budget constraints
+      and DESERT SHIELD/DESERT STORM. The Persian Gulf war reduced unit rotations at
+      the National Training Center (NTC) from twelve in FY 90 to five in FY 91. The
+      Battle Command Training Program, which trains division and corps staffs by a
+      warfighter computer battle simulation exercise, reduced its CONUS program in FY
+      91, but provided special training to Army divisions and corps that served in the
+      Persian Gulf. REFORGER, an annual joint/combined exercise, was postponed in 1989
+      to 1990; while REFORGER 91 relied heavily upon simulations and employed only
+      28,000 allied troops. Overseas deployment training (ODT) for the reserve
+      components was reduced from 40,000 in FY 90 to 28,000 in FY 91. When DESERT
+      SHIELD began in August 1990, Army training and combat developers considered the
+      Total Army fundamentally ready for war. Three activated ARNG roundout brigades -
+      48th Infantry of Georgia, 155th Armored of Mississippi, and the 256th Infantry
+      of Louisiana - revealed some deficiencies in combat readiness, but the Army
+      leadership considered this normal for reserve component units that train only
+      part-time.
+    questions_and_answers:
+      - question: How many allied troops were employed during REFORGER 91?
+        answer: 28,000
+      - question: |-
+          What were the changes in the Army unit training during FY 90 and FY 91 in terms
+          of budget constraints, DESERT SHIELD/DESERT STORM, and the number of unit
+          rotations at the National Training Center?
+        answer: |-
+          Budget constraints and DESERT SHIELD/DESERT STORM influenced Army unit training
+          in FY 90 and FY 91. The number of unit rotations at the National Training Center
+          reduced from twelve in FY 90 to five in FY 91. Overseas deployment training for
+          the reserve components was also reduced from 40,000 in FY 90 to 28,000 in FY 91.
+      - question: |-
+          Based on the information provided, why were the three activated ARNG roundout
+          brigades considered to have some deficiencies in combat readiness?
+        answer: |-
+          The three activated ARNG roundout brigades - 48th Infantry of Georgia, 155th
+          Armored of Mississippi, and the 256th Infantry of Louisiana - were considered to
+          have some deficiencies in combat readiness because they train only part-time as
+          reserve component units.
+  - context: |-
+      The ability to mobilize, deploy, and sustain its forces effectively for combat
+      operations has long been a major concern of the Army. Evidence of this concern
+      has been demonstrated by various programs in recent years - CAPSTONE; the Army
+      Mobilization and Operations Planning System (AMOPS); various mobilization and
+      training exercises, such as OPTIMAL FOCUS and REFORGER; and annual screenings of
+      IRRs. The brief duration and operational security needs of JUST CAUSE did not
+      favor mobilization of reserve component units, while thorough rehearsing ensured
+      almost flawless deployment. Mobilization, deployment, and sustainment for DESERT
+      SHIELD/DESERT STORM presented major challenges to the Army leadership for a
+      number of reasons. These reasons included no stationing of U.S. troops or
+      stockpiling of military materiel in the Middle East, an 8,700-mile supply line
+      from CONUS, and the piecemeal activation of reserve component combat service
+      support personnel. The demand for strategic lift saw the first activation of the
+      Civilian Reserve Air Fleet (CRAF) by the president and expensive chartering of
+      foreign-flag commercial ships because of deficiencies in the Ready Reserve Force
+      (RRF).
+    questions_and_answers:
+      - question: |-
+          What was the impact of the 8,700-mile supply line from CONUS on the Army
+          leadership during DESERT SHIELD/DESERT STORM?
+        answer: |-
+          The 8,700-mile supply line from CONUS presented a major challenge to the Army
+          leadership during DESERT SHIELD/DESERT STORM.
+      - question: |-
+          What were the main reasons that mobilization, deployment, and sustainment for
+          DESERT SHIELD/DESERT STORM presented major challenges to the Army leadership?
+        answer: |-
+          The main reasons were the lack of stationing of U.S. troops or stockpiling of
+          military materiel in the Middle East, an 8,700-mile supply line from CONUS, and
+          the piecemeal activation of reserve component combat service support personnel.
+      - question: |-
+          Based on the challenges faced during DESERT SHIELD/DESERT STORM, what could have
+          been improved in the Army's mobilization, deployment, and sustainment
+          strategies?
+        answer: |-
+          The Army could have improved its strategies by considering the stationing of
+          U.S. troops or stockpiling of military materiel in the Middle East, improving
+          the readiness of the Ready Reserve Force, and ensuring the availability of
+          strategic lift.
+  - context: |-
+      The Army performed a variety of special functions for the civilian sector in
+      both the United States and foreign countries during FY 90 and 91. These
+      functions included civil works, water projects, the war against drugs,
+      improvement and preservation of the environment, and relief for the local
+      populace following both natural disasters and the destructive effects of war. As
+      part of President Bush's new attack on the illegal drug traffic in FY 89, HQDA
+      produced the Army Counter-Narcotics Plan in April 1990. The plan essentially
+      reinforced existing Army assistance, which included intelligence, loan of
+      equipment, and training of law enforcement personnel in combat and jungle
+      operations. In November 1989 the Commander in Chief, U.S. Forces Command (CINC-
+      FORSCOM), formed Joint Task Force Six at Fort Bliss, Texas, to coordinate Army
+      support to the war against illegal drugs along the Southwest border. By April
+      1991 U.S. Southern Command (SOUTHCOM) had e l even ant drug training teams in
+      five Latin American countries. The ARNG had participated in the drug war for
+      thirteen years, and in FY 90 it took a direct part in twenty-five counterdrug
+      operations while under state control.
+    questions_and_answers:
+      - question: What is the name of the Army Counter-Narcotics Plan producer?
+        answer: HQDA
+      - question: What are the roles of the Army in the war against drugs?
+        answer: |-
+          The Army's roles in the war against drugs include providing intelligence,
+          loaning equipment, and training law enforcement personnel in combat and jungle
+          operations. The Army also participates in the drug war under state control and
+          has formed joint task forces and training teams in various countries.
+      - question: |-
+          Based on the Army's roles in the war against drugs, why was the Army Counter-
+          Narcotics Plan produced?
+        answer: |-
+          The Army Counter-Narcotics Plan was produced to reinforce existing Army
+          assistance in the war against drugs, which included intelligence, loan of
+          equipment, and training of law enforcement personnel in combat and jungle
+          operations.
+  - context: |-
+      As the U.S. Army began the last decade of the twentieth century, it faced
+      uncertain times and substantial downsizing, even though on two occasions during
+      FY 90 and 91 it engaged in major military operations. The first was Operation
+      JUST CAUSE, the U.S. invasion of Panama in December 1989 that resulted in the
+      ouster of dictator Manuel Noriega and the restoration of a popularly elected
+      government. The second was Operation DESERT SHIELD/DESERT STORM, a U.S.-led
+      international coalition assembled to turn back Iraq's blatant aggression against
+      neighboring Ku wait. On both occasions the U.S. Army rose to the task, employing
+      a force made up of the best trained personnel and most modern equipment ever
+      assembled. These operations confirmed the trend enunciated in President George
+      Bush's August 1990 speech at Aspen, Colorado. He spoke of the need to plan for
+      regional conflicts, rather than emphasize a global strategy based on preparation
+      for a Soviet attack in Western Europe. Coupled with this change was the need to
+      reduce the number and complexity of operational plans by calling on each theater
+      to refocus on the increasing threat from regional powers, such as Iraq. Only the
+      operational plans in the Pacific theater remained unchanged during FY 90 and 91.
+    questions_and_answers:
+      - question: What was the name of the U.S. invasion of Panama in December 1989?
+        answer: Operation JUST CAUSE
+      - question: |-
+          What were the two major military operations the U.S. Army was engaged in at the
+          beginning of the last decade of the twentieth century?
+        answer: Operation JUST CAUSE and Operation DESERT SHIELD/DESERT STORM
+      - question: |-
+          Given the change in operational plans from a global strategy to a regional
+          focus, why did the operational plans in the Pacific theater remain unchanged
+          during FY 90 and 91?
+        answer: |-
+          The text does not provide specific information on why the operational plans in
+          the Pacific theater remained unchanged. However, it could be inferred that the
+          threat from regional powers in the Pacific may not have been as significant as
+          in other regions during this period.
+  - context: |-
+      This conflict between shrinking resources and expanding commitments shaped the
+      structure and operation of the U.S. Army as it entered FY 2000. To reconcile the
+      contradiction, Army leaders chose to emphasize strategic mobility to meet
+      contingencies. Illustrative of this was Operation Desert thunDer in February
+      1998, when a brigade (-) of the 3d Infantry Division deployed from Fort Stewart,
+      Georgia, to Kuwait in less than ninety-six hours in response to Iraqi
+      provocation. The Army accomplished this deployment through the use of pre-
+      positioned equipment stocks and elaborate logistical networks,  but  the
+      leadership  soon  recognized  the  expense,  inflexibility, and vulnerability of
+      this approach. These drawbacks would drive much of the Army's research and
+      development in FY 2000, as the service sought to obtain both powerful forces
+      with reduced logistical impact and supply systems less dependent on masses of
+      materiel positioned in forward areas.
+    questions_and_answers:
+      - question: |-
+          What operation did a brigade of the 3d Infantry Division deploy to in less than
+          ninety-six hours in response to Iraqi provocation?
+        answer: Operation Desert thunDer in Kuwait
+      - question: |-
+          What measures did the Army take to accomplish the rapid deployment in Operation
+          Desert thunDer?
+        answer: The Army used pre-positioned equipment stocks and elaborate logistical
+          networks
+      - question: |-
+          Given the drawbacks of this approach, what was the main focus of the Army's
+          research and development in FY 2000?
+        answer: |-
+          The Army sought to obtain both powerful forces with reduced logistical impact
+          and supply systems less dependent on masses of materiel positioned in forward
+          areas.
+document_outline: |
+  US Army Historical Fiscal Year Summaries.
+document:
+  repo: https://github.com/pdavis327/west-point-poc
+  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  patterns:
+    - assets/docling_out/*.md
