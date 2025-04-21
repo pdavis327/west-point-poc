@@ -1,0 +1,1161 @@
+version: 3
+domain: Military History
+created_by: pdavis
+seed_examples:
+  - context: |-
+      Since 1969, the U.S. Army Center of Military History has produced the Department
+      of the Army Historical Summary (DAHSUM) as an annual publication. The Center has
+      combined fiscal years 1990 and 1991 into a single volume, however, for greater
+      continuity and coherence in the coverage of the events surrounding Operation
+      DESERT SHIELD/ DESERT STORM, which overlapped those two years. An overview of
+      the successes and problems of major Army programs, the DAHSUM seeks to provide a
+      record similar to, but more concise than, that published in the annual reports
+      of the Secretary of War from 1822 to World War II and in the Army 's portion of
+      the Semiannual Report of the Secretary of Defense from 1949 through 1968.
+    questions_and_answers:
+      - question: |-
+          When was the Department of the Army Historical Summary (DAHSUM) first produced
+          by the U.S. Army Center of Military History?
+        answer: '1969'
+      - question: |-
+          What is the purpose of the DAHSUM and what historical documents does it resemble
+          in terms of its content and structure?
+        answer: |-
+          The DAHSUM provides a concise record of major Army programs, similar to the
+          annual reports of the Secretary of War from 1822 to World War II and the Army's
+          portion of the Semiannual Report of the Secretary of Defense from 1949 through
+          1968. Its purpose is to provide a historical summary of the Army's activities.
+      - question: |-
+          Why did the U.S. Army Center of Military History combine fiscal years 1990 and
+          1991 into a single volume of the DAHSUM?
+        answer: |-
+          The two years were combined to ensure greater continuity and coherence in the
+          coverage of the events surrounding Operation DESERT SHIELD/ DESERT STORM, which
+          overlapped those two years.
+  - context: |-
+      , 1 = Active Component Drawdown. , 2 = 33. , 1 = Recruitment. , 2 = 35. , 1 =
+      Civilian Personnel. , 2 = 37. , 1 = Women in the Army. , 2 = 41. , 1 = Ethnic
+      Groups. , 2 = 42. , 1 = Operation DESERT SHIELD/DESERT STORM. , 2 = 42. , 1 =
+      Discipline Indicators. , 2 = 43. , 1 = Conclusion. , 2 = 44. 4., 1 = SUPPORT
+      SERVICES. 4., 2 = 45. .., 1 = Housing. .., 2 = 45. , 1 = Morale, Welfare, and
+      Recreation. , 2 = 47. , 1 = Family Support. , 2 = 50. , 1 = Health Care. , 2 =
+      52. , 1 = The Army Safety Program. , 2 = 53. , 1 = Pay and Travel. , 2 = 54. , 1
+      = Clothing and Individual Equipment. , 2 = 57. , 1 = Food and Commissary
+      Services. , 2 = 59. , 1 = Memorial Affairs. , 2 = 61. , 1 = Conclusion. , 2 =
+      62. 5., 1 = TRAINING. 5., 2 = 63. .., 1 = Individual Training. .., 2 = 64
+    questions_and_answers:
+      - question: |-
+          Based on the information provided, can we infer a correlation between the number
+          of women in the Army and the number of ethnic groups represented?
+        answer: No, the passage does not provide information to support this inference.
+  - context: |-
+      6.,  = MODERNIZING AND EQUIPPING THE ARMY. 6., Page = 79. ..,  = Modernization:
+      Into the Post-Cold War Era. .., Page = 79. ,  = Armored Systems. , Page = 82. ,
+      = Aviation. , Page = 83. ,  = Air and Missile Defense. , Page = 84. ,  = Fire
+      Support. , Page = 85. ,  = Combat Support/Combat Service Support. , Page = 87. ,
+      = Reserve Components Modernization. , Page = 88. ,  = The Army's Role in the
+      Strategic Defense Initiative. , Page = 89. ,  = The Army in Space. , Page = 89.
+      7.,  = MOBILIZING, DEPLOYING, AND SUSTAINING THE ARMY. 7., Page = 91. ..,  =
+      Mobilization. .., Page = 92. ,  = Deployment. , Page = 96. ,  = Sustainment. ,
+      Page = 98
+    questions_and_answers:
+      - question: What is the title of the section on page 82?
+        answer: Armored Systems
+  - context: |-
+      1., GLOSSARY.APPENDIX A. Organization of the Department of the Army.Tables = FY
+      90 and 91 Active Component Divisions. 1., 161..Page = 107. 2., GLOSSARY.APPENDIX
+      A. Organization of the Department of the Army.Tables = FY 90 Active Component
+      (AC) Divisions With Reserve Component (RC) Roundout Brigades. 2., 161..Page =
+      108. 3., GLOSSARY.APPENDIX A. Organization of the Department of the Army.Tables
+      = FY 91 Active Component (AC) Divisions With Reserve Component (RC) Roundout
+      Brigades. 3., 161..Page = 109. 4., GLOSSARY.APPENDIX A. Organization of the
+      Department of the Army.Tables = Reserve Component (National Guard) Divisions.
+      4., 161..Page = 110. 5., GLOSSARY.APPENDIX A. Organization of the Department of
+      the Army.Tables = Separate Brigades and Armored Cavalry Regiments. 5., 161..Page
+      = 111. 6., GLOSSARY.APPENDIX A. Organization of the Department of the
+      Army.Tables = Ranger Regiments and Special Forces Groups (SFG). 6., 161..Page =
+      113. 7., GLOSSARY.APPENDIX A. Organization of the Department of the Army.Tables
+      = BRAC II Realignment and Closure Recommendations. 7., 161..Page = 115. 8.,
+      GLOSSARY.APPENDIX A. Organization of the Department of the Army.Tables = BRAC 91
+      Realignment and Closure Recommendations. 8., 161..Page = 116. 9.,
+      GLOSSARY.APPENDIX A. Organization of the Department of the Army.Tables = Army
+      Budget Summary. 9., 161..Page = 129. 10., GLOSSARY.APPENDIX A. Organization of
+      the Department of the Army.Tables = Corps of Engineers Civil Appropriations.
+      10., 161..Page = 134
+    questions_and_answers:
+      - question: |-
+          What is the page number for the FY 90 Active Component Divisions With Reserve
+          Component Roundout Brigades?
+        answer: '108'
+      - question: |-
+          What are the different types of tables provided in Appendix A of the
+          Organization of the Department of the Army?
+        answer: |-
+          The tables provided in Appendix A of the Organization of the Department of the
+          Army include FY 90 and 91 Active Component Divisions, FY 90 Active Component
+          Divisions With Reserve Component Roundout Brigades, FY 91 Active Component
+          Divisions With Reserve Component Roundout Brigades, Reserve Component (National
+          Guard) Divisions, Separate Brigades and Armored Cavalry Regiments, Ranger
+          Regiments and Special Forces Groups, BRAC II Realignment and Closure
+          Recommendations, BRAC 91 Realignment and Closure Recommendations, Army Budget
+          Summary, and Corps of Engineers Civil Appropriations.
+      - question: |-
+          Based on the provided context, what can be inferred about the purpose of
+          Appendix A in the Organization of the Department of the Army?
+        answer: |-
+          Appendix A in the Organization of the Department of the Army appears to be a
+          comprehensive reference guide for various components of the Army, providing
+          detailed tables on active and reserve divisions, separate brigades, ranger
+          regiments, special forces groups, and budget summaries, among others.
+  - context: |-
+      Fiscal years (FYs) 90 and 91 witnessed dramatic changes in the world order and
+      the international security environment. While many nations became more
+      politically independent, economic interdependence also increased. New centers of
+      political and economic influence were evolving. America's North Atlantic Treaty
+      Organization (NATO) allies pursued their national interests more assertively,
+      while Japan and other nations of the Pacific Rim advanced their positions in the
+      world order. U.S. leaders maintained serious concerns about a series of
+      international security issues. These issues included the proliferation of
+      nuclear, chemical, and missile technologies among many developing nations;
+      statesponsored terrorism; insurgency; the subversion of legitimate governments;
+      and international drug trafficking. On a brighter note, positive changes
+      occurred among many Communist nations during FY 90 and 91. The Soviet Union and
+      other members of the Warsaw Pact took giant steps toward renouncing communism
+      and adopting free elections and private enterprise.
+    questions_and_answers:
+      - question: |-
+          Which two international organizations were mentioned as having significant
+          changes in FY 90 and 91?
+        answer: North Atlantic Treaty Organization (NATO) and the Warsaw Pact
+      - question: |-
+          What were the main concerns of U.S. leaders regarding international security
+          during FY 90 and 91?
+        answer: |-
+          Proliferation of nuclear, chemical, and missile technologies among many
+          developing nations; statesponsored terrorism; insurgency; the subversion of
+          legitimate governments; and international drug trafficking
+      - question: |-
+          Based on the described changes, why might U.S. leaders have been concerned about
+          the proliferation of nuclear, chemical, and missile technologies during FY 90
+          and 91?
+        answer: |-
+          The increased political independence of many nations, coupled with the rise of
+          new centers of political and economic influence, could have led to unstable
+          situations where these technologies could be misused or fall into the wrong
+          hands, posing a threat to international security.
+  - context: |-
+      In the late 1980s Soviet General Secretary Mikhail Gorbachev had reinforced his
+      perestroika ("restructuring of the Soviet economy") and glasnost ("openness")
+      initiatives with several other strategies. Arms reduction agreements,
+      demonstrated by the Intermediate-Range Nuclear Forces (INF) Treaty of June 1988,
+      was one of them. Unilateral reductions in the Soviet armed forces was another.
+      In December 1988 Gorbachev announced a Soviet troop withdrawal from central
+      Europe. Gorbachev complemented this move with his plan to reduce Soviet armed
+      forces by 500,000 men, along with a substantial cut in the number of deployed
+      divisions, tanks, and artillery. U.S. national defense policymakers had
+      reservations about these events and Gorbachev's advocacy of "reasonable
+      sufficiency" for the Soviet defense establishment. They saw Gorbachev's
+      proclaimed interest in paring Soviet military posture strongly influenced by an
+      ulterior intent to modernize Soviet forces, especially with high-technology
+      conventional weapons that the severely weakened Soviet economy could not
+      produce.
+    questions_and_answers:
+      - question: |-
+          What was one of the strategies Gorbachev used to reinforce his perestroika and
+          glasnost initiatives?
+        answer: |-
+          Arms reduction agreements, demonstrated by the Intermediate-Range Nuclear Forces
+          (INF) Treaty of June 1988.
+      - question: What were the key military changes Gorbachev announced in the late
+          1980s?
+        answer: |-
+          Gorbachev announced a Soviet troop withdrawal from central Europe, planned to
+          reduce Soviet armed forces by 500,000 men, and significantly cut the number of
+          deployed divisions, tanks, and artillery.
+      - question: |-
+          Given Gorbachev's advocacy of 'reasonable sufficiency' for the Soviet defense
+          establishment, what might have been his ulterior motive for paring Soviet
+          military posture?
+        answer: |-
+          Gorbachev's proclaimed interest in paring Soviet military posture was likely
+          influenced by an ulterior intent to modernize Soviet forces, especially with
+          high-technology conventional weapons that the severely weakened Soviet economy
+          could not produce.
+  - context: |-
+      Solidarity movement won the June 1989 elections, which led to the popular
+      election of Lech Walesa as prime minister the next year. Reacting to public
+      pressure, Czechoslovakia established a cabinet with a non-Communist majority in
+      December 1989 and held its first free elections in June 1990. The Hungarian
+      Communist Party declared itself noncommunist in October 1989, and parliamentary
+      elections in April 1990 yielded a noncommunist conservative majority. Bulgaria's
+      Communist Party renounced its role as leader in national politics in December
+      1989, which resulted in the installation of a political independent as premier
+      in December 1990. A bloody anti-Communist revolution in Romania culminated in
+      the execution of Nicolae Ceausescu, the Romanian president and Communist Party
+      chief, and creation of a noncommunist regime. In East Germany the Communist
+      government of Erich Honecker was toppled in October 1989, and the opening of the
+      Berlin Wall followed on 9 November. East Germany held its first free elections
+      on 18 March 1990, and the reunification of Germany occurred on 3 October 1990.
+    questions_and_answers:
+      - question: Which country held its first free elections in June 1990?
+        answer: Czechoslovakia
+      - question: |-
+          What significant political changes occurred in Eastern Europe between October
+          1989 and October 1990?
+        answer: |-
+          Communist governments were toppled in several Eastern European countries,
+          leading to the establishment of noncommunist regimes, the holding of first free
+          elections, and the reunification of Germany.
+      - question: |-
+          Given the sequence of events, what can be inferred about the impact of the
+          Solidarity movement's victory in the 1989 elections on other Eastern European
+          countries?
+        answer: |-
+          The Solidarity movement's victory in the 1989 elections likely emboldened other
+          Eastern European countries to challenge their Communist governments, leading to
+          a wave of political changes in the region.
+  - context: |-
+      The progressive dissolution of the Warsaw Pact and the programmed withdrawal of
+      Soviet troops from central Europe in 1990 accelerated the Treaty on Conventional
+      Forces in Europe (CFE) talks between the United States and the Soviet Union.
+      Under the auspices of the Conference on Security and Cooperation in Europe
+      (CSCE), NATO and Warsaw Pact countries signed the CFE Treaty in Paris on 19
+      November 1990. Its major provisions allowed each side to retain 20,000 tanks,
+      30,000 armored combat vehicles, 20,000 artillery pieces, 6,800 combat aircraft,
+      and 2,000 attack helicopters within the area from the Atlantic to the Urals
+      (ATTU) . President George Bush declared that the CFE Treaty signaled the end of
+      the Cold War. The Vienna Document 1990, an executive agreement reached by CSCE
+      members coincident with CFE, established a yearly requirement for NATO and
+      Warsaw Pact members to exchange information on personnel
+    questions_and_answers:
+      - question: What is the name of the treaty that was signed in Paris on 19 November
+          1990?
+        answer: The Treaty on Conventional Forces in Europe (CFE) Treaty
+      - question: |-
+          What are the major provisions of the CFE Treaty in terms of the number of
+          military equipment each side is allowed to retain?
+        answer: |-
+          Each side is allowed to retain 20,000 tanks, 30,000 armored combat vehicles,
+          20,000 artillery pieces, 6,800 combat aircraft, and 2,000 attack helicopters
+          within the area from the Atlantic to the Urals (ATTU)
+  - context: |-
+      Because of the declining threat posed by the Communist bloc and the growing
+      federal budget deficit, in the summer of 1990 the White House announced a
+      willingness to reduce substantially the U.S. defense establishment. Secretary of
+      Defense Richard B. Cheney submitted a plan to Congress in June 1990 to cut the
+      armed forces 25 percent during the next five years. He specified reductions for
+      the Army active component - a drop in personnel strength from 770,000 to 520,000
+      and a cut in divisions from 18 to 14 by 1995. President Bush publicized his
+      acceptance of a 25 percent reduction in the U.S. armed forces by 1995 during a
+      speech to the Aspen Institute Symposium on 2 August 1990. But, the President
+      also warned that the Iraqi invasion of Ku wait that very day underscored the
+      fact that the world remained a dangerous place. He wanted the cuts to be
+      accompanied by a careful and orderly restructuring of America's armed forces.
+    questions_and_answers:
+      - question: How many divisions was the Army active component planning to reduce
+          to by 1995?
+        answer: '14'
+      - question: |-
+          What were the main points of the defense establishment plan submitted by
+          Secretary of Defense Richard B. Cheney to Congress in June 1990?
+        answer: |-
+          The plan involved reducing the U.S. defense establishment substantially, cutting
+          the armed forces 25 percent during the next five years, decreasing the Army
+          active component's personnel strength from 770,000 to 520,000, and reducing the
+          number of divisions from 18 to 14 by 1995.
+      - question: |-
+          Considering the defense establishment plan and the President's warning about the
+          dangerous world, what could be the potential implications of the Iraqi invasion
+          of Kuwait for the proposed reduction in the U.S. armed forces?
+        answer: |-
+          The invasion could lead to a reevaluation of the defense cuts, as the President
+          emphasized the need for a careful and orderly restructuring of America's armed
+          forces in light of the ongoing dangers in the world.
+  - context: |-
+      In early FY 90 the Army had an active component strength of 765,000 and 5 corps.
+      Its combat units included 28 tactical divisions (18 active and 10 reserve
+      components) and 28 separate combat brigades (5 active and 23 reserve
+      components). The reserve components included more than half of the soldiers in
+      the Total Army, and one-third of the active component divisions had reserve
+      component roundout brigades. The FY 91 Defense Authorization Act directed the
+      Department of Defense (DOD) to conduct a formal study of the Total Force policy.
+      The Pentagon's resultant Total Force Policy Report to the Congress, released at
+      the end of 1991, confirmed the continued use of Army National Guard roundout
+      brigades, but Army rapid deployment units would have active component support
+      units to sustain combat operations for the first thirty days. Active component
+      strength reductions continued during FY 90 and 91, but the Army deferred formal
+      reserve component reductions pending the response of Congress to the Total Force
+      Policy Report.
+    questions_and_answers:
+      - question: What was the active component strength of the Army in early FY 90?
+        answer: 765,000
+      - question: |-
+          What percentage of the soldiers in the Total Army were in the reserve components
+          in early FY 90?
+        answer: More than half
+      - question: |-
+          Based on the information provided, if one-third of the active component
+          divisions had reserve component roundout brigades, can it be inferred that the
+          reserve components were integral to the Army's operations?
+        answer: |-
+          Yes, they were integral as they made up more than half of the soldiers in the
+          Total Army and were part of one-third of the active component divisions.
+  - context: |-
+      from more than five divisions stationed in CONUS, plus their support units, went
+      to the Persian Gulf. U.S. Forces Command (FORSCOM) activated some 145,000
+      reserve component personnel who served in CONUS, the Persian Gulf, and Europe,
+      while U.S. Army, Europe (USAREUR), sent more than 87,000 personnel to assist the
+      coalition. Operation DESERT STORM began on 17 January 1991 as coalition air
+      power systematically destroyed critical Iraqi targets. The coalition ground
+      campaign ensued on 24 February, and within a period of 100 hours, coalition
+      forces completely routed the Iraqi Army.
+    questions_and_answers:
+      - question: |-
+          How many personnel were activated by U.S. Forces Command (FORSCOM) from the
+          reserve component?
+        answer: 145,000
+      - question: What were the roles of the different U.S. forces during Operation
+          DESERT STORM?
+        answer: |-
+          S. Forces Command (FORSCOM) activated 145,000 reserve component personnel who
+          served in CONUS, the Persian Gulf, and Europe. U.S. Army, Europe (USAREUR) sent
+          more than 87,000 personnel to assist the coalition. The operation began with
+          coalition air power destroying critical Iraqi targets, followed by a ground
+          campaign that completely routed the Iraqi Army within 100 hours.
+      - question: |-
+          Given the information about the routing of the Iraqi Army within 100 hours, what
+          strategy or tactic might have contributed to this quick victory?
+        answer: |-
+          The quick victory could be attributed to the systematic destruction of critical
+          Iraqi targets by coalition air power before the ground campaign, which
+          significantly weakened the Iraqi Army's defense and morale.
+  - context: |-
+      Combat operations in Panama and the Persian Gulf did not alter the move toward
+      substantial Army manpower reductions. The Army Program Objective Memorandum
+      (POM) for 1992-97 prescribed reduction of the active component to 580,000 by the
+      end of FY 97. Project QUICKSILVER recommended reducing the TOE Army by 160,000
+      and the T DA Army by 40,000 military personnel and 57,000 civilian man-years by
+      FY 97. Active component strength stood at 765,000 at the beginning of FY 90 and
+      fell to 728,000 by year's end because of both voluntary and involuntary
+      reduction programs. These programs included a bar to reenlistment for enlisted
+      personnel and the Probationary/Conditional Voluntary Indefinite Selection Board
+      for officers. HQDA also planned to offer economic incentives to encourage
+      voluntary separations. Reduced recruiting goals and higher standards for the
+      Armed Forces Qualification Test (AFQT) also were employed to reduce the active
+      component. The active component enlisted recruiting objective of 119,901 for FY
+      89 was reduced to 87,000 for FY 90. Army standards in FY 90 stipulated that at
+      least 95 percent of new accessions have high school diplomas, while 67 percent
+      must score in the upper half, and no more than 2 percent in Category IV of the
+      AFQT.
+    questions_and_answers:
+      - question: What was the active component strength at the beginning of FY 90?
+        answer: 765,000
+      - question: What measures were taken to reduce the active component strength
+          in the Army?
+        answer: |-
+          Measures taken to reduce the active component strength in the Army included
+          voluntary and involuntary reduction programs, economic incentives for voluntary
+          separations, reduced recruiting goals, and higher standards for the Armed Forces
+          Qualification Test (AFQT).
+      - question: |-
+          Given the reduction in recruiting goals and the increase in standards for the
+          AFQT, what impact might this have had on the demographic of new recruits in the
+          Army?
+        answer: |-
+          The reduction in recruiting goals and the increase in standards for the AFQT
+          might have led to a more highly qualified and educated pool of new recruits in
+          the Army, but potentially at lower numbers due to the reduced goals.
+  - context: |-
+      With an objective of 70,668 for FY 90, the ARNG recruited 77,853 or 110.2
+      percent of its goal. For FY 90 the Army set an active component recruiting
+      objective for women with no prior service (NPS) at 12,600 and achieved a rate of
+      100.1 percent. In that year the USAR recruited 8,357 women for an achievement
+      rate of 110.4, whereas the ARNG recruited only 4,855 NPs females for a rate of
+      69.4 percent. The Army employed 455,776 civilians in FY 90 and, as with military
+      personnel, sought a 25 percent reduction of the civilian work force by FY 95.
+    questions_and_answers:
+      - question: What was the ARNG's recruiting objective for FY 90?
+        answer: 70,668
+      - question: |-
+          What were the recruitment achievements of the Army components for women with no
+          prior service in FY 90?
+        answer: |-
+          The Army achieved 100.1% of its recruiting objective for women with no prior
+          service, the USAR recruited 110.4% of its target, and the ARNG achieved 69.4% of
+          its target.
+      - question: |-
+          Given the recruitment figures for FY 90, why might the Army have sought a 25%
+          reduction in its civilian workforce by FY 95?
+        answer: |-
+          The Army achieved or exceeded its recruitment goals, indicating a possible need
+          for fewer civilian staff in the following years.
+  - context: |-
+      Although funding was limited, quality of life programs continued to receive
+      emphasis from both the Army leadership and Congress during FY 90 and 91. Budget
+      constraints on new housing resulted in concentration upon maintenance and
+      revitalization of existing structures as demonstrated by the Whole Neighborhood
+      Revitalization Program. Passed in November 1989, the Military Child Care Act
+      provided financial resources to assure minimum funding levels and also
+      improvements in the staffs of Army child care facilities. The Army Medical
+      Department (AMEDD) tried to increase the quality of medical services for Army
+      families while controlling skyrocketing medical costs. Through the Civilian
+      Health and Medical Program for Uniformed Services (CHAMPUS) Management
+      Improvement Program the Army looked to tighten review procedures for CHAMPUS
+      services and to control doctors' fees. In October 1990 the Army Surgeon General
+      introduced the Gateway to Care Program as an interim measure. The program
+      authorized local military hospital commanders to utilize both military and
+      civilian provider health care for their patients.
+    questions_and_answers:
+      - question: |-
+          What program was introduced in October 1990 to improve medical services for Army
+          families?
+        answer: The Gateway to Care Program
+      - question: |-
+          What measures were taken to improve the quality of life programs for the Army in
+          FY 90 and 91, despite budget constraints?
+        answer: |-
+          Funding was limited, but quality of life programs continued to receive emphasis.
+          Budget constraints on new housing led to a focus on maintenance and
+          revitalization of existing structures. The Military Child Care Act was passed to
+          assure minimum funding levels and improvements in the staffs of Army child care
+          facilities. The Army Medical Department tried to increase the quality of medical
+          services for Army families while controlling medical costs through the CHAMPUS
+          Management Improvement Program and the Gateway to Care Program.
+      - question: |-
+          Given the introduction of the Gateway to Care Program in October 1990, what can
+          be inferred about the Army's approach to medical services for its families?
+        answer: |-
+          The Army was looking to improve its medical services for families by introducing
+          the Gateway to Care Program, which allowed local military hospital commanders to
+          utilize both military and civilian provider health care for their patients. This
+          suggests a more flexible and comprehensive approach to medical care.
+  - context: |-
+      on-the-job injuries increased that year, but declined in FY 91. Financial
+      benefits, another quality-of-life service to soldiers, were adjusted during FY
+      90 and 91 because of JUST CAUSE and DESERT SHIELD/DESERT STORM. Participants in
+      JUST CAUSE received Imminent Danger Pay (IDP), and the Army also approved IDP
+      for service in several countries affected by DESERT SHIELD/DESERT STORM. After
+      DESERT STORM began, Army enlisted personnel were not required to pay federal
+      income tax on their military compensation for the period they served in the
+      Persian Gulf. Legislation confirmed that reserve component soldiers, called to
+      active duty for Persian Gulf service, would retain the medical insurance
+      provided by their employers and also be eligible for the variable housing
+      allowance. Active component soldiers being involuntarily separated were further
+      assisted by establishment of the Army Career and Alumni Program (ACAP) in FY 90.
+      With ACAP, the Army planned to create Transition Assistance Off ices (TAOs) at
+      various installations to help soldiers convert to civilian life.
+    questions_and_answers:
+      - question: What was the impact on on-the-job injuries in FY 91?
+        answer: On-the-job injuries declined in FY 91.
+      - question: |-
+          What changes were made to financial benefits for soldiers during FY 90 and 91
+          due to JUST CAUSE and DESERT SHIELD/DESERT STORM?
+        answer: |-
+          During FY 90 and 91, financial benefits for soldiers were adjusted due to JUST
+          CAUSE and DESERT SHIELD/DESERT STORM. This included Imminent Danger Pay (IDP)
+          for participants in JUST CAUSE and those serving in countries affected by DESERT
+          SHIELD/DESERT STORM. Army enlisted personnel were exempted from federal income
+          tax on their military compensation for the period they served in the Persian
+          Gulf. Reserve component soldiers called to active duty for Persian Gulf service
+          retained their employer-provided medical insurance and were eligible for the
+          variable housing allowance. Active component soldiers being involuntarily
+          separated were assisted by the establishment of the Army Career and Alumni
+          Program (ACAP).
+      - question: |-
+          Based on the provided context, what can be inferred about the Army's efforts to
+          assist soldiers involuntarily separated during FY 90?
+        answer: |-
+          During FY 90, the Army established the Army Career and Alumni Program (ACAP) to
+          assist soldiers being involuntarily separated. This program aimed to create
+          Transition Assistance Offices (TAOs) at various installations to help soldiers
+          convert to civilian life.
+  - context: |-
+      Army training strategy during FY 90 and 91 continued the trend toward more
+      simulated and less live training. Initiated in FY 88, the Combined Arms Training
+      Strategy (CATS) anticipated that Army training will eventually be based on
+      devices rather than supported by them. Reduced funding accelerated the
+      development of training aids, devices, simulators, and simulations (TADSS). The
+      Combined Army Tactical Training System (CATT), which performs combined arms
+      maneuvers on a simulated battlefield for crews through battalions, was networked
+      to eight active component units by the end of 1990. Begun in late 1988,
+      distributed training strategy (DTS) was intended to reduce resident training and
+      improve instructional quality. DTs will rely heavily upon new technologies -
+      computer-based instruction, interactive video disc, and video conferencing. The
+      first major DTs pilot project was assigned to the Kentucky Army National Guard
+      in 1990.
+    questions_and_answers:
+      - question: What is the name of the training strategy initiated in FY 88?
+        answer: The Combined Arms Training Strategy (CATS)
+      - question: What are the main components of the Army training strategy during
+          FY 90 and 91?
+        answer: |-
+          The Army training strategy during FY 90 and 91 was based on more simulated and
+          less live training, with a focus on the use of training aids, devices,
+          simulators, and simulations (TADSS). The Combined Army Tactical Training System
+          (CATT) was used for combined arms maneuvers on a simulated battlefield, and
+          distributed training strategy (DTS) was relied upon to reduce resident training
+          and improve instructional quality.
+      - question: |-
+          Given the shift towards simulated training and the accelerated development of
+          TADSS due to reduced funding, what can be inferred about the Army's
+          prioritization of resources during FY 90 and 91?
+        answer: |-
+          During FY 90 and 91, the Army prioritized the development and use of simulated
+          training over live training, indicating a strategic shift towards more cost-
+          effective and potentially safer training methods.
+  - context: |-
+      In FY 90 the Army 's Leadership Assessment and Development Program (LADP) was
+      implemented in selected Army schools for both senior non-commissioned officers
+      (NCOs) and officers. The Chief of Staff authorized the SelfDevelopment Test
+      (SDT) for enlisted personnel as an eve n t u a l replacement for the Skill
+      Qualification Test (SQT). The SDT combines Military Occupational Specialty (MOS)
+      questions with other questions on training and leadership. Military
+      Qualification Standards (MQS) is the Army 's evolving officer leader development
+      system, based on common tasks and professional knowledge. The manual for MQS I,
+      on the subject of precommissioning training, was revised and distributed in
+      1990, while the manual for MQS II, regarding company-grade officers, was
+      released in FY 91. Army officials expressed serious concern in 1991 that DESERT
+    questions_and_answers:
+      - question: |-
+          What is the name of the eventual replacement for the Skill Qualification Test
+          (SQT) for enlisted personnel?
+        answer: The SelfDevelopment Test (SDT)
+      - question: |-
+          What are the two manuals released for the Military Qualification Standards (MQS)
+          system?
+        answer: |-
+          MQS I and MQS II, with MQS I focusing on precommissioning training and MQS II on
+          company-grade officers
+  - context: |-
+      Army unit training was influenced during FY 90 and 91 by both budget constraints
+      and DESERT SHIELD/DESERT STORM. The Persian Gulf war reduced unit rotations at
+      the National Training Center (NTC) from twelve in FY 90 to five in FY 91. The
+      Battle Command Training Program, which trains division and corps staffs by a
+      warfighter computer battle simulation exercise, reduced its CONUS program in FY
+      91, but provided special training to Army divisions and corps that served in the
+      Persian Gulf. REFORGER, an annual joint/combined exercise, was postponed in 1989
+      to 1990; while REFORGER 91 relied heavily upon simulations and employed only
+      28,000 allied troops. Overseas deployment training (ODT) for the reserve
+      components was reduced from 40,000 in FY 90 to 28,000 in FY 91. When DESERT
+      SHIELD began in August 1990, Army training and combat developers considered the
+      Total Army fundamentally ready for war. Three activated ARNG roundout brigades -
+      48th Infantry of Georgia, 155th Armored of Mississippi, and the 256th Infantry
+      of Louisiana - revealed some deficiencies in combat readiness, but the Army
+      leadership considered this normal for reserve component units that train only
+      part-time.
+    questions_and_answers:
+      - question: How many allied troops were employed during REFORGER 91?
+        answer: 28,000
+      - question: |-
+          What were the changes in the Army unit training during FY 90 and FY 91 in terms
+          of budget constraints, DESERT SHIELD/DESERT STORM, and the number of unit
+          rotations at the National Training Center?
+        answer: |-
+          Budget constraints and DESERT SHIELD/DESERT STORM influenced Army unit training
+          in FY 90 and FY 91. The number of unit rotations at the National Training Center
+          reduced from twelve in FY 90 to five in FY 91. Overseas deployment training for
+          the reserve components was also reduced from 40,000 in FY 90 to 28,000 in FY 91.
+      - question: |-
+          Based on the information provided, why were the three activated ARNG roundout
+          brigades considered to have some deficiencies in combat readiness?
+        answer: |-
+          The three activated ARNG roundout brigades - 48th Infantry of Georgia, 155th
+          Armored of Mississippi, and the 256th Infantry of Louisiana - were considered to
+          have some deficiencies in combat readiness because they train only part-time as
+          reserve component units.
+  - context: |-
+      The Army reassessed its modernization strategy and adopted several guiding
+      principles - keep costs down by fielding equipment to units based on the
+      priority of scheduled deployment times; future weapons systems must be lethal,
+      but maximize soldier and weapon survivability; new technologies must have
+      additional modernization possibilities and be acquired before potential enemies
+      obtain them; new weapons systems must be reliable and simple to operate and
+      maintain, and they must require minimal training.
+    questions_and_answers:
+      - question: |-
+          What is one of the guiding principles for the Army's modernization strategy
+          regarding the priority of deployment times?
+        answer: |-
+          The Army's modernization strategy prioritizes fielding equipment to units based
+          on the priority of scheduled deployment times.
+      - question: |-
+          What are two key considerations for the Army's new weapons systems according to
+          their modernization strategy?
+        answer: |-
+          The Army's new weapons systems must be lethal and maximize soldier and weapon
+          survivability, and they must be reliable, simple to operate and maintain, and
+          require minimal training.
+      - question: |-
+          Given the Army's modernization strategy, why is it important to acquire new
+          technologies before potential enemies?
+        answer: |-
+          According to the Army's modernization strategy, new technologies must be
+          acquired before potential enemies obtain them to ensure a strategic advantage.
+  - context: |-
+      Although some weapons systems already in production would continue, Army
+      planners decided in FY 91 to focus on modernizing by acquir- ing technically
+      advanced new weapons systems rather than upgrading existing ones. For example,
+      the revised Armored Systems Modernization (ASM) plan curtailed M1A1 and M1A2
+      tank production in preference to the Block III. The ASM sought a heavy chassis
+      for the Block III tank that would also be used by the Combat Mobility Vehicle
+      (CMV), the Advanced Field Artillery System (AFAS), and the Infantry Fighting
+      Vehicle (IFV). Product development and procurement continued during FY 90 and 91
+      for a series of systems that included the Light Helicopter (LHX) Comanche, the
+      Forward Area Air Defense System (FAADS), and the High Mobility Multipurpose
+      Wheeled Vehicle (HMMWV). Reserve component modernization proceeded as USAR units
+      received HMMWVs and M939 series 5- ton trucks. Pledges of equipment to the ARNG
+      by HQDA included M1 or M60A3 thermal sight tanks for its armor units and Apache
+      helicopters for twelve of its aviation attack battalions. Responsible for the
+      ground-based, surface-to-air air defense of the United States, the Army
+      contributed to the Strategic Defense Initiative (SDI) during FY 90 and 91 by
+      ongoing experiments with the free electron laser, with the neutral particle
+      beam, and with artificial intelligence. In 1990 the Army Space Council approved
+      research and development for tactical satellites that would perform intelligence
+      and antijam communications functions for tactical commanders.
+    questions_and_answers:
+      - question: |-
+          What type of tanks were prioritized for production in the revised Armored
+          Systems Modernization plan?
+        answer: The Block III tank
+      - question: |-
+          What were the main systems that continued product development and procurement
+          during FY 90 and 91?
+        answer: |-
+          The Light Helicopter (LHX) Comanche, the Forward Area Air Defense System
+          (FAADS), and the High Mobility Multipurpose Wheeled Vehicle (HMMWV)
+  - context: |-
+      The ability to mobilize, deploy, and sustain its forces effectively for combat
+      operations has long been a major concern of the Army. Evidence of this concern
+      has been demonstrated by various programs in recent years - CAPSTONE; the Army
+      Mobilization and Operations Planning System (AMOPS); various mobilization and
+      training exercises, such as OPTIMAL FOCUS and REFORGER; and annual screenings of
+      IRRs. The brief duration and operational security needs of JUST CAUSE did not
+      favor mobilization of reserve component units, while thorough rehearsing ensured
+      almost flawless deployment. Mobilization, deployment, and sustainment for DESERT
+      SHIELD/DESERT STORM presented major challenges to the Army leadership for a
+      number of reasons. These reasons included no stationing of U.S. troops or
+      stockpiling of military materiel in the Middle East, an 8,700-mile supply line
+      from CONUS, and the piecemeal activation of reserve component combat service
+      support personnel. The demand for strategic lift saw the first activation of the
+      Civilian Reserve Air Fleet (CRAF) by the president and expensive chartering of
+      foreign-flag commercial ships because of deficiencies in the Ready Reserve Force
+      (RRF).
+    questions_and_answers:
+      - question: |-
+          What was the impact of the 8,700-mile supply line from CONUS on the Army
+          leadership during DESERT SHIELD/DESERT STORM?
+        answer: |-
+          The 8,700-mile supply line from CONUS presented a major challenge to the Army
+          leadership during DESERT SHIELD/DESERT STORM.
+      - question: |-
+          What were the main reasons that mobilization, deployment, and sustainment for
+          DESERT SHIELD/DESERT STORM presented major challenges to the Army leadership?
+        answer: |-
+          The main reasons were the lack of stationing of U.S. troops or stockpiling of
+          military materiel in the Middle East, an 8,700-mile supply line from CONUS, and
+          the piecemeal activation of reserve component combat service support personnel.
+      - question: |-
+          Based on the challenges faced during DESERT SHIELD/DESERT STORM, what could have
+          been improved in the Army's mobilization, deployment, and sustainment
+          strategies?
+        answer: |-
+          The Army could have improved its strategies by considering the stationing of
+          U.S. troops or stockpiling of military materiel in the Middle East, improving
+          the readiness of the Ready Reserve Force, and ensuring the availability of
+          strategic lift.
+  - context: |-
+      Hard work by Army logisticians and transporters, and a fortuitous interlude
+      between the beginning of DESERT SHIELD and the onset of DESERT STORM, helped the
+      Army to perform its transportation and logistical tasks in Southwest Asia. Other
+      factors eased the formidable effort. Pre-positioning of materiel configured to
+      unit sets (POMCUS) in Europe, which consisted of company and battalion equipment
+      packages, facilitated the equipping of units which deployed early for DESERT
+      SHIELD. The Army's war reserve stocks, especially ammunition and preferred/smart
+      munitions, proved useful. Several Persian Gulf states contributed valuable
+      wartime host nation support (WHNS); a primary example was provision by Saudi
+      Arabia of vast quantities of fuel.
+    questions_and_answers:
+      - question: What is one of the countries that provided valuable wartime host
+          nation support?
+        answer: Saudi Arabia
+      - question: |-
+          What are two ways in which the Army was able to perform its transportation and
+          logistical tasks in Southwest Asia during DESERT SHIELD and DESERT STORM?
+        answer: |-
+          Through the hard work of Army logisticians and transporters, and the pre-
+          positioning of materiel configured to unit sets in Europe.
+  - context: |-
+      The Army performed a variety of special functions for the civilian sector in
+      both the United States and foreign countries during FY 90 and 91. These
+      functions included civil works, water projects, the war against drugs,
+      improvement and preservation of the environment, and relief for the local
+      populace following both natural disasters and the destructive effects of war. As
+      part of President Bush's new attack on the illegal drug traffic in FY 89, HQDA
+      produced the Army Counter-Narcotics Plan in April 1990. The plan essentially
+      reinforced existing Army assistance, which included intelligence, loan of
+      equipment, and training of law enforcement personnel in combat and jungle
+      operations. In November 1989 the Commander in Chief, U.S. Forces Command (CINC-
+      FORSCOM), formed Joint Task Force Six at Fort Bliss, Texas, to coordinate Army
+      support to the war against illegal drugs along the Southwest border. By April
+      1991 U.S. Southern Command (SOUTHCOM) had e l even ant drug training teams in
+      five Latin American countries. The ARNG had participated in the drug war for
+      thirteen years, and in FY 90 it took a direct part in twenty-five counterdrug
+      operations while under state control.
+    questions_and_answers:
+      - question: What is the name of the Army Counter-Narcotics Plan producer?
+        answer: HQDA
+      - question: What are the roles of the Army in the war against drugs?
+        answer: |-
+          The Army's roles in the war against drugs include providing intelligence,
+          loaning equipment, and training law enforcement personnel in combat and jungle
+          operations. The Army also participates in the drug war under state control and
+          has formed joint task forces and training teams in various countries.
+      - question: |-
+          Based on the Army's roles in the war against drugs, why was the Army Counter-
+          Narcotics Plan produced?
+        answer: |-
+          The Army Counter-Narcotics Plan was produced to reinforce existing Army
+          assistance in the war against drugs, which included intelligence, loan of
+          equipment, and training of law enforcement personnel in combat and jungle
+          operations.
+  - context: |-
+      Growing concerns within the civilian sector about environmental protection and
+      preservation affected the Army during FY 90 and 91. In the mid-1980s the Army
+      had initiated a twenty-year program to clean up pollution on its properties. The
+      FY 90 Defense Authorization Act directed the DOD to prepare a report by early FY
+      92 on its long-range environmental goals. One interim measure directed by HQDA
+      created the Integrated Training Area Management Program in 1990 that emphasized
+      avoiding, as well as repairing, damage to the environment. In FY 91 the Army
+      allocated $350 million for environmental cleanup, and an Environmental
+      Compliance Achievement Program was created to help commanders comply with
+      federal and state environmental laws. Despite these increased efforts, the Army
+      received 173 Notice of Violation statements that cited 418 separate violations
+      at its various installations in FY 90. These violation charges resulted in a
+      series of ongoing civil suits against the Army.
+    questions_and_answers:
+      - question: How much money was allocated by the Army for environmental cleanup
+          in FY 91?
+        answer: $350 million
+      - question: |-
+          What measures were taken by the Army in response to growing environmental
+          concerns in FY 90 and 91?
+        answer: |-
+          The Army initiated a twenty-year program for pollution cleanup, prepared a
+          report on long-range environmental goals, created the Integrated Training Area
+          Management Program to avoid and repair environmental damage, and allocated $350
+          million for environmental cleanup. They also established an Environmental
+          Compliance Achievement Program to help commanders comply with environmental
+          laws.
+      - question: |-
+          Based on the number of Notice of Violation statements received by the Army in FY
+          90, what can be inferred about the Army's environmental compliance during that
+          period?
+        answer: |-
+          The Army received 173 Notice of Violation statements that cited 418 separate
+          violations at its various installations in FY 90, indicating a significant level
+          of non-compliance with environmental regulations during that period.
+  - context: |-
+      roles and missions were not substantially altered, the Army began a series of
+      changes and belt-tightening that had broad ramifications. These changes included
+      a shift in AirLand Battle concepts from high- to low- intensity conflict, along
+      with a reduced forward presence and the need for an enhanced ability to project
+      military power from CONUS. Other major changes during this period were a planned
+      reduction of active component strength from 765,000 troops in FY 90 to 580,000
+      by FY 97, and anticipated future budget cuts that would follow the Army's 7
+      percent cut in FY 91. Less money also meant difficulty in attracting and
+      retaining high-quality personnel, slowed improvement in quality of life
+      programs, a continued trend toward more simulated and less live training, and
+      highly selective modernization that emphasized acquiring the most technically
+      advanced new weapons systems.
+    questions_and_answers:
+      - question: What was the planned reduction in active component strength from
+          FY 90 to FY 97?
+        answer: The planned reduction was from 765,000 troops in FY 90 to 580,000
+          by FY 97.
+      - question: |-
+          What were the major changes the Army underwent in terms of force reduction,
+          budget, and training during this period?
+        answer: |-
+          The Army planned to reduce its active component strength from 765,000 troops in
+          FY 90 to 580,000 by FY 97, anticipated future budget cuts, and faced difficulty
+          in attracting and retaining high-quality personnel due to less money. The
+          training also shifted towards more simulated and less live training due to
+          budget constraints.
+  - context: |-
+      As the U.S. Army began the last decade of the twentieth century, it faced
+      uncertain times and substantial downsizing, even though on two occasions during
+      FY 90 and 91 it engaged in major military operations. The first was Operation
+      JUST CAUSE, the U.S. invasion of Panama in December 1989 that resulted in the
+      ouster of dictator Manuel Noriega and the restoration of a popularly elected
+      government. The second was Operation DESERT SHIELD/DESERT STORM, a U.S.-led
+      international coalition assembled to turn back Iraq's blatant aggression against
+      neighboring Ku wait. On both occasions the U.S. Army rose to the task, employing
+      a force made up of the best trained personnel and most modern equipment ever
+      assembled. These operations confirmed the trend enunciated in President George
+      Bush's August 1990 speech at Aspen, Colorado. He spoke of the need to plan for
+      regional conflicts, rather than emphasize a global strategy based on preparation
+      for a Soviet attack in Western Europe. Coupled with this change was the need to
+      reduce the number and complexity of operational plans by calling on each theater
+      to refocus on the increasing threat from regional powers, such as Iraq. Only the
+      operational plans in the Pacific theater remained unchanged during FY 90 and 91.
+    questions_and_answers:
+      - question: What was the name of the U.S. invasion of Panama in December 1989?
+        answer: Operation JUST CAUSE
+      - question: |-
+          What were the two major military operations the U.S. Army was engaged in at the
+          beginning of the last decade of the twentieth century?
+        answer: Operation JUST CAUSE and Operation DESERT SHIELD/DESERT STORM
+      - question: |-
+          Given the change in operational plans from a global strategy to a regional
+          focus, why did the operational plans in the Pacific theater remain unchanged
+          during FY 90 and 91?
+        answer: |-
+          The text does not provide specific information on why the operational plans in
+          the Pacific theater remained unchanged. However, it could be inferred that the
+          threat from regional powers in the Pacific may not have been as significant as
+          in other regions during this period.
+  - context: |-
+      Despite these new challenges, the public mood continued to call for a smaller
+      military establishment. The end of the Cold War heralded the beginning of a
+      historical process that has traditionally resulted in the drastic downsizing of
+      the military force structure, regardless of long-term policies. Rapidly changing
+      foreign developments and new fiscal realities within the United States, however,
+      have not altered the fact that the world remains a dangerous place. In the words
+      of Secretary of the Army Michael P. W. Stone, "Our nation faces a significantly
+      more complex and varied security environment than at any time in our history.
+      The question we now face is whether our Army is properly structured and equipped
+      to meet the emerging strategic requirements of the 1990s and beyond." The Army
+      continued to maintain a presence throughout the world, although 1990 and 1991
+      saw the United States turn over more defense responsibilities to other nations.
+    questions_and_answers:
+      - question: |-
+          What historical process has traditionally resulted in the drastic downsizing of
+          the military force structure?
+        answer: |-
+          The end of major conflicts has traditionally resulted in the drastic downsizing
+          of the military force structure.
+      - question: What is the current state of defense responsibilities in the United
+          States?
+        answer: |-
+          The United States has been turning over more defense responsibilities to other
+          nations.
+      - question: |-
+          Given the Secretary of the Army's statement about the complexity of the current
+          security environment, why might the Army need to be properly structured and
+          equipped?
+        answer: |-
+          The Army needs to be properly structured and equipped to meet the emerging
+          strategic requirements of the 1990s and beyond, as the current security
+          environment is significantly more complex and varied than at any time in
+          history.
+  - context: |-
+      U.S. Army forces in the western hemisphere are divided into two commands, U.S.
+      Forces Command (FORSCOM), a specified command, and U.S. Army South (USARSO), the
+      Army component of U.S. Southern Command (SOUTHCOM), a unified command. Based in
+      Panama , USARSO consists of the 193d Infantry Brigade, the 228th Aviation
+      Brigade, the 470th Military Intelligence Brigade, the 106th Signal Brigade, the
+      41st Area Support Group, the 3d Special Operations Support Command, the Military
+      Police Command, the 536th Engineer Battalion, and the U.S. Army Garrison,
+      Panama. The remainder of Army forces in the western hemisphere are part of
+      FORSCOM, which encompasses all combat, combat support, and combat service
+      support units - active and reserve - in CONUS, the Commonwealth of Puerto Rico,
+      and the U.S. Virgin Islands. In FY 90 FORSCOM had an authorized strength of
+      1,008,692 and an operating strength of 984,216. In FY 91 the authorized total
+      dropped to 995,138, with an actual operating strength of 966,064.
+    questions_and_answers:
+      - question: What is the name of the U.S. Army component of U.S. Southern Command
+          (SOUTHCOM)?
+        answer: USARSO
+      - question: |-
+          What are the two commands into which U.S. Army forces in the western hemisphere
+          are divided?
+        answer: S. Forces Command (FORSCOM) and U.S. Army South (USARSO)
+      - question: |-
+          Based on the strength figures, can we infer a trend in the size of FORSCOM in FY
+          90 and FY 91?
+        answer: |-
+          Yes, there is a slight decrease in the authorized total and actual operating
+          strength of FORSCOM from FY 90 to FY 91.
+  - context: |-
+      FORSCOM commanded five armies within CONUS, the First, Second, Fourth, Fifth,
+      and Sixth; the Third U.S. Army (TUSA), a field army which served as U.S. Army
+      Forces Central Command (ARCENT) during Operation DESERT SHIELD/DESERT STORM;
+      three corps - I Corps, III Corps, and XVIII Airborne Corps; 11 divisions; plus
+      hundreds of attached units of battalion and company size. In FY 91 FORSCOM lost
+      two divisions, the 2d Armored and the 9th (Motorized), although the 199th
+      Infantry Brigade was taken from the 9th Division and restored as an independent
+      unit. The FORSCOM mission included planning and conducting joint exercises,
+      defending the land mass of the United States, planning for the common defense
+      with Canadian authorities, and supporting civil defense. As a major Army
+    questions_and_answers:
+      - question: |-
+          What is the name of the field army which served as U.S. Army Forces Central
+          Command (ARCENT) during Operation DESERT SHIELD/DESERT STORM?
+        answer: The Third U.S. Army (TUSA)
+      - question: |-
+          How many divisions did FORSCOM lose in FY 91 and what was the status of the
+          199th Infantry Brigade?
+        answer: |-
+          FORSCOM lost two divisions, the 2d Armored and the 9th (Motorized), but the
+          199th Infantry Brigade was taken from the 9th Division and restored as an
+          independent unit.
+  - context: |-
+      operations. In the spring of 1990, personnel from the Second Army aided the
+      Federal Emergency Management Agency (FEMA) in disaster relief following severe
+      flooding in Alabama. In June aviation units from Fort Campbell, Kentucky, helped
+      relieve citizens left homeless by tornados in southern Indiana. In northern
+      California and eastern Oregon, Army personnel from Fort Ord, California , and
+      Fort Lewis, Washington, supported firefighting efforts. Early in FY 90 FORSCOM
+      supported 35 counternarcotic operations; in FY91 the figure jumped to 164. Two
+      FORSCOM operations in support of LANTCOM, Operation BAHAMAS and TURKS CAICOS and
+      Operation BLUEWATER, ran through 1991 and continued into the next fiscal year.
+    questions_and_answers:
+      - question: Which Army division provided aid to Alabama in the spring of 1990?
+        answer: The Second Army
+      - question: |-
+          How many counternarcotic operations did FORSCOM support in FY 90 and FY 91
+          respectively?
+        answer: FORSCOM supported 35 counternarcotic operations in FY 90 and 164 in
+          FY 91
+      - question: |-
+          Based on the provided context, can we infer a possible connection between the
+          increase in counternarcotic operations and the continuation of Operations
+          BAHAMAS and TURKS CAICOS and Operation BLUEWATER into the next fiscal year?
+        answer: |-
+          The text does not provide enough information to definitively establish a causal
+          relationship between these two factors.
+  - context: |-
+      FORSCOM units had no sooner completed Operation JUST CAUSE and various civic
+      action projects than they were alerted to bolster Operation DESERT SHIELD, the
+      U.S. response to Iraqi aggression in Kuwait. Beginning 6 August 1990, FORSCOM
+      formed a battle staff with 24-hour support to monitor deployment to the Persian
+      Gulf. The battle staff remained in place throughout FY 90. According to FORSCOM
+      commander General Edwin H. Burba, Jr., FORSCOM provided oversight for most of
+      the Army's mobilization and deployment effort. General Burba further said that
+      "CONUS Armies were clearly the workhorses of the operation." In excess of
+      140,000 active component soldiers from more than 5 divisions, along with their
+      affiliated combat support and combat service support units, were sent from CONUS
+      to the Persian Gulf. FORSCOM also called up more than 145,000 National Guardsmen
+      and Army reservists who served either in CONUS, the Persian Gulf, or Europe.
+    questions_and_answers:
+      - question: |-
+          How many active component soldiers were sent from CONUS to the Persian Gulf
+          during Operation DESERT SHIELD?
+        answer: In excess of 140,000
+      - question: |-
+          What was the total number of soldiers, both active component and reserves, that
+          FORSCOM deployed or called up during Operation DESERT SHIELD?
+        answer: More than 285,000
+      - question: |-
+          Based on the information provided, why can it be inferred that CONUS Armies were
+          the 'workhorses' of Operation DESERT SHIELD?
+        answer: |-
+          Because CONUS Armies accounted for the majority of the Army's mobilization and
+          deployment effort, with over 140,000 active component soldiers and an additional
+          145,000 National Guardsmen and Army reservists called up.
+  - context: |-
+      On 1 October 1990, Army Chief of Staff General Carl E. Vuono directed the
+      FORSCOM commander to establish the U.S. Army Reserve Command (USARC) as a major
+      subordinate command. On 31 January 1991, FORSCOM provided a USARC Concept Plan
+      (CONPLAN) that HQDA approved on 14 March. The CONPLAN called for transition of
+      operational functions from FORSCOM and Fourth U.S. Army to USARC from April
+      through September 1991 that would culminate in assumption of command and control
+      of the Fourth Army Reserve units by USARC on 1 October 1991. In addition, First
+      and Second Armies would gradually transfer Reserve functions to USARC during the
+      peri- od of October 1991 through June 1992. Fifth and Sixth Armies would follow
+      by 1 October 1992.
+    questions_and_answers:
+      - question: |-
+          When was the U.S. Army Reserve Command (USARC) established as a major
+          subordinate command?
+        answer: 1 October 1990
+      - question: |-
+          What is the timeline for the transition of operational functions from FORSCOM,
+          Fourth U.S. Army, First and Second Armies to USARC?
+        answer: |-
+          April through September 1991 for FORSCOM and Fourth U.S. Army, and October 1991
+          through June 1992 for First and Second Armies
+      - question: |-
+          Based on the information provided, why was the establishment of USARC as a major
+          subordinate command significant for the U.S. Army?
+        answer: |-
+          The establishment of USARC as a major subordinate command signified a shift in
+          operational functions and command control of Reserve units from FORSCOM, Fourth
+          U.S. Army, First and Second Armies to USARC, indicating a restructuring of the
+          U.S. Army's reserve management.
+  - context: |-
+      No area within the U.S. Army 's international scope of responsibilities has been
+      more affected by the end of the Cold War than Europe. Post-World War II planning
+      centered on the defense of Western Europe from a Soviet onslaught, with the
+      United States contributing the major share of troops on the continent. During
+      the late 1970s and throughout the 1980s the Soviet Union and its allies in the
+      Warsaw Pact began a program of enlargement, reorganization, and vigorous
+      modernization of their armed forces and thereby posed a significant challenge to
+      the members of the North Atlantic Treaty Organization (NATO). By 1990 all of
+      that had changed.
+    questions_and_answers:
+      - question: |-
+          Which continent was the main focus of U.S. Army's responsibilities during the
+          Cold War?
+        answer: Europe
+      - question: |-
+          What were the main changes in the defense strategy of the U.S. Army in Europe by
+          1990?
+        answer: |-
+          By 1990, the Soviet Union and its allies in the Warsaw Pact had ended their
+          program of enlargement, reorganization, and modernization of their armed forces,
+          marking a significant change in the defense strategy.
+      - question: |-
+          Given the information about the U.S. Army's focus on defending Western Europe
+          from a Soviet onslaught and the subsequent changes in the Soviet Union and its
+          allies' armed forces, can we infer that the end of the Cold War brought about a
+          decrease in military tension in Europe?
+        answer: |-
+          Yes, with the end of the Cold War, the significant challenge posed by the Soviet
+          Union and its allies in the Warsaw Pact no longer existed, indicating a decrease
+          in military tension in Europe.
+  - context: |-
+      In FY 90 the American NATO contingent - USAREUR - consisted of V and VII Corps,
+      the Berlin Brigade, and the 3d Brigade of the 2d Armored Division, which was
+      situated on the northern edge of the defensive line. Each corps consisted of one
+      infantry division, one armored division, and an armored cavalry regiment. In FY
+      91, following its deployment to the Persian Gulf and subsequent involvement in
+      Operation DESERT STORM, VII Corps returned to Europe, packed up its equipment,
+      and redeployed to the United States. Despite the reduction in U.S. Forces in
+      NATO, General Crosbie E. Saint, USAREUR commander, regarded continued American
+      commitment to Europe as essential: "USAREUR's forward edge became freedom's
+      frontier," he wrote in October 1990, "and those who served became the guarantors
+      of peace with an unblemished 45-year record."
+    questions_and_answers:
+      - question: What was the composition of each corps in FY 90 in USAREUR?
+        answer: |-
+          Each corps in FY 90 in USAREUR consisted of one infantry division, one armored
+          division, and an armored cavalry regiment.
+      - question: What changes occurred in USAREUR from FY 90 to FY 91?
+        answer: |-
+          From FY 90 to FY 91, VII Corps was deployed to the Persian Gulf for Operation
+          DESERT STORM, returned to Europe, packed up its equipment, and redeployed to the
+          United States. There was also a reduction in U.S. Forces in NATO during this
+          period.
+      - question: |-
+          Given General Crosbie E. Saint's sentiment about USAREUR's role in Europe, why
+          might he consider American commitment to Europe as essential?
+        answer: |-
+          General Crosbie E. Saint might consider American commitment to Europe as
+          essential because USAREUR's forward edge served as freedom's frontier, and those
+          who served in it guaranteed a 45-year-long peace record.
+  - context: |-
+      Unlike in other regions of the world, the downsizing trend in Europe began
+      early. In December 1987 the United States and the Soviet Union signed the INF
+      Treaty, and beginning in June 1988, both short- and intermediate- range missiles
+      were withdrawn from the European continent. In exchange for Soviet elimination
+      of SS-4, SS-5, SS-12, SS-20, and SS23 missiles, the United States removed the
+      Pershing II system, as well as ground-launched cruise missiles. USAREUR removed
+      the last Pershing II launcher on 17 April 1991, and inactivated the 56th Field
+      Artillery Command, which operated all Pershing II missile sites in West Germany,
+      on 31 May.
+    questions_and_answers:
+      - question: What was the date when the last Pershing II launcher was removed
+          by USAREUR?
+        answer: 17 April 1991
+      - question: |-
+          What were the missile systems that both the United States and the Soviet Union
+          agreed to remove from the European continent?
+        answer: |-
+          The Pershing II system, ground-launched cruise missiles, SS-4, SS-5, SS-12,
+          SS-20, and SS-23 missiles
+  - context: |-
+      Other ongoing weapons removal projects also had their roots in the arms
+      negotiation programs of the Reagan administration. In 1986 President Ronald
+      Reagan and West German Chancellor Helmut Kohl agreed to remove all chemical
+      weapons from European soil by 1992. Called Operation STEEL BOX, the joint
+      removal effort took 23,000 U.S. and German soldiers to implement. The chemical
+      weapons were removed by members of the 59th Ordnance Brigade, the 21st Theater
+      Army Area Command (TAACOM), the 7th Medical Command, the 5th Signal Command, and
+      the 56th Field Artillery Command. Extensive planning and preparations utilized
+      support from all seven German Laender ("states") as well as local police, civil
+      officials, fire fighters, and disaster and relief agencies. Operation STEEL BOX
+      was completed between June and September 1990, more than a year ahead of
+      schedule.
+    questions_and_answers:
+      - question: |-
+          What was the original deadline for the removal of all chemical weapons from
+          European soil?
+        answer: '1992'
+      - question: What were the main groups involved in the implementation of Operation
+          STEEL BOX?
+        answer: |-
+          The 59th Ordnance Brigade, the 21st Theater Army Area Command (TAACOM), the 7th
+          Medical Command, the 5th Signal Command, and the 56th Field Artillery Command,
+          as well as support from all seven German Laender, local police, civil officials,
+          fire fighters, and disaster and relief agencies.
+      - question: |-
+          Given the early completion of Operation STEEL BOX, why might it have been
+          beneficial to complete the project ahead of schedule?
+        answer: |-
+          Completing the project ahead of schedule could have minimized the risk of
+          accidents or security issues associated with storing and transporting chemical
+          weapons, and it could have also reduced the overall cost and resources required
+          for the operation.
+  - context: |-
+      Events concerning the future of conventional forces in Europe were also under
+      way beginning in the late 1980s. During 1989 the Bush administration reaffirmed
+      the conventional wisdom that the capability of the Warsaw Pact to launch a
+      surprise attack remained the greatest threat to peace in Europe. The Warsaw Pact
+      felt similarly threatened by NATO. Both NATO and Warsaw Pact policymakers used a
+      new negotiating tactic in agreeing to eliminate the Communist bloc's offensive
+      advantage by establishing force parity between the rival alliances. In March
+      1989 CFE talks began in earnest. Both sides agreed that the Warsaw Pact's
+      numerical superiority mandated that force reductions be asymmetrical, a
+      concession that the Soviet Union had never made. The CFE talks went forward in
+      good faith, but announced voluntary troop withdrawals from Europe by both the
+      Soviet Union and the United States in 1990 shifted the emphasis of CFE to
+      conventional arms reductions.
+    questions_and_answers:
+      - question: |-
+          Which negotiating tactic did both NATO and Warsaw Pact policymakers agree to use
+          in the CFE talks?
+        answer: |-
+          Both NATO and Warsaw Pact policymakers agreed to eliminate the Communist bloc's
+          offensive advantage by establishing force parity between the rival alliances.
+      - question: |-
+          What were the main points of agreement between NATO and the Warsaw Pact at the
+          beginning of the CFE talks in 1989?
+        answer: |-
+          At the beginning of the CFE talks, both sides agreed that the Warsaw Pact's
+          numerical superiority mandated that force reductions be asymmetrical, a
+          concession that the Soviet Union had never made before.
+  - context: |-
+      Despite developments on the arms negotiations front, USAREUR continued to
+      maintain peak readiness in FY 90 and 91 and at the same time prepared for the
+      drawdown. General Saint managed a delicate balance between readiness and
+      drawdown by aiming for what he called "a single capable corps" to maintain the
+      forward American presence in Europe. In August 1990 the Bush administration
+      announced a 30,000-personnel cut, but Iraq's invasion of Kuwait shifted
+      USAREUR's focus from drawdown planning to supporting the coalition in the
+      Persian Gulf. USAREUR support for Operation DESERT SHIELD began immediately
+      after the President's decision to commit forces. On 14 August 1990, V Corps'
+      12th Aviation Brigade was alerted for deployment, and on 28 August it began to
+      move. Medical detachments, aviation support, and nuclear, biological, and
+      chemical (NBC) teams from both V and VII Corps were among the European Theater
+      troops sent to support CENTCOM. In the face of Iraq's continued intransigence,
+      USAREUR was ordered on 8 November to provide CENTCOM with a mobile armored corps
+      . USAREUR selected VII Corps as the administrative unit, with armored divisions
+      coming from V and VII Corps. USAREUR sent more than 87,000 personnel to support
+      the war effort.
+    questions_and_answers:
+      - question: |-
+          What was the name of the operation that USAREUR supported after Iraq's invasion
+          of Kuwait?
+        answer: Operation DESERT SHIELD
+      - question: |-
+          How many personnel did USAREUR send to support the war effort during Operation
+          DESERT SHIELD?
+        answer: USAREUR sent more than 87,000 personnel to support the war effort.
+document_outline: |
+  US Army Historical Summary of Fiscal Years 1990 and 1991.
+document:
+  repo: https://github.com/pdavis327/west-point-poc
+  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  patterns:
+    - assets/docling_out/*.md

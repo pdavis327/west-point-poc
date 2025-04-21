@@ -1,0 +1,965 @@
+version: 3
+domain: Military History
+created_by: pdavis
+seed_examples:
+  - context: |-
+      In  FY  2022,  the  Army  faced  the  by-then  common  state  of beginning the
+      fiscal year without an approved budget. The demand from  combatant  commands
+      for  Army  forces  remained  high  even after the United States withdrew from
+      Afghanistan in late FY 2021. The service's highest priority remained
+      modernization-in materiel, doctrine, talent management, and organization-to
+      prepare for largescale combat operations. As part of that modernization, the
+      Army, in FY 2022, continued to change policies, processes, and programs to
+      improve its ability to build diverse, adaptive, and cohesive teams.
+    questions_and_answers:
+      - question: What was the Army's highest priority in FY 2022?
+        answer: |-
+          The Army's highest priority in FY 2022 was modernization-in materiel, doctrine,
+          talent management, and organization-to prepare for largescale combat operations.
+      - question: |-
+          What were the key areas of focus for the Army in FY 2022 in terms of
+          modernization?
+        answer: |-
+          In FY 2022, the Army focused on modernizing its materiel, doctrine, talent
+          management, and organization to prepare for largescale combat operations.
+      - question: |-
+          Given the Army's focus on modernization and the demand for forces, why was the
+          Army changing policies, processes, and programs in FY 2022?
+        answer: |-
+          The Army was changing policies, processes, and programs in FY 2022 to improve
+          its ability to build diverse, adaptive, and cohesive teams as part of its
+          modernization efforts.
+  - context: |-
+      The National Defense Authorization Act for FY 2022 required each military
+      department to appoint a special trial counsel. In July 2022, the  Army
+      established  the  Office  of  Special  Trial  Counsel.  When it is fully
+      operational, it will have exclusive authority to prosecute the  following
+      offenses:  murder,  manslaughter,  rape  and  sexual assault of an adult or a
+      child, other sexual misconduct, kidnapping, domestic  violence,  stalking,
+      retaliation,  child  pornography,  and wrongful broadcast.
+    questions_and_answers:
+      - question: |-
+          What offense will the Army's Office of Special Trial Counsel have exclusive
+          authority to prosecute when it is fully operational?
+        answer: |-
+          Murder, manslaughter, rape and sexual assault of an adult or a child, other
+          sexual misconduct, kidnapping, domestic violence, stalking, retaliation, child
+          pornography, and wrongful broadcast.
+      - question: |-
+          What are the types of offenses that the Army's Office of Special Trial Counsel
+          will have exclusive authority to prosecute in relation to violence, sexual
+          misconduct, and retaliation?
+        answer: |-
+          The Office of Special Trial Counsel will have exclusive authority to prosecute
+          offenses related to murder, manslaughter, kidnapping, domestic violence,
+          stalking, and retaliation.
+      - question: |-
+          Given the establishment of the Army's Office of Special Trial Counsel and its
+          exclusive authority to prosecute certain offenses, why do you think it is
+          important to have specialized prosecutors handling these cases?
+        answer: |-
+          It is important to have specialized prosecutors handling these cases to ensure a
+          thorough investigation, fair trial, and appropriate punishment for offenses such
+          as murder, manslaughter, sexual assault, and kidnapping, which can be complex
+          and sensitive in nature.
+  - context: |-
+      Initially, the Office of Special Trial Counsel was established as a field
+      operating agency of the Office of The Judge Advocate General. This  office  is
+      responsible  for  identifying  and  certifying  personnel for assignment to the
+      office, which will include 159 personnel in FY 2023 and will grow to 180 by FY
+      2025. This will include fifty-three litigation billets for judge advocates
+      certified as special trial counsel. No later than 31 August 2023, the Office of
+      Special Trial Counsel will  operate  under  the  supervision  of  the  special
+      trial  counsel, which will report directly to the secretary of the Army. The
+      office is expected to be fully operational by December 2023.
+    questions_and_answers:
+      - question: How many personnel will the Office of Special Trial Counsel have
+          by FY 2025?
+        answer: '180'
+      - question: |-
+          What is the expected timeline for the Office of Special Trial Counsel to become
+          fully operational?
+        answer: |-
+          The Office of Special Trial Counsel is expected to become fully operational by
+          December 2023.
+      - question: |-
+          Based on the provided information, why is it necessary for the Office of Special
+          Trial Counsel to operate under the supervision of the special trial counsel who
+          reports directly to the secretary of the Army?
+        answer: |-
+          The context does not provide specific reasons for this reporting structure.
+          However, it can be inferred that this structure is likely designed to ensure
+          direct accountability and oversight of the Office of Special Trial Counsel's
+          operations.
+  - context: |-
+      During the fiscal year, the Office of the Deputy Under Secretary of the Army
+      underwent several organizational changes. In October 2021, the Civilian Senior
+      Leader Management Office came under the  Office  of  the  Assistant  Secretary
+      of  the  Army  (Manpower and  Reserve  Affairs).  That  same  month,  the  U.S.
+      Army  Test  and Evaluation  Office  moved  to  the  Office  of  the  Under
+      Secretary  of the Army. Also in October, the Army Science Board became part of
+      the Office of the Assistant Secretary of the Army (Acquisition, Logistics, and
+      Technology) (ASA [ALT]).
+    questions_and_answers:
+      - question: Which office did the Army Science Board become part of in October
+          2021?
+        answer: |-
+          The Army Science Board became part of the Office of the Assistant Secretary of
+          the Army (Acquisition, Logistics, and Technology) in October 2021.
+      - question: |-
+          What were the organizational changes that the Office of the Deputy Under
+          Secretary of the Army underwent in October 2021?
+        answer: |-
+          In October 2021, the Civilian Senior Leader Management Office came under the
+          Office of the Assistant Secretary of the Army (Manpower and Reserve Affairs),
+          the U.S. Army Test and Evaluation Office moved to the Office of the Under
+          Secretary of the Army, and the Army Science Board became part of the Office of
+          the Assistant Secretary of the Army (Acquisition, Logistics, and Technology).
+      - question: |-
+          Based on the organizational changes, what can be inferred about the role of the
+          Office of the Deputy Under Secretary of the Army in managing and restructuring
+          its sub-offices?
+        answer: |-
+          The Office of the Deputy Under Secretary of the Army plays a significant role in
+          managing and restructuring its sub-offices, as evidenced by the several
+          organizational changes it implemented in October 2021.
+  - context: |-
+      There were two organizational changes in the Office of the ASA (ALT). The Office
+      of the Deputy Assistant Secretary of the Army (Acquisition, Policy, and
+      Logistics) became the Office of the Deputy Assistant  Secretary  of  the  Army
+      (Sustainment),  reflecting  the increased importance of sustainment
+      considerations in all phases of the Army's acquisition process. Functional areas
+      of responsibility for the office include product support planning and policy,
+      sustainment integration  planning  and  oversight,  industrial  base  policy
+      and oversight, program protection planning and oversight, and supply chain risk
+      management. The Army redesignated the chief systems engineer  as  the  deputy
+      assistant  secretary  of  the  Army  (data, engineering, and software) to
+      emphasize the growing significance of data, engineering, and software throughout
+      a program's life cycle.
+    questions_and_answers:
+      - question: |-
+          What is the new name of the Office of the Deputy Assistant Secretary of the Army
+          (Acquisition, Policy, and Logistics)?
+        answer: The Office of the Deputy Assistant Secretary of the Army (Sustainment)
+      - question: |-
+          What are the functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment)?
+        answer: |-
+          Product support planning and policy, sustainment integration planning and
+          oversight, industrial base policy and oversight, program protection planning and
+          oversight, and supply chain risk management
+      - question: |-
+          Why was the chief systems engineer redesignated as the deputy assistant
+          secretary of the Army (data, engineering, and software)?
+        answer: |-
+          To emphasize the growing significance of data, engineering, and software
+          throughout a program's life cycle
+  - context: |-
+      The Office of the Administrative Assistant to the Secretary of the Army
+      transferred several subordinate elements, aligning these functions with
+      organizations that have similar missions. The Army Multimedia and Visual
+      Information Directorate moved to the Office of the Chief of Public Affairs, and
+      the Motor Pool Transportation Directorate  went  to  the  Washington
+      Headquarters  Services.  The Military  Air  and  Executive  Air  Travel  program
+      shifted  to  the Military District of Washington's U.S. Army Aviation Brigade.
+    questions_and_answers:
+      - question: Which office did the Motor Pool Transportation Directorate move
+          to?
+        answer: The Washington Headquarters Services.
+      - question: What are the destinations of the transferred subordinate elements?
+        answer: |-
+          The Army Multimedia and Visual Information Directorate moved to the Office of
+          the Chief of Public Affairs, the Motor Pool Transportation Directorate went to
+          the Washington Headquarters Services, and the Military Air and Executive Air
+          Travel program shifted to the Military District of Washington's U.S. Army
+          Aviation Brigade.
+      - question: |-
+          Based on the transfers, what inference can be made about the alignment of
+          functions with similar missions?
+        answer: |-
+          The transfers suggest a strategic alignment of functions with similar missions,
+          such as moving the Motor Pool Transportation Directorate to a service-oriented
+          organization like the Washington Headquarters Services.
+  - context: |-
+      In April 2022, the Office of Soldiers' Counsel transferred from U.S.  Army
+      Medical  Command  (MEDCOM)  to  the  Army  Legal Services  Agency.  The
+      organization  provides  legal  assistance  to soldiers in the Army's disability
+      evaluation system from the initiation of  the  Medical  Evaluation  Board
+      through  final  review  by  the Physical Evaluation Board and separation or
+      return to duty. It also assists soldiers who do not concur with their proposed
+      Department of Veterans Affairs disability ratings for medical conditions found
+      to be unfitting by the Physical Evaluation Board.
+    questions_and_answers:
+      - question: Which agency did the Office of Soldiers' Counsel transfer to in
+          April 2022?
+        answer: The Army Legal Services Agency
+      - question: What are the main responsibilities of the Office of Soldiers' Counsel?
+        answer: |-
+          The Office of Soldiers' Counsel provides legal assistance to soldiers in the
+          Army's disability evaluation system, assists soldiers who do not concur with
+          their proposed Department of Veterans Affairs disability ratings, and helps
+          soldiers with unfitting medical conditions.
+      - question: |-
+          Based on the information provided, why do you think the transfer of the Office
+          of Soldiers' Counsel to the Army Legal Services Agency might have occurred?
+        answer: |-
+          The text does not provide explicit information on why the transfer occurred.
+          However, it could be inferred that the Army Legal Services Agency might have
+          better resources or expertise to handle the legal aspects of soldiers'
+          disability evaluations and subsequent processes.
+  - context: |-
+      A November 2021 Army directive changed the military  cochairs and clarified
+      responsibilities for program objective memorandum program  evaluation  groups  (
+      Table  1 ). In 2018,  Headquarters, Department of the Army (HQDA), had assigned
+      commanders of Army major commands as the military cochairs, with management and
+      day-to-day  operations  for  each  group  provided  by  an  office of the Army
+      Staff. In FY 2022, an Army Staff deputy chief of staff became the military
+      cochair for each group. The major command commanders shifted to an advisory role
+      for each group. The civilian cochairs, who are assistant secretaries of the
+      Army, did not change.
+    questions_and_answers:
+      - question: |-
+          Who became the military cochair for each program objective memorandum program
+          evaluation group in FY 2022?
+        answer: An Army Staff deputy chief of staff
+      - question: |-
+          How did the roles of military and civilian cochairs change in the program
+          objective memorandum program evaluation groups from 2018 to 2022?
+        answer: |-
+          In 2018, commanders of Army major commands were the military cochairs and an
+          office of the Army Staff managed and handled the day-to-day operations. In 2022,
+          an Army Staff deputy chief of staff became the military cochair, while the major
+          command commanders shifted to an advisory role. The civilian cochairs, who are
+          assistant secretaries of the Army, did not change their roles.
+      - question: |-
+          Given the changes in the Army directive of November 2021, why do you think the
+          role of the major command commanders shifted from being military cochairs to
+          advisors for the program objective memorandum program evaluation groups?
+        answer: |-
+          The text does not provide specific reasons for this shift. However, one possible
+          inference is that the Army Staff deputy chief of staff, with their deeper
+          involvement in the Army Staff operations, might be better equipped to manage the
+          program evaluation groups. The major command commanders, in their advisory
+          roles, could still provide valuable insights and expertise, ensuring a balance
+          between operational management and strategic guidance.
+  - context: |-
+      With advice from the Army major commands, each group works with the
+      undersecretary of the Army and the vice chief of staff of the Army to build the
+      annual draft program objective memorandum. Army  major  commands  review  it
+      and  provide  an  assessment of  risk.  The  Program  Analysis  and  Evaluation
+      Directorate  in  the Office  of  the  Deputy  Chief  of  Staff,  G-8,  then
+      leads  an  overall program  objective  memorandum  enterprise  assessment.
+      Finally, the undersecretary of the Army and the vice chief of staff of the Army
+      present the program objective memorandum to the secretary of the Army for
+      approval.
+    questions_and_answers:
+      - question: Who leads the overall program objective memorandum enterprise assessment?
+        answer: |-
+          The Program Analysis and Evaluation Directorate in the Office of the Deputy
+          Chief of Staff, G-8
+      - question: |-
+          What is the sequence of actions taken in the process of building and approving
+          the annual draft program objective memorandum?
+        answer: |-
+          Each group works with the undersecretary of the Army and the vice chief of staff
+          of the Army to build the memorandum, then it is reviewed by Army major commands
+          for risk assessment. The Program Analysis and Evaluation Directorate in the
+          Office of the Deputy Chief of Staff, G-8 leads an overall assessment, and
+          finally, the undersecretary of the Army and the vice chief of staff of the Army
+          present the memorandum to the secretary of the Army for approval.
+      - question: |-
+          Based on the information provided, what role does the secretary of the Army play
+          in this process?
+        answer: |-
+          The secretary of the Army approves the program objective memorandum after it has
+          been reviewed and assessed by various parties, including the Army major
+          commands, the undersecretary of the Army, and the vice chief of staff of the
+          Army.
+  - context: |-
+      Equipping, SECRETARIAT  COCHAIR = ASA (ALT). Equipping, ARMY STAFF  COCHAIR =
+      DCS, G-8. Equipping, ADVISER = Commander, AFC. Installations, SECRETARIAT
+      COCHAIR = ASA (IEE). Installations, ARMY STAFF  COCHAIR = DCS, G-9.
+      Installations, ADVISER = Commander, AMC. Manning, SECRETARIAT  COCHAIR = ASA
+      (M&RA). Manning, ARMY STAFF  COCHAIR = DCS, G-1. Manning, ADVISER = Commander,
+      TRADOC. Sustainment, SECRETARIAT  COCHAIR = ASA (ALT). Sustainment, ARMY STAFF
+      COCHAIR = DCS, G-4. Sustainment, ADVISER = Commander, AMC. Training, SECRETARIAT
+      COCHAIR = ASA (M&RA). Training, ARMY STAFF  COCHAIR = DCS, G-3/5/7. Training,
+      ADVISER = Commander, FORSCOM
+    questions_and_answers:
+      - question: Who is the advisor for the Manning domain?
+        answer: Commander, TRADOC
+      - question: |-
+          Who are the secretariat co-chairs for the three domains: Equipping,
+          Installations, and Sustainment?
+        answer: ASA (ALT) for all three domains
+      - question: |-
+          Based on the provided context, if the Army Staff Co-chair for the Equipping
+          domain reports to G-8, what department does G-8 likely belong to?
+        answer: |-
+          G-8 likely belongs to the Operations department, as it is a common practice for
+          staff sections in armies to be named with a 'G' followed by a number, where the
+          number indicates the department. In this case, G-8 is likely to be part of the
+          Operations department.
+  - context: |-
+      In August 2022, the Office of the Deputy Chief of Staff, G-8, held the  first
+      HQDA  Requirements  Summit.  The  participants  included representatives from
+      the Army Staff, the Army Secretariat, Army major commands,  and  Army  service
+      component  commands.  The  summit examined improvements for the new Army
+      Capabilities Integration and Development System modernization process. Attendees
+      discussed topics such as operational utility assessments, capability needs
+      statements,  cost  estimating,  and  updating  Army  Regulation  71-9,
+      Warfighting Capabilities Determination .
+    questions_and_answers:
+      - question: |-
+          When was the first HQDA Requirements Summit held by the Office of the Deputy
+          Chief of Staff, G-8?
+        answer: August 2022
+      - question: |-
+          Who were the participants of the first HQDA Requirements Summit held by the
+          Office of the Deputy Chief of Staff, G-8?
+        answer: |-
+          Representatives from the Army Staff, the Army Secretariat, Army major commands,
+          and Army service component commands
+      - question: |-
+          Based on the information provided, what could be the potential benefits of the
+          improvements discussed at the first HQDA Requirements Summit for the new Army
+          Capabilities Integration and Development System modernization process?
+        answer: |-
+          The passage does not provide specific information on the potential benefits of
+          the improvements discussed. However, the topics discussed such as operational
+          utility assessments, capability needs statements, cost estimating, and updating
+          Army Regulation 71-9, Warfighting Capabilities Determination, could potentially
+          lead to more efficient and effective modernization processes.
+  - context: |-
+      In  October  2021,  the  Office  of  the  Chief  Information  Officer published
+      the Army  Digital  Transformation  Strategy . The Army Modernization Strategy
+      had identified digital transformation and  the  modernization  of  the  Army's
+      underlying  network  and computer  infrastructure  as  crucial  to  modernizing
+      the  service. Digital transformation is a shift in operations and culture
+      through the  adoption  of  advanced  technologies  such  as  cloud,  data,  and
+      artificial  intelligence.  It  establishes  an  outcomes-based,  metricsdriven
+      mindset to measure activities and to seek efficiencies and effectiveness.
+    questions_and_answers:
+      - question: |-
+          What is the name of the strategy published by the Office of the Chief
+          Information Officer in October 2021?
+        answer: The Army Digital Transformation Strategy
+      - question: |-
+          What are the two key areas identified by the Army Modernization Strategy for
+          modernizing the service?
+        answer: |-
+          Digital transformation and the modernization of the Army's underlying network
+          and computer infrastructure
+  - context: |-
+      The strategy has three objectives. First, between 2021 and 2028, the  service
+      will  converge  current  digital  initiatives  that  support readiness and
+      modernization into a single integrated plan; make them  available  from  small
+      units  to  the  entire  enterprise;  and establish standardized delivery
+      processes, methods, and tools, all of which will use the cloud as an enabler.
+      This objective has six lines of effort. Second, the Army will maintain pace with
+      advancements in  relevant  technologies  by  optimizing  its  resources  and
+      making data-driven investment decisions that are aligned directly with the
+      service's  priorities.  This  objective  has  four  lines  of  effort.  Third,
+      transformation requires the Army to change how it recruits, trains, and retains
+      those who work with these technologies and to improve its collaboration with
+      allies, academia, and industry. This objective has three lines of effort.
+    questions_and_answers:
+      - question: How many objectives does the strategy have?
+        answer: Three
+      - question: What are the three objectives of the strategy?
+        answer: |-
+          The three objectives of the strategy are to converge current digital initiatives
+          into a single integrated plan, maintain pace with advancements in relevant
+          technologies, and transform the Army's recruitment, training, and retention
+          processes.
+      - question: |-
+          Given the three objectives of the strategy, which one seems to focus on changing
+          how the Army recruits, trains, and retains those who work with technologies?
+        answer: |-
+          The third objective focuses on changing how the Army recruits, trains, and
+          retains those who work with technologies.
+  - context: |-
+      The Federal Information Security Modernization Act of 2014  requires  an  annual
+      independent  evaluation  to  determine the  effectiveness  of  every  agency's
+      information  security  program and  practices.  The  Army,  in  FY  2022,
+      received  a  92  percent  score for  authorized  systems,  a  drop  of  6
+      percent  from  FY  2021.  The Department of Defense (DoD) threshold is a score
+      of 95 percent. The Office of the Chief Information Officer and the Office of the
+      Deputy Chief of Staff, G-6, are working to reduce the number of systems that do
+      not have valid authorizations to operate so as to meet or exceed the 95 percent
+      mandate in FY 2023.
+    questions_and_answers:
+      - question: What was the Army's score for authorized systems in FY 2022?
+        answer: The Army received a 92 percent score for authorized systems in FY
+          2022.
+      - question: |-
+          What is the current status of the Army's compliance with the DoD's information
+          security program threshold?
+        answer: |-
+          The Army's score for authorized systems in FY 2022 was 92 percent, which is a 6
+          percent drop from FY 2021. The DoD threshold is 95 percent.
+      - question: |-
+          Given the Army's current score and the DoD's threshold, what actions are being
+          taken to improve compliance in FY 2023?
+        answer: |-
+          The Office of the Chief Information Officer and the Office of the Deputy Chief
+          of Staff, G-6, are working to reduce the number of systems that do not have
+          valid authorizations to operate to meet or exceed the 95 percent mandate in FY
+          2023.
+  - context: |-
+      In FY 2022, the Army  continued working on zero-trust cybersecurity, building on
+      Network Enterprise Technology Command's test of this concept in FY 2020. This
+      zero-trust model eliminates  implicit  trust  in  any  one  element  and
+      instead  requires continuous  verification  via  real-time  information  from
+      multiple sources to determine access and other system responses. If a device is
+      compromised,  the  zero-trust  system  will  contain  the  damage  to a network.
+      In January 2022, the Office of Management and Budget issued  a  federal  zero-
+      trust  architecture  strategy,  which  required agencies to meet specific
+      cybersecurity standards and objectives by the  end  of  FY  2024.  That  same
+      month,  HQDA 's  chief  information officer established a zero-trust working
+      group for sharing information on lessons learned from testing, demonstrations,
+      proofs of concepts, and pilot deployments. The group also recommends appropriate
+      use of resources to implement the service's plans for establishing zerotrust
+      architecture.
+    questions_and_answers:
+      - question: |-
+          When did the Office of Management and Budget issue the federal zero-trust
+          architecture strategy?
+        answer: January 2022
+      - question: |-
+          What are the deadlines and requirements set by the Office of Management and
+          Budget's federal zero-trust architecture strategy?
+        answer: |-
+          The strategy requires agencies to meet specific cybersecurity standards and
+          objectives by the end of FY 2024.
+      - question: |-
+          Given the Army's continued work on zero-trust cybersecurity and the OMB's
+          strategy, what can be inferred about the Army's alignment with the federal
+          strategy?
+        answer: |-
+          The Army is likely aligning its zero-trust cybersecurity efforts with the
+          federal strategy, as indicated by the establishment of a zero-trust working
+          group to share lessons learned and recommend resource use for implementing the
+          service's plans for establishing zero-trust architecture.
+  - context: |-
+      The Program Executive Office Enterprise Information Systems and the Office of
+      the Deputy Chief of Staff, G-3/5/7, continued to develop a new data platform for
+      making force-structure decisions to replace  fourteen  existing  systems.  The
+      project's  first  phase ended in May 2022. It examined prototypes to integrate
+      planning, programming,  and  production  functions  of  six  existing  systems.
+      The second phase began in September 2022 and will conclude in June  2023.  It
+      will  deliver  a  minimum  viable  product,  focused  on the capabilities
+      required for developing the future force, as well as products  required  for
+      mobilization  and  deploy-to-redeploy  and retrograde activities.
+    questions_and_answers:
+      - question: What month did the second phase of the project begin?
+        answer: September 2022
+      - question: What are the main objectives of the second phase of the project?
+        answer: |-
+          The second phase of the project aims to deliver a minimum viable product focused
+          on the capabilities required for developing the future force, and products
+          required for mobilization, deploy-to-redeploy and retrograde activities.
+      - question: |-
+          Based on the information provided, what can be inferred about the expected
+          outcome of the project's second phase?
+        answer: |-
+          The expected outcome of the project's second phase is the delivery of a
+          functional data platform that integrates planning, programming, and production
+          functions of six existing systems, with a focus on capabilities for developing
+          the future force, and products required for mobilization, deploy-to-redeploy and
+          retrograde activities.
+  - context: |-
+      The Program Executive Office Enterprise Information Systems' Global  Enterprise
+      Network  Modernization  -  Americas  product office  began  its  first  network
+      and  infrastructure  modernization of  unclassified  and  classified  systems
+      on  an  Army  post  in  the continental  United  States  at  Fort  Belvoir. The
+      modernization includes  adding  wireless  connection  to  the  internet,
+      converting telephone service to internet-based connections, and connecting all
+      Army technical control facilities into the Department of Defense Information
+      Network.  The  project  completed  its  first  step  with  a survey in September
+      2022. The next milestone is the assembly and deployment of core devices,
+      scheduled to take place in January 2023.
+    questions_and_answers:
+      - question: What is the name of the Army post where the network modernization
+          began?
+        answer: Fort Belvoir
+      - question: |-
+          What are the main components of the network and infrastructure modernization at
+          Fort Belvoir?
+        answer: |-
+          Adding wireless connection to the internet, converting telephone service to
+          internet-based connections, and connecting all Army technical control facilities
+          into the Department of Defense Information Network
+      - question: |-
+          Given the information about the modernization steps, what can be inferred about
+          the expected benefits of this project for the Army post?
+        answer: |-
+          The modernization is expected to improve connectivity, enhance security, and
+          potentially increase efficiency in communication and data sharing.
+  - context: |-
+      In FY 2021, the service began a three-phase transition to Army 365, a secure,
+      cloud-based suite of products that merges Microsoft Office applications with
+      voice, video, chat, and file-sharing capabilities. The first phase ended in June
+      2021 when the service's Microsoft Teams environments moved from the commercial
+      virtual remote service to Army 365. The second phase, moving Army email accounts
+      from the Defense Enterprise Email system to Army 365, began in July 2021 with an
+      expected completion date of 31 March 2022. The third phase, transitioning all
+      SharePoint environments to the Army 365 SharePoint online application, began
+      late in FY 2021, with completion expected by the end of FY 2022.
+    questions_and_answers:
+      - question: |-
+          What is the expected completion date for the second phase of the Army 365
+          transition?
+        answer: 31 March 2022
+      - question: |-
+          What are the three phases of the Army 365 transition and their respective
+          timeframes?
+        answer: |-
+          The three phases of the Army 365 transition are: 1) moving Microsoft Teams
+          environments from the commercial virtual remote service to Army 365, which was
+          completed in June 2021; 2) moving Army email accounts from the Defense
+          Enterprise Email system to Army 365, which began in July 2021 and is expected to
+          be completed by 31 March 2022; and 3) transitioning all SharePoint environments
+          to the Army 365 SharePoint online application, which began in late FY 2021 and
+          is expected to be completed by the end of FY 2022.
+      - question: |-
+          Given the information about the second phase of the Army 365 transition, what
+          can be inferred about the potential benefits of this transition for the service?
+        answer: |-
+          The second phase of the Army 365 transition involves moving Army email accounts
+          from the Defense Enterprise Email system to Army 365. This suggests a potential
+          benefit of improved email services and possibly better integration with other
+          digital tools. However, the specific benefits are not detailed in the passage.
+  - context: |-
+      The Army did not complete its transition to Army 365 as planned. In FY 2021, the
+      service had decided to purchase only 950,000 Army 365 licenses, which were not
+      enough to provide access to the system for all soldiers, civilian employees, and
+      contractors. By the end of that fiscal year, the Army had not determined how
+      personnel not covered by a license could use email and other applications in
+      Army 365. In March 2022, the Office of the Deputy Chief of Staff, G-6, announced
+      a  bridging  strategy  that  extended  access  to  the  Defense  Enterprise
+      Email system until the end of FY 2022 for personnel without an Army 365
+      license.  To  ensure  organizations  would  not  lose  functionality or  data,
+      HQDA  extended  the  SharePoint  migration  deadline  into FY 2023.
+    questions_and_answers:
+      - question: How many Army 365 licenses were purchased in FY 2021?
+        answer: 950,000
+      - question: What measures were taken to accommodate personnel without an Army
+          365 license?
+        answer: |-
+          A bridging strategy was announced to extend access to the Defense Enterprise
+          Email system until the end of FY 2022, and the SharePoint migration deadline was
+          extended into FY 2023.
+      - question: |-
+          Given the Army's transition to Army 365 and the insufficient number of licenses,
+          why might it be necessary to extend the SharePoint migration deadline?
+        answer: |-
+          Extending the SharePoint migration deadline allows organizations to maintain
+          functionality and avoid data loss, as not all personnel have been transitioned
+          to Army 365.
+  - context: |-
+      An  independent  public  accounting  firm  conducted  the  FY  2022 annual
+      audits of the Army General Fund and the Army Working Capital Fund  financial
+      statements. Both  audits  resulted in a disclaimer  of  opinion  by  the  firm
+      because  it  could  not  conclude whether the service presented the financial
+      statements and related notes in accordance with generally accepted accounting
+      principles. The firm concluded that the Army did not provide sufficient evidence
+      to support the information in the financial statements because of inadequate
+      processes, controls, and records to support transactions
+    questions_and_answers:
+      - question: |-
+          What was the conclusion of the independent public accounting firm about the
+          Army's financial statements?
+        answer: |-
+          The firm concluded that the Army did not provide sufficient evidence to support
+          the information in the financial statements.
+      - question: |-
+          What were the reasons given by the independent public accounting firm for their
+          disclaimer of opinion on the Army's financial statements?
+        answer: |-
+          The firm could not conclude whether the Army presented the financial statements
+          and related notes in accordance with generally accepted accounting principles
+          due to inadequate processes, controls, and records to support transactions.
+      - question: |-
+          Based on the firm's conclusion, what can be inferred about the adequacy of the
+          Army's financial records and controls?
+        answer: |-
+          The Army's financial records and controls appear to be inadequate as they were
+          unable to provide sufficient evidence to support the information in the
+          financial statements.
+  - context: |-
+      In January  2022,  the  secretary  of  the Army  published  a memorandum on the
+      need for accountability and fiscal stewardship. To focus efforts on moving the
+      service from a disclaimer to a sustained unmodified  audit  opinion,  the
+      secretary  directed  the  assistant secretary  of  the  Army  (financial
+      management  and  comptroller) to establish an audit committee. The committee,
+      cochaired by the undersecretary of the Army and the vice chief of staff of the
+      Army, is composed of all assistant secretaries and commanding generals from
+      major commands. It meets quarterly. The secretary also directed the inclusion of
+      audit metrics into the Command Accountability and Execution Review program.
+      Additionally, the assistant secretary of the Army (financial management and
+      comptroller), in collaboration with  responsible  officials in each  business
+      area, developed  a multiyear plan for remediating the major audit issues. The
+      assistant secretary  of  the  Army  (financial  management  and  comptroller)
+      reports quarterly on the progress of organizations and individuals to meet their
+      milestones in the plan. The Army expects to obtain an audit opinion for the Army
+      Working Capital Fund in FY 2026 and for the Army General Fund in FY 2027.
+    questions_and_answers:
+      - question: Who is the co-chair of the Army's audit committee?
+        answer: The undersecretary of the Army and the vice chief of staff of the
+          Army
+      - question: What are the two main goals of the Army in terms of obtaining an
+          audit opinion?
+        answer: |-
+          The Army expects to obtain an audit opinion for the Army Working Capital Fund in
+          FY 2026 and for the Army General Fund in FY 2027
+      - question: |-
+          Based on the establishment of the audit committee and the multiyear plan, what
+          can be inferred about the Army's commitment to fiscal stewardship and
+          accountability?
+        answer: |-
+          The Army is demonstrating a strong commitment to fiscal stewardship and
+          accountability by establishing an audit committee, incorporating audit metrics
+          into the Command Accountability and Execution Review program, and developing a
+          multiyear plan to remediate major audit issues.
+  - context: |-
+      The Army's FY 2022 budget request was aligned with the Interim National
+      Security  Strategic  Guidance  and  supported  the  Army's focus on  people,
+      readiness, and  modernization  ( Table 2 ). It provided for a Regular Army (RA)
+      of 485,000, an ARNG of 336,000, a U.S. Army Reserve (USAR) of 189,500, and a
+      civilian workforce of 196,710. Compared to the FY 2021 enacted appropriations,
+      FY 2022  appropriations  for  procurement  and  research,  development, test,
+      and  evaluation  decreased.  The  request  resourced  current capabilities and
+      applied intentional production delays to focus on the six  modernization
+      priorities  and  the  signature  efforts  set  out  in  the
+    questions_and_answers:
+      - question: What is the proposed strength of the U.S. Army Reserve in FY 2022?
+        answer: 189,500
+      - question: What are the four components of the Army's proposed strength in
+          FY 2022?
+        answer: |-
+          The Army's proposed strength in FY 2022 includes a Regular Army of 485,000, an
+          Army National Guard of 336,000, a U.S. Army Reserve of 189,500, and a civilian
+          workforce of 196,710.
+      - question: |-
+          Given the decrease in procurement and research funds in FY 2022, why might the
+          Army have made intentional production delays?
+        answer: |-
+          The Army might have made intentional production delays in FY 2022 to focus on
+          the six modernization priorities and the signature efforts set out in the
+          guidance, despite the decrease in procurement and research funds.
+  - context: |-
+      MILITARY PERSONNEL, 1 = . Military Personnel, Army, 1 = 47,974. Military
+      Personnel, Army Reserve, 1 = 5,230. Military Personnel, Army National Guard, 1 =
+      9,051. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 2,623. Medicare-
+      Eligible Retiree Health Care Fund, Army Reserve, 1 = 460. Medicare-Eligible
+      Retiree Health Care Fund, Army National Guard, 1 = 820. OPERATION AND
+      MAINTENANCE, 1 = . Operation and Maintenance, Army, 1 = 54,616. Operation and
+      Maintenance, Army Reserve, 1 = 3,001. Operation and Maintenance, Army National
+      Guard, 1 = 7,647. ENVIRONMENTAL RESTORATION, 1 = 201. PROCUREMENT, 1 = .
+      Aircraft, 1 = 2,806. Missiles, 1 = 3,556. Weapons and Tracked Combat Vehicle, 1
+      = 3,876. Ammunition, 1 = 2,158. Other Procurement, 1 = 8,874. RESEARCH,
+      DEVELOPMENT, TEST, AND EVALUATION MILITARY CONSTRUCTION, 1 = 12,800. Military
+      Construction, Army, 1 = 835. Military Construction, Army Reserve, 1 = 65.
+      Military Construction, Army National Guard, 1 = 257. ARMY FAMILY HOUSING, 1 = .
+      Operation, 1 = 391. Construction, 1 = 100. ARMY WORKING CAPITAL FUND, 1 = 385.
+      ARLINGTON NATIONAL CEMETERY, 1 = 228. BASE REALIGNMENT AND CLOSURE, 1 = 65.
+      CHEMICAL AGENTS DEMILITARIZATION, 1 = 1,094. AFGHANISTAN SECURITY FORCES FUND, 1
+      = 3,328. COUNTER-ISIS TRAIN AND EQUIP FUND, 1 = 522. Total, 1 = 172,962 a
+    questions_and_answers:
+      - question: |-
+          How many Medicare-Eligible Retiree Health Care Fund personnel are there in the
+          Army National Guard?
+        answer: '820'
+      - question: |-
+          What are the total numbers for Military Personnel, Operation and Maintenance,
+          and Procurement?
+        answer: |-
+          Military Personnel: 62,855, Operation and Maintenance: 64,664, Procurement:
+          20,570
+      - question: |-
+          Given the provided numbers, can you infer which branch of the military has the
+          highest budget for Procurement?
+        answer: The Army has the highest budget for Procurement at 12,416.
+  - context: |-
+      Unlike previous years' budgets, the FY 2022 budget did not have a separate
+      request for overseas contingency operations. Instead, funding for  these
+      operations was included in the base budget request and is identified  as  either
+      a  direct  war  cost  or  an  enduring  cost  ( Table  3 ). Direct war costs
+      included support for Operation Freedom's Sentinel and Operation Inherent Resolve
+      along with separate appropriations for  Afghan  security  forces  and  for
+      training  and  equipping  forces opposing the Islamic State in Iraq and Syria.
+      Enduring costs included the European Deterrence Initiative and activities, both
+      in a theater of operations and in the continental United States, that will
+      continue after combat operations.
+    questions_and_answers:
+      - question: What operation is supported by direct war costs in the FY 2022 budget?
+        answer: Operation Freedom's Sentinel and Operation Inherent Resolve
+      - question: |-
+          What are the two categories of costs included in the FY 2022 budget for overseas
+          contingency operations?
+        answer: Direct war costs and enduring costs
+      - question: |-
+          Based on the provided context, why was there no separate request for overseas
+          contingency operations in the FY 2022 budget?
+        answer: |-
+          Funding for these operations was included in the base budget request and is
+          identified as either a direct war cost or an enduring cost
+  - context: |-
+      MILITARY PERSONNEL, 1 = . Military Personnel, Army, 1 = 47,814. Military
+      Personnel, Army Reserve, 1 = 5,157. Military Personnel, Army National Guard, 1 =
+      9,018. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 2,623. Medicare-
+      Eligible Retiree Health Care Fund, Army Reserve, 1 = 460. Medicare-Eligible
+      Retiree Health Care Fund, Army National Guard, 1 = 822. OPERATION AND
+      MAINTENANCE, 1 = . Operation and Maintenance, Army, 1 = 55,013. Operation and
+      Maintenance, Army Reserve, 1 = 3,032. Operation and Maintenance, Army National
+      Guard, 1 = 7,714. ENVIRONMENTAL RESTORATION, 1 = 299. PROCUREMENT, 1 = .
+      Aircraft, 1 = 3,295. Missiles, 1 = 3,460. Weapons and Tracked Combat Vehicle, 1
+      = 4,319. Ammunition, 1 = 2,277. Other Procurement, 1 = 9,454. RESEARCH,
+      DEVELOPMENT, TEST, AND EVALUATION, 1 = 14,528. MILITARY CONSTRUCTION, 1 = .
+      Military Construction, Army, 1 = 1,834. Military Construction, Army Reserve, 1 =
+      136. Military Construction, Army National Guard, 1 = 505. ARMY FAMILY HOUSING, 1
+      = . Operation, 1 = 391. Construction, 1 = 188. ARMY WORKING CAPITAL FUND, 1 =
+      500. ARLINGTON NATIONAL CEMETERY, 1 = 228. BASE REALIGNMENT AND CLOSURE, 1 =
+      125. CHEMICAL AGENTS DEMILITARIZATION, 1 = 1,093. COUNTER-ISIS TRAIN AND EQUIP
+      FUND, 1 = 500. Total, 1 = 174,786 a
+    questions_and_answers:
+      - question: |-
+          How many Medicare-Eligible Retiree Health Care Fund personnel are there in the
+          Army National Guard?
+        answer: '822'
+      - question: |-
+          What are the total number of personnel in the Army, Army Reserve, and Army
+          National Guard combined?
+        answer: 71,989
+      - question: |-
+          Based on the provided data, if the Army was to allocate 10% of its Operation and
+          Maintenance budget to Environmental Restoration, how much would be allocated?
+        answer: 5,501.3
+  - context: |-
+      In March 2022, Congress passed the Consolidated Appropriations Act of  2022,
+      providing  the  Army  a  budget  of  $174.7  billion  for  FY 2022 ( Tables 4
+      and 5 ). The only major change between the requested and enacted budgets was the
+      deletion of the Afghanistan Security Forces  Fund  after  the  Taliban  came  to
+      power  in  FY  2021.  Other changes included increases of $397 million for RA
+      operations and maintenance; $489 million for aircraft procurement; $443 million
+      for weapons and tracked combat vehicle procurement; $1.7 billion for  research,
+      development, test, and evaluation; and $999 million for RA military
+      construction.
+    questions_and_answers:
+      - question: |-
+          What is the total budget provided to the Army for FY 2022 according to the
+          Consolidated Appropriations Act of 2022?
+        answer: $174.7 billion
+      - question: |-
+          What are the major changes in the Army's budget between the requested and
+          enacted budgets for FY 2022?
+        answer: |-
+          The major changes include an increase of $397 million for RA operations and
+          maintenance; $489 million for aircraft procurement; $443 million for weapons and
+          tracked combat vehicle procurement; $1.7 billion for research, development,
+          test, and evaluation; $999 million for RA military construction; and the
+          deletion of the Afghanistan Security Forces Fund.
+      - question: |-
+          Given the information about the Army's budget for FY 2022, why might the
+          Afghanistan Security Forces Fund have been deleted?
+        answer: |-
+          The Afghanistan Security Forces Fund was likely deleted due to the Taliban
+          coming to power in FY 2021, which may have made the fund unnecessary or
+          irrelevant.
+  - context: |-
+      The service received approximately $1.3 billion in Coronavirus Aid, Relief, and
+      Economic Security Act funding. The largest portion of this amount, $863 million,
+      was for the Army's operation and maintenance account. The service internally
+      reprogrammed more than $2.86 billion throughout the year to meet operational
+      demands. In FY 2022, the Army received two supplemental appropriations because
+      of the war in Ukraine. The first provided $3.2 billion for expenses incurred by
+      the service in deploying units to Europe. The second provided $5.2 billion to
+      replenish weapons and munitions given to Ukraine.
+    questions_and_answers:
+      - question: |-
+          How much funding did the Army receive from the Coronavirus Aid, Relief, and
+          Economic Security Act?
+        answer: $1.3 billion
+      - question: |-
+          What were the main purposes for which the Army used the funds it received from
+          the Coronavirus Aid, Relief, and Economic Security Act and the two supplemental
+          appropriations?
+        answer: |-
+          The Army used $863 million from the Coronavirus Aid, Relief, and Economic
+          Security Act for the Army's operation and maintenance account. The first
+          supplemental appropriation was used for expenses incurred by the service in
+          deploying units to Europe, amounting to $3.2 billion. The second supplemental
+          appropriation was used to replenish weapons and munitions given to Ukraine,
+          amounting to $5.2 billion. The Army also reprogrammed more than $2.86 billion
+          throughout the year to meet operational demands.
+      - question: |-
+          Given the information about the Army's funding and expenditures, what can be
+          inferred about the potential impact of the war in Ukraine on the Army's budget?
+        answer: |-
+          The war in Ukraine led to additional funding for the Army, with two supplemental
+          appropriations totaling $8.4 billion. This suggests a significant impact on the
+          Army's budget, likely due to increased operational demands and the need to
+          support allied countries.
+  - context: |-
+      31  July  2022,  complying  with  the  congressional  requirement  that federal
+      agencies  execute  no  more  than  20  percent  of  their  budget in the last
+      two months of the fiscal year. During FY 2022, the Army funded  $1.5  billion
+      in  operation  and  maintenance  unfinanced requirements by reprioritizing
+      requirements, identifying resources for realignment, and accessing DoD-provided
+      funding. Among the funded unfinanced requirements were activation of the 11th
+      Airborne Division's  headquarters,  U.S.  Army  Pacific's  Operation  Pathways,
+      long-haul communications and information technology shortfalls, operations  on
+      the  Mexican  border,  and  a  shortfall  in  military pay accounts.
+    questions_and_answers:
+      - question: |-
+          What is the deadline by which federal agencies must execute no more than 20
+          percent of their budget?
+        answer: The last two months of the fiscal year
+      - question: |-
+          What were some of the unfinanced requirements that the Army funded during FY
+          2022?
+        answer: |-
+          Activation of the 11th Airborne Division's headquarters, U.S. Army Pacific's
+          Operation Pathways, long-haul communications and information technology
+          shortfalls, operations on the Mexican border, and a shortfall in military pay
+          accounts
+  - context: |-
+      In the FY 2022-2024 procurement appropriation, the service had obligated 60.8
+      percent of the available allotment against the 80 percent goal set by DoD for
+      the first year of availability. The Army did not meet this goal because it did
+      not receive these appropriations until 11 March 2022, and it concentrated on
+      executing the FY 20212023 procurement appropriation. For this appropriation, the
+      Army exceeded DoD's standard of 90 percent obligation in the second year of
+      availability by 3.3 percent. The Army executed its expiring FY 2020-2022
+      procurement appropriation at 99.7 percent. It disbursed 40.2 percent of its FY
+      2022 research, development, test, and evaluation appropriation against the 55
+      percent goal set by DoD. The service disbursed  80.8  percent  of  its  expiring
+      FY  2021  appropriation  in this account.
+    questions_and_answers:
+      - question: |-
+          What percentage of the FY 2022-2024 procurement appropriation did the Army
+          execute in the second year of availability?
+        answer: |-
+          The Army exceeded DoD's standard of 90 percent obligation in the second year of
+          availability by 3.3 percent.
+      - question: |-
+          What is the overall performance of the Army in executing its procurement and
+          research appropriations for the given fiscal years?
+        answer: |-
+          The Army executed its expiring FY 2020-2022 procurement appropriation at 99.7
+          percent, and disbursed 40.2 percent of its FY 2022 research, development, test,
+          and evaluation appropriation against the 55 percent goal set by DoD. It also
+          disbursed 80.8 percent of its expiring FY 2021 appropriation in this account.
+      - question: |-
+          Given the information about the Army's execution of its procurement and research
+          appropriations, why do you think the Army did not meet the 80 percent obligation
+          goal in the first year of availability for the FY 2022-2024 procurement
+          appropriation?
+        answer: |-
+          The Army did not meet this goal because it did not receive these appropriations
+          until 11 March 2022, and it concentrated on executing the FY 2021-2023
+          procurement appropriation.
+  - context: |-
+      In the FY 2022-2026 military construction, Army, appropriation, the service
+      awarded contracts for five of thirty-two projects for a total of $110.2 million.
+      The twenty-seven remaining projects were not awarded because of the effects of
+      inflation or environmental, site, or solicitation issues. They are scheduled to
+      be awarded in FY 2023 or FY 2024. Unobligated funding in the amount of $1.7
+      billion is available for the remaining FY 2022 projects, adjustments to prior
+      year projects, minor construction projects, contingencies, contract adjustments,
+      and  for  reprogramming  to  other  RA  construction projects in the event of
+      cost growth. In the FY 2018-2022 military construction, Army, appropriation,
+      twenty-nine of thirty projects were awarded for a total of $1.115 billion. The
+      remaining project
+    questions_and_answers:
+      - question: |-
+          How many projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Five projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation.
+      - question: |-
+          What was the total amount awarded for the projects in the FY 2022-2026 military
+          construction, Army, appropriation?
+        answer: |-
+          A total of $110.2 million was awarded for the projects in the FY 2022-2026
+          military construction, Army, appropriation.
+      - question: |-
+          Given the total unobligated funding and the amount awarded, can we infer the
+          potential impact of inflation or environmental, site, or solicitation issues on
+          the awarding of projects in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Yes, the potential impact of inflation or environmental, site, or solicitation
+          issues can be inferred as the reason for not awarding contracts for twenty-seven
+          out of thirty-two projects in the FY 2022-2026 military construction, Army,
+          appropriation.
+  - context: |-
+      In the FY 2022-2026 military construction, ARNG, appropriation,  the  service
+      awarded  contracts  for  two  of  five projects. The three remaining projects
+      were not awarded because of  environmental,  site,  or  solicitation  issues,
+      or  because  a  priorapproval  reprogramming  was  required.  In  the  FY
+      2018-2022 military  construction  appropriation  for  the  ARNG,  all  thirteen
+      projects were awarded. In the FY 2022-2026 military construction appropriation
+      for  the  USAR,  the  service  awarded  contracts  for one of five projects. The
+      four remaining projects were not awarded because of environmental, site, or
+      solicitation issues, or because a prior-approval reprogramming was required. In
+      the FY 2018-2022 military  construction  appropriation  for  the  USAR,  the
+      service awarded contracts for six projects.
+    questions_and_answers:
+      - question: |-
+          How many projects were awarded in the FY 2018-2022 military construction
+          appropriation for the ARNG?
+        answer: Thirteen projects
+      - question: |-
+          What percentage of projects were awarded in the FY 2022-2026 military
+          construction appropriation for the ARNG and the USAR?
+        answer: 'ARNG: 2/5 or 40%, USAR: 1/5 or 20%'
+      - question: |-
+          Given the information about the projects that were not awarded due to various
+          issues, can we infer any potential challenges the ARNG and USAR might be facing
+          in their military construction projects?
+        answer: |-
+          Based on the passage, it can be inferred that the ARNG and USAR might be facing
+          challenges related to environmental issues, site issues, solicitation issues, or
+          the need for prior-approval reprogramming, which have led to the non-awarding of
+          certain projects in the FY 2022-2026 military construction appropriations.
+  - context: |-
+      The  Army  Working  Capital  Fund  consists  of  two  activity groups:  supply
+      management  and  industrial  operations.  The  first group  buys  and  manages
+      spare  and  repair  parts  for  sale  to  its customers,  primarily  Army
+      operating  units.  The  second  group provides the Army an organic industrial
+      capability. The fund uses a revolving fund concept, relying on revenue from
+      sales to finance operations rather than direct appropriations from Congress. The
+      Army did request some direct appropriations for the fund to meet mobilization
+      and  wartime  surge  requirements.  At  the  start  of  FY 2022, the fund's cash
+      balance of $1.7 billion was within its operating
+    questions_and_answers:
+      - question: |-
+          What is the primary customer of the first activity group of the Army Working
+          Capital Fund?
+        answer: Army operating units
+      - question: |-
+          What are the two activity groups of the Army Working Capital Fund and what do
+          they do?
+        answer: |-
+          The two activity groups of the Army Working Capital Fund are supply management
+          and industrial operations. The supply management group buys and manages spare
+          and repair parts for sale to its customers, primarily Army operating units. The
+          industrial operations group provides the Army an organic industrial capability.
+      - question: |-
+          Given the information about the Army Working Capital Fund's two activity groups,
+          why does the fund use a revolving fund concept?
+        answer: |-
+          The Army Working Capital Fund uses a revolving fund concept because it relies on
+          revenue from sales to finance operations rather than direct appropriations from
+          Congress. This allows the fund to meet mobilization and wartime surge
+          requirements without relying on external funding.
+document_outline: |
+  US Army Historical Summary of Fiscal Year 2022.
+document:
+  repo: https://github.com/pdavis327/west-point-poc
+  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  patterns:
+    - assets/docling_out/*.md

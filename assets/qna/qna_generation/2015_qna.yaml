@@ -1,0 +1,1101 @@
+version: 3
+domain: Military History
+created_by: pdavis
+seed_examples:
+  - context: |-
+      1. INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . ., Page = 1. 2. ORGANIZATION, MANAGEMENT, AND BUDGET ...., Page = 3.
+      Organizational Changes  . . . . . . . . . . . . . . . . . . . . . . . . . .,
+      Page = . Management  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . ., Page = 7. Budget  . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . ., Page = 9. 3. PERSONNEL   . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . ., Page = 17. Army Strength and
+      Distribution . . . . . . . . . . . . . . . . . . ., Page = 17. Officers . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Page =
+      19. Enlisted  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . ., Page = 21. Civilian Personnel  . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . ., Page = 22. Special Topics  . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . ., Page = 23. Medal of Honor  . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . ., Page = 25. 4. FORCE
+      DEVELOPMENT, TRAINING,, Page = . AND OPERATIONAL FORCES. . . . . . . . . . . . .
+      . . . ., Page = 29. Readiness . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . ., Page = 29. Doctrine and Future Force . . . . . . . . .
+      . . . . . . . . . . . . . ., Page = 30. Force Structure  . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . ., Page = 31. Training  . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Page = 33.
+      Operational Forces: Afghanistan  . . . . . . . . . . . . . . . . . . ., Page =
+      36. Operational Forces: Southwest Asia . . . . . . . . . . . . . . . ., Page =
+      38. Operational Forces: U.S. Army, South  . . . . . . . . . . . . . ., Page =
+      39. Operational Forces: U.S. Army, Africa . . . . . . . . . . . . . ., Page =
+      39. Operational Forces: Asia-Pacific . . . . . . . . . . . . . . . . . . ., Page
+      = 42. Operational Forces: U.S. Army, Europe . . . . . . . . . . . . ., Page =
+      43. Operational Forces: Domestic Operations  . . . . . . . . . . ., Page = 45.
+      5. RESERVE COMPONENTS  . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      ., Page = 47. Organizational Structure . . . . . . . . . . . . . . . . . . . . .
+      . . . ., Page = 47. Mobilization  . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . ., Page = 47. Training  . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . ., Page = 49
+    questions_and_answers:
+      - question: What is the title of the section starting on page 17?
+        answer: Army Strength and Distribution
+      - question: What are the main topics covered in the section starting on page
+          17?
+        answer: |-
+          The main topics covered in the section starting on page 17 are Army Strength and
+          Distribution, Officers, Enlisted, Civilian Personnel, and Special Topics.
+      - question: Based on the section titles, what can be inferred about the focus
+          of the report?
+        answer: |-
+          The report focuses on the organizational structure, management, budget,
+          personnel, and operational forces of the army.
+  - context: |-
+      6. LOGISTICS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . ., Page = 51. Management  . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . ., Page = 51. Initiatives . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . ., Page = 52. Research,
+      Development, and Acquisition . . . . . . . . . . . ., Page = 52. 7. SUPPORT
+      SERVICES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .,
+      Page = 61. Installations . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . ., Page = 61. Public Affairs . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . ., Page = 62. Legislative Liaison . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . ., Page = 63. Safety . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Page = 63. 8. SPECIAL
+      FUNCTIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Page
+      = 65. The Surgeon General . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      ., Page = 65. The Inspector General . . . . . . . . . . . . . . . . . . . . . .
+      . . . . ., Page = 66. Provost Marshal General  . . . . . . . . . . . . . . . . .
+      . . . . . . . ., Page = 68. Army Audit Agency . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . ., Page = 68. Civil Works  . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . . . . ., Page = 68. Environmental Protection . .
+      . . . . . . . . . . . . . . . . . . . . . ., Page = 69. Chemical Weapons
+      Demilitarization . . . . . . . . . . . . . . . ., Page = 70. Legal  . . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ., Page =
+      70. Historical Activities . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . ., Page = 72. 9. CONCLUSION  . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . ., Page = 73. APPENDIX: HQDA, ORGANIZATION (FY 2015)
+      (INSIDE BACK  COVER), Page = APPENDIX: HQDA, ORGANIZATION (FY 2015)   (INSIDE
+      BACK  COVER). BIBLIOGRAPHICAL NOTE .... . . . . . . . . . . . . . . . . . . . .
+      . . . . ., Page = 75. ABBREVIATIONS AND ACRONYMS ........... . . . . . . . . .,
+      Page = 77. INDEX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . . . . . . . . . ., Page = 79
+    questions_and_answers:
+      - question: |-
+          Based on the titles and page numbers, what can be inferred about the structure
+          and content of the document?
+        answer: |-
+          The document appears to be organized hierarchically, with broader categories
+          like 'Logistics' and 'Support Services' encompassing more specific functions and
+          departments. The progression from page 51 to 70 suggests that the document
+          becomes more specific and detailed as it goes on. The presence of an appendix
+          and index indicates that the document is comprehensive and intended to serve as
+          a reference.
+  - context: |-
+      1., Page = Total Obligational Authority Base Budget   Request, FY 2015 . . . . .
+      . . . . . . . . . . . . . . . . . . . . . . . . . . .   10. 2., Page = Total
+      Obligational Authority Overseas Contingency   Operations Request, FY 2015 . . .
+      . . . . . . . . . . . . . . . . . . .   11. 3., Page = Total Obligational
+      Authority Approved   Base Budget, FY 2015 . . . . . . . . . . . . . . . . . . .
+      . . . . . . . . .   12. 4., Page = Total Obligational Authority Approved
+      Overseas   Contingency Operations, FY 2015  . . . . . . . . . . . . . . . . . .
+      13. 5., Page = Total Obligational Authority Base Budget Request, FY 2016 . .
+      15. 6., Page = Total Obligational Authority Overseas Contingency   Operations
+      Request, FY 2016 . . . . . . . . . . . . . . . . . . . . . .   16. 7., Page =
+      Active Duty Personnel by Race/Ethnicity, FY 2015 . . . . . . . . .  17. 8., Page
+      = Active Duty Personnel by Gender, FY 2015 . . . . . . . . . . . . . . .   17.
+      9., Page = Army National Guard Personnel by Race/Ethnicity, FY 2015  . .  18.
+      10., Page = Army National Guard Personnel by Gender, FY 2015  . . . . . . .  18.
+      11., Page = Army Reserve Personnel by Race/Ethnicity, FY 2015  . . . . . . .
+      18. 12., Page = Army Reserve Personnel by Gender, FY 2015  . . . . . . . . . . .
+      . . .   19. 13., Page = Graduates of Initial Military Training Courses, FY 2015
+      . . . .  34. 14., Page = Graduates of Active Component Professional Development
+      Courses, FY 2015 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+      35. 15., Page = Courts-Martial Statistics, FY 2015  . . . . . . . . . . . . . .
+      . . . . . . . . .   71
+    questions_and_answers:
+      - question: |-
+          What is the page number for the Total Obligational Authority Approved Base
+          Budget, FY 2015?
+        answer: '12'
+      - question: What does the page range 10 to 13 cover in terms of budget topics?
+        answer: |-
+          The page range 10 to 13 covers the Total Obligational Authority Base Budget
+          Request, FY 2015; Total Obligational Authority Overseas Contingency Operations
+          Request, FY 2015; Total Obligational Authority Approved Base Budget, FY 2015;
+          and Total Obligational Authority Approved Overseas Contingency Operations, FY
+          2015.
+      - question: |-
+          Based on the provided context, can we infer any correlation between the budget
+          requests for FY 2015 and FY 2016?
+        answer: |-
+          The context does not provide enough information to directly compare the budget
+          requests for FY 2015 and FY 2016. However, it can be inferred that the budget
+          requests for FY 2016 are presented after the FY 2015 requests, suggesting a
+          possible increase or decrease in the budget allocations.
+  - context: "General Raymond T. Odierno, Ashton B. Carter,, 1 = . John M. McHugh,\
+      \ General\nMartin E. Dempsey,   and General Mark A. Milley  . . . . . . . .\
+      \ . . . . . . . .\n. . . . . . . . . ., 1 = 3. President Obama posthumously\
+      \ awards the Medal   of\nHonor to 1st Lt. Alonzo H. Cushing. . . . . . . . .\
+      \ . . . . . . . . .  26, 1 = .\nPresident Obama posthumously awards the Medal\
+      \   of Honor to Sgt. Henry Johnson.\n. . . . . . . . . . . . . . . . . . . .\
+      \ . .   26, 1 = . President Obama\nposthumously awards the Medal   of Honor\
+      \ to Sgt. William Shemin.  . . . . . . .\n. . . . . . . . . . . . . .   27,\
+      \ 1 = . Soldiers of the 3d BCT, 101st Airborne\nDivision, provide   security\
+      \ in Nangarhar Province, Afghanistan.  . . . . . . .\n. . . . .  37, 1 = . A\
+      \ biochemist with the 1st Medical Laboratory decontaminates\nequipment for Ebola\
+      \ testing in Zwedru, Liberia. . . . . . . . . . .  41, 1 = .\nSoldiers from\
+      \ the 2d Battalion, 8th Cavalry Regiment, of the   1st BCT, 1st\nCavalry Division,\
+      \ during Operation  Iron   Sword  2014 in Pabrad \u0117 , Lithuania .\n. . .\
+      \ . . . . . . . . . . . . . . . . .  44, 1 = . A UH-60 Black Hawk helicopter\n\
+      of the Alaska Army National  Guard during a firefighting mission south of Tok,\n\
+      Alaska  . . 48, 1 = . The 288th Engineer Company of the Mississippi Army\nNational\
+      \  Guard trains during an Exportable Combat Training  Capability\nexercise.\
+      \ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n50, 1 =\
+      \ . A soldier from the 4th Infantry BCT, 3d Infantry Division,   uses the\n\
+      JBC-P system.  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . \
+      \  55,\n1 = . A Guided Multiple Launch Rocket is fired from a M142 High  Mobility\n\
+      Artillery Rocket System launcher.  . . . . . . . . . . . . . .  57, 1 = .\n\
+      Operational Camouflage Pattern Army Combat Uniform  . . . . . . 58, 1 = . All\n\
+      illustrations from the files of the Department of Defense, 1 ="
+    questions_and_answers:
+      - question: Which military division's soldiers are seen using the JBC-P system?
+        answer: 4th Infantry BCT, 3d Infantry Division
+      - question: |-
+          What activities are the soldiers from the 3d BCT, 101st Airborne Division, the
+          2nd Battalion, 8th Cavalry Regiment, and the 288th Engineer Company of the
+          Mississippi Army National Guard engaged in?
+        answer: "The soldiers from the 3d BCT, 101st Airborne Division are providing\
+          \ security in\nNangarhar Province, Afghanistan. The 2nd Battalion, 8th Cavalry\
+          \ Regiment is\nparticipating in Operation Iron Sword 2014 in Pabrad\u0117\
+          , Lithuania. The 288th\nEngineer Company of the Mississippi Army National\
+          \ Guard is training during an\nExportable Combat Training Capability exercise."
+  - context: |-
+      When  fiscal  year  (FY)  2015  opened,  the  Army  did  not  have an  approved
+      budget  and  operated  under  a  continuing  resolution. The  service  expected
+      that  the  year  would  bring  organizational  and personnel  turbulence  from
+      cuts  in  its  budget  and  its  authorized personnel strength. Although major
+      combat operations in Iraq and Afghanistan  had  ended,  the  service  still  had
+      commitments  in  both countries.  At  the  same  time,  the  Army  would  have
+      to  maintain  its readiness for contingencies and modernize its materiel for
+      large-scale combat operations.
+    questions_and_answers:
+      - question: What fiscal year did the Army not have an approved budget at the
+          start of?
+        answer: FY 2015
+      - question: What were the main challenges the Army faced at the start of FY
+          2015?
+        answer: |-
+          The Army faced organizational and personnel turbulence from cuts in its budget
+          and its authorized personnel strength, while maintaining commitments in Iraq and
+          Afghanistan and preparing for contingencies and large-scale combat operations.
+  - context: |-
+      this process. In July 2014, HQDA began a comprehensive review of its
+      organization,  to  include  associated  field  operating  agencies,  to
+      determine the optimal size and structure of the headquarters within the
+      constraints of projected budgets and overall Army end strength. The under
+      secretary of the Army, in coordination with the vice chief of staff of the Army,
+      oversaw the review, and the Office of Business Transformation and a contractor
+      with expertise in large organizational headquarters design implemented it.
+    questions_and_answers:
+      - question: Who oversaw the comprehensive review of HQDA's organization in July
+          2014?
+        answer: |-
+          The under secretary of the Army, in coordination with the vice chief of staff of
+          the Army.
+      - question: What was the purpose of the review initiated by HQDA in July 2014?
+        answer: |-
+          The purpose of the review was to determine the optimal size and structure of the
+          headquarters within the constraints of projected budgets and overall Army end
+          strength.
+      - question: |-
+          Based on the information provided, can we infer any potential changes that might
+          have been considered during the review?
+        answer: |-
+          The text does not provide specific information on the potential changes that
+          might have been considered during the review.
+  - context: |-
+      In  June  2015,  the  secretary  of  the  Army  approved  the  redesign
+      recommended by the review, with HQDA's provisional reorganization no  later
+      than  the  end  of  FY  2016  as  a  preparatory  step,  with  full
+      implementation no later than the beginning of FY 2019. Among the findings of the
+      review were that numerous agencies had an excessive number of echelons between
+      action officers and senior decision makers, and  that  too  many  managers  had
+      too  few  employees  to  manage. Guidance for  the  redesign  therefore
+      included  limiting  organizations to seven echelons and setting the ideal
+      manager-to-employees ratio at one to eight. During FY 2016, these new designs
+      will be implemented, along with the associated personnel reductions.
+    questions_and_answers:
+      - question: What is the deadline for full implementation of the redesign?
+        answer: No later than the beginning of FY 2019.
+      - question: What are the key aspects of the guidance for the redesign?
+        answer: |-
+          The guidance for the redesign includes limiting organizations to seven echelons
+          and setting the ideal manager-to-employees ratio at one to eight.
+      - question: |-
+          Given the issues identified in the review, why is it necessary to limit the
+          number of echelons and set a specific manager-to-employees ratio?
+        answer: |-
+          Limiting the number of echelons and setting a specific manager-to-employees
+          ratio helps address the issues of excessive echelons between action officers and
+          senior decision makers and too many managers having too few employees to manage.
+  - context: |-
+      The secretary  of  the  Army  in  July  2015  approved  the  surgeon general's
+      request  to  reorganize  Medical  Command  (MEDCOM). In  2013,  a  Futures  Task
+      Force  had  been  established  to  review the  MEDCOM  structure;  it
+      recommended  a  flattened  and  more integrated  structure  geographically
+      aligned  to  support  operational forces. The  resulting reorganization will
+      transform the fifteen existing  regional  functional  commands  into  four
+      multidisciplinary regional  health  commands  (RHC):  RHC-Pacific,  RHC-Central,
+      RHC-Atlantic,  and  RHC-Europe.  The  RHCs  will  bring  together medical,
+      dental,  public  health,  and  veterinary  services  under  one general officer
+      command, providing a single point of accountability for health readiness in the
+      operational forces. Within the continental United States, RHC-Atlantic and RHC-
+      Central will align primarily with XVIII Airborne Corps and III Corps
+      installations, respectively. Overseas, RHC-Pacific will align with U.S. Army,
+      Pacific, and RHCEurope will align with U.S. Army, Europe, and U.S. Army, Africa
+      (USARAF). The headquarters elements of Dental Command, Public Health Command,
+      and Warrior Transition Command will move to the MEDCOM headquarters as principal
+      staff elements to improve health  readiness  integration,  synchronization,  and
+      oversight  at  the strategic level. MEDCOM initiated the reorganization
+      immediately after approval by the secretary of the Army; three of the four new
+      RHCs were operational by the end of the fiscal year and activation of RHC-
+      Central is expected to occur in October 2015.
+    questions_and_answers:
+      - question: |-
+          What is the name of the person who approved the reorganization of MEDCOM in July
+          2015?
+        answer: The secretary of the Army
+      - question: |-
+          How many multidisciplinary regional health commands (RHCs) will the reorganized
+          MEDCOM have?
+        answer: Four
+      - question: |-
+          Why was the headquarters elements of Dental Command, Public Health Command, and
+          Warrior Transition Command moved to the MEDCOM headquarters?
+        answer: |-
+          To improve health readiness integration, synchronization, and oversight at the
+          strategic level.
+  - context: |-
+      Since its establishment in 2006, the commander of the Installation Management
+      Command  (IMCOM)  had  been  HQDA's  assistant chief  of  staff  for
+      installation  management.  The  move  of  IMCOM headquarters from the National
+      Capital Region to Fort Sam Houston, Texas, made this arrangement unwieldy by
+      2013. An analysis by the Office  of  the  Assistant  Chief  of  Staff  for
+      Installation  Management resulted in the creation of the IMCOM Task Force and
+      the Installation Management  Task  Force  to  identify  the  issues  associated
+      with separating the two positions. In December 2014, the chief of staff of the
+      Army decided to pursue a separate lieutenant general position for the  IMCOM
+      commander. In June 2015, the secretary of the Army approved this separation and
+      the new lieutenant general position, with IMCOM becoming a direct-reporting unit
+      to the assistant secretary of the Army (installations, energy, and environment).
+      The transition to this new arrangement will be completed during FY 2016.
+    questions_and_answers:
+      - question: What is the current position of the IMCOM commander?
+        answer: The IMCOM commander is currently a lieutenant general position.
+      - question: |-
+          What were the sequence of events that led to the creation of the new lieutenant
+          general position for the IMCOM commander?
+        answer: |-
+          First, an analysis was conducted by the Office of the Assistant Chief of Staff
+          for Installation Management. This led to the creation of the IMCOM Task Force
+          and the Installation Management Task Force. Following this, the chief of staff
+          of the Army decided to pursue a separate lieutenant general position for the
+          IMCOM commander, which was approved by the secretary of the Army. The transition
+          to this new arrangement will be completed during FY 2016.
+      - question: |-
+          Given the information that the IMCOM headquarters was moved to Fort Sam Houston,
+          Texas in 2013 and the unwieldiness of the previous arrangement, why was it
+          necessary to create a separate lieutenant general position for the IMCOM
+          commander?
+        answer: |-
+          The text suggests that the previous arrangement of the IMCOM commander being the
+          HQDA's assistant chief of staff for installation management became unwieldy
+          after the move. Therefore, it was necessary to create a separate position to
+          manage these responsibilities effectively.
+  - context: |-
+      The  deputy  secretary  of  defense  in  October  2014  directed  a study  into
+      the  operational  cost  of  the  Pentagon  Reservation.  One recommendation  of
+      the  study  was  that  information  technology (IT)  in  the  Pentagon  be
+      consolidated  under  a  Joint  Information Technology Single Service Provider
+      (JITSSP), which would be a field service  agency  of  the  Defense  Information
+      Systems  Agency.  The resources and capabilities of the new organization would
+      be provided by Washington Headquarters Services' Enterprise Information
+      Technology  Directorate,  the  Joint  Staff's  IT  operations,  and  the Army's
+      Information  Technology  Agency  (ITA),  which  provides  IT services  for  many
+      other  DoD  organizations  within  the  National Capital Region. In May 2015,
+      the deputy secretary of defense accepted this recommendation and directed its
+      implementation in two phases. The  first  phase  of  the  transition  began  in
+      July  2015  when  JITSSP assumed operational control of ITA and the Enterprise
+      Information Technology  Directorate.  Consolidation  of  common  or  shared  IT
+      services within organizations of Office of the Secretary of Defense in the
+      Pentagon and the National Capital Region will occur during this phase. The
+      second phase will extend the consolidation to the military departments'
+      headquarters in the Pentagon and their elements in the National Capital Region.
+      The transition is expected to be complete by the end of FY 2016.
+    questions_and_answers:
+      - question: |-
+          When did the deputy secretary of defense accept the recommendation to
+          consolidate IT in the Pentagon under a JITSSP?
+        answer: May 2015
+      - question: |-
+          What are the three organizations that will provide resources and capabilities to
+          the new JITSSP organization?
+        answer: |-
+          Washington Headquarters Services' Enterprise Information Technology Directorate,
+          the Joint Staff's IT operations, and the Army's Information Technology Agency
+          (ITA)
+      - question: |-
+          Given the information about the two phases of the transition, what is the
+          expected completion date of the entire transition?
+        answer: The transition is expected to be complete by the end of FY 2016
+  - context: |-
+      dispersion of the service's schools and different institutional agendas
+      prevented  the  development  of  a  university  structure.  Advances  in digital
+      technology  and  distance  learning  now  enable  integrating Training and
+      Doctrine Command (TRADOC) schools into a single educational structure modeled
+      after successful state university systems, as well as the Air, Marine Corps, and
+      National Defense Universities. All elements of officer, warrant officer,
+      noncommissioned officer, and civilian education systems, both active and reserve
+      components, and the Reserve Officers' Training Corps precommissioning program
+      will be included. The Army War College will retain its unique status as a
+      direct-reporting unit to the chief of staff of the Army. At HQDA, the Office of
+      the Deputy Chief of Staff G-3/5/7 will develop relevant policy  and  manage
+      resources for the program, which is expected to reach full operational
+      capability in June 2017.
+    questions_and_answers:
+      - question: |-
+          What is the expected date for the new educational structure to reach full
+          operational capability?
+        answer: June 2017
+      - question: |-
+          What components of the officer, warrant officer, noncommissioned officer, and
+          civilian education systems will be integrated into the new educational
+          structure?
+        answer: |-
+          All elements of officer, warrant officer, noncommissioned officer, and civilian
+          education systems, both active and reserve components, and the Reserve Officers'
+          Training Corps precommissioning program will be included
+      - question: |-
+          Based on the information provided, why is the Army War College not being
+          integrated into the new educational structure?
+        answer: |-
+          The Army War College will retain its unique status as a direct-reporting unit to
+          the chief of staff of the Army, possibly due to its specific and distinct role
+          in education and training.
+  - context: |-
+      The TRADOC commanding general will act as Army University chancellor and serve
+      as the systemwide integrator, reporting directly to the chief of staff of the
+      Army. The commanding general of the Combined Arms Center at Fort  Leavenworth,
+      Kansas,  will  act  as executive  vice  chancellor  for  training  and
+      education,  providing oversight  of  academic  quality,  support  programs,
+      finances,  future development  of  the  system,  and  public  representation
+      for  the university. The commandant of the Army War College will act as vice
+      chancellor, advising the chancellor and the chief of staff of the Army on
+      matters  concerning  strategic  education.  The  Combined  Arms Center's deputy
+      commanding general will act as provost, responsible for long-term continuity,
+      and will also serve as manager of the Army Learning Coordination Council, which
+      will synchronize education activities across the Army.
+    questions_and_answers:
+      - question: Who is the vice chancellor of Army University?
+        answer: The commandant of the Army War College
+      - question: |-
+          Who are the four key figures in the Army University leadership structure and
+          what are their roles?
+        answer: |-
+          The TRADOC commanding general acts as the Army University chancellor and
+          systemwide integrator, reporting directly to the chief of staff of the Army. The
+          commanding general of the Combined Arms Center at Fort Leavenworth, Kansas, acts
+          as executive vice chancellor for training and education. The commandant of the
+          Army War College acts as vice chancellor, advising the chancellor and the chief
+          of staff of the Army on matters concerning strategic education. The Combined
+          Arms Center's deputy commanding general acts as provost, responsible for long-
+          term continuity and managing the Army Learning Coordination Council.
+      - question: |-
+          Based on the roles of the TRADOC commanding general and the commanding general
+          of the Combined Arms Center, how are they related in terms of their
+          responsibilities in the Army University?
+        answer: |-
+          The TRADOC commanding general, as the Army University chancellor, is the overall
+          head of the university, while the commanding general of the Combined Arms
+          Center, as the executive vice chancellor for training and education, provides
+          oversight of academic quality, support programs, finances, future development of
+          the system, and public representation for the university. Therefore, the TRADOC
+          commanding general is superior to the commanding general of the Combined Arms
+          Center in the Army University hierarchy.
+  - context: |-
+      Realignment of the Institute of Heraldry began late in the fiscal year  and
+      will  become  effective  on  1  October  2015.  Previously,  the institute  had
+      reported  directly  to  the  Office  of  the  Administrative Assistant to the
+      Secretary of the Army. The change placed it under the U.S. Army Center of
+      Military History. The rationale for this move included commonality of mission,
+      as well as the fact that historical heraldry items, products, and services align
+      closely under the center's mission areas and equities.
+    questions_and_answers:
+      - question: Which office did the Institute of Heraldry previously report to?
+        answer: |-
+          The Institute of Heraldry previously reported directly to the Office of the
+          Administrative Assistant to the Secretary of the Army.
+      - question: |-
+          What is the new location and reason for the realignment of the Institute of
+          Heraldry?
+        answer: |-
+          The Institute of Heraldry is now under the U.S. Army Center of Military History
+          due to the commonality of mission and the alignment of historical heraldry
+          items, products, and services under the center's mission areas and equities.
+      - question: |-
+          Given the realignment of the Institute of Heraldry, what can be inferred about
+          the mission alignment between the Institute and the U.S. Army Center of Military
+          History?
+        answer: |-
+          The mission of the Institute of Heraldry aligns closely with the mission areas
+          and equities of the U.S. Army Center of Military History, as evidenced by their
+          new reporting structure.
+  - context: |-
+      In  February  2015,  the  HQDA  chief  information  officer/deputy chief of
+      staff, G-6 (CIO/G-6), published the Army Network Campaign Plan, which provides
+      the direction for a modern network that optimizes operational effectiveness and
+      increases information security while also increasing  efficiencies.  The
+      network  is  one  of  the  key  technological focus areas described in the Army
+      Operating Concept. The plan has five goals. First, align signals capabilities to
+      support all Army missions. Second, boost cybersecurity capabilities, in part by
+      establishing a series of  cyberprotection  teams.  Third,  strengthen  the
+      Army's  underlying IT infrastructure. Fourth, make better use of IT at the edge
+      of Army networks by using tools such as data consolidation. Fifth, strengthen
+      network operations by, for example, 'flattening' the IT architecture to give
+      network operators greater visibility.
+    questions_and_answers:
+      - question: What is the name of the Army Network Campaign Plan publisher?
+        answer: The HQDA chief information officer/deputy chief of staff, G-6 (CIO/G-6)
+      - question: What are the five goals of the Army Network Campaign Plan?
+        answer: |-
+          The five goals of the Army Network Campaign Plan are: align signals capabilities
+          to support all Army missions, boost cybersecurity capabilities, strengthen the
+          Army's underlying IT infrastructure, make better use of IT at the edge of Army
+          networks, and strengthen network operations.
+      - question: |-
+          Given the goals of the Army Network Campaign Plan, why is 'flattening' the IT
+          architecture important?
+        answer: |-
+          Flattening the IT architecture is important because it gives network operators
+          greater visibility, thereby strengthening network operations.
+  - context: |-
+      The following month, the CIO/G-6 published Army Cloud Computing Strategy .  It
+      sets  out how cloud-enabled network capabilities will improve mission and
+      business effectiveness, increase operational IT efficiencies, and protect the
+      service's data and IT infrastructure. It extended the concepts defined in
+      various federal government policies and nests within the Army Network Campaign
+      Plan. The elements in this strategy include common standards; enabling
+      resilience; cybersecurity; lowering IT costs; continuation of service under
+      disconnected, intermittent,  or  low-bandwidth  conditions;  minimizing
+      redundant data  sources;  and  compliance  with  Army  Information  Architecture
+      data standards. The G-6 will update the strategy periodically to reflect the
+      standards, polices, and lessons learned during implementation.
+    questions_and_answers:
+      - question: What is the name of the strategy published by the CIO/G-6?
+        answer: Army Cloud Computing Strategy
+      - question: What are the main elements of the Army Cloud Computing Strategy?
+        answer: |-
+          Common standards, enabling resilience, cybersecurity, lowering IT costs,
+          continuation of service under disconnected, intermittent, or low-bandwidth
+          conditions, minimizing redundant data sources, and compliance with Army
+          Information Architecture data standards.
+      - question: |-
+          Given the goals of the Army Cloud Computing Strategy, why might minimizing
+          redundant data sources be an important element?
+        answer: |-
+          Minimizing redundant data sources can increase operational IT efficiencies and
+          protect the service's data and IT infrastructure by reducing data storage costs
+          and potential data inconsistencies.
+  - context: "The Office of Management and Budget (OMB) in 2010 established the Federal\
+      \ Data\nCenter Consolidation Initiative to reduce the cost of  data  center\
+      \  operations,\nincrease  the  federal  government's  overall IT  security,\
+      \  and  shift  IT\ninvestments  to  more  efficient  computing platforms. The\
+      \ initiative directed\nfederal agencies to close 40\_percent of their data centers\
+      \ by the end of FY\n2015. To comply with this directive, HQDA established  the\
+      \  Army  Data  Center\nConsolidation  Program. Initially, OMB had defined a\
+      \ data center as any room\nlarger than 500 square feet devoted to data processing.\
+      \ In March 2012, however,\nOMB realized  that  data  center  facilities  smaller\
+      \  than  500  square  feet\nalso consumed  significant  resources  and  directed\
+      \  that  these  be  included\nin  the  consolidation  effort.  Using  the  revised\
+      \  definition,  the  Army\nidentified 1,162 data centers across the service.\
+      \ Between FY 2011 and the end of\nFY 2015, the Army did not meet the goal of\
+      \ a 40\_percent reduction; it reached\n30\_percent by closing 352 centers. The\
+      \ shortfall occurred principally in FY\n2015, when only 71 out of 130 targeted"
+    questions_and_answers:
+      - question: |-
+          What was the original size definition of a data center, according to OMB in
+          2010?
+        answer: Any room larger than 500 square feet devoted to data processing.
+      - question: |-
+          What was the Army's progress in data center consolidation between FY 2011 and
+          the end of FY 2015?
+        answer: The Army managed to close 352 data centers, which is a 30% reduction.
+      - question: |-
+          Why did the Army not meet its 40% data center consolidation goal by the end of
+          FY 2015?
+        answer: |-
+          The text does not provide specific reasons for the shortfall, but it indicates
+          that the Army only managed to close 71 out of 130 targeted data centers in FY
+          2015.
+  - context: |-
+      Over the past decade, the Army has invested heavily in standing up enterprise-
+      wide cost-management capabilities within the General Fund  Enterprise  Business
+      System  and  other  related  enterprise, resource,  and  planning  systems.  To
+      take  full  advantage  of  these systems  for  better  cost  planning,
+      analysis,  and  control,  the  Army established  a  cost-management  steering
+      group  in  October  2014. General officers and Senior Executive Service members
+      comprise the group and the deputy assistant secretary of the Army for cost and
+      economics chairs it.
+    questions_and_answers:
+      - question: Who chairs the Army's cost-management steering group?
+        answer: The deputy assistant secretary of the Army for cost and economics
+      - question: What is the composition of the Army's cost-management steering group?
+        answer: General officers and Senior Executive Service members
+      - question: |-
+          Given the Army's investment in cost-management systems over the past decade, why
+          was the cost-management steering group established?
+        answer: To better utilize these systems for cost planning, analysis, and control.
+  - context: |-
+      Progress continued toward the goal of auditable financial statements. Congress
+      mandated in the FY 2010 National Defense Authorization Act  that  the  DoD  must
+      develop  a  plan  for  correcting  its  financial management  deficiencies  and
+      ensure  that  its  financial  statements  are ready for audit by 30 September
+      2017. In FY 2014, the Army asserted audit readiness on its General Fund Schedule
+      of Budgetary Activity. The General Fund Schedule of Budgetary Activity for FY
+      2015 included financial transactions directly related to appropriations received
+      by the service in FY 2015, but did not include financial transactions related to
+      appropriations received in prior fiscal years. In December 2014, the Army
+      contracted with an independent public accounting firm to conduct the audit,
+      which will be completed early in FY 2016.
+    questions_and_answers:
+      - question: What is the deadline for the DoD's financial statements to be ready
+          for audit?
+        answer: 30 September 2017
+      - question: What is the current status of the Army's audit readiness?
+        answer: |-
+          The Army asserted audit readiness on its General Fund Schedule of Budgetary
+          Activity in FY 2014, but the audit for FY 2015 did not include financial
+          transactions related to appropriations received in prior fiscal years. The audit
+          for FY 2015 is scheduled to be completed early in FY 2016.
+      - question: |-
+          Given the information that the Army contracted with an independent public
+          accounting firm in December 2014, what can be inferred about the Army's
+          initiative towards audit readiness?
+        answer: |-
+          The Army's initiative towards audit readiness is demonstrated by their proactive
+          step to contract an independent public accounting firm for an audit.
+  - context: |-
+      In  July  2015,  the  secretary  of  the  Army  revised  the  service's
+      conference management policy. Implementation of the policy since its issuance in
+      December 2013 had demonstrated the need for increased delegation  of  approval
+      authorities.  The  revision  also  ended  the cumbersome requirement for a
+      postevent quantitative and qualitative assessment as it provided fewer benefits
+      than anticipated. Instead, only conferences approved by a tier one or tier two
+      official now require a qualitative after-action report; conferences approved by
+      a tier three or tier four official only require submission of actual cost and
+      attendance
+    questions_and_answers:
+      - question: |-
+          Which month did the secretary of the Army revise the conference management
+          policy?
+        answer: July 2015
+      - question: What changes were made to the conference management policy after
+          its revision?
+        answer: |-
+          The revision increased delegation of approval authorities, ended the requirement
+          for a postevent quantitative and qualitative assessment, and implemented a
+          system where only conferences approved by a tier one or tier two official
+          require a qualitative after-action report, while conferences approved by a tier
+          three or tier four official require submission of actual cost and attendance.
+      - question: |-
+          Based on the revision, why might lower-tier officials have been given more
+          approval authority for conferences?
+        answer: |-
+          The passage suggests that the initial implementation of the policy demonstrated
+          the need for increased delegation of approval authorities, implying that lower-
+          tier officials may have been given more authority because they were better
+          positioned to make decisions on these matters.
+  - context: |-
+      The Army published a major revision of Army Regulation 1-100: The Army Gift
+      Program in  July  2015. This revision, the first in thirty-two years, also
+      superseded Army Regulation 1-101: Gifts for Distribution to Individuals . A new
+      Army Regulation 1-100 is part of HQDA's effort to standardize the acceptance,
+      recording, reporting, and accountability of gifts accepted under Title 10,
+      United States Code ,  for  the  benefit of various organizations and activities
+      across the Department of the Army. For this reason, this revision also
+      superseded Army Regulation 1-101 because it had included an extrastatutory
+      authority to certain commanders.
+    questions_and_answers:
+      - question: When was the last major revision of Army Regulation 1-100 published?
+        answer: The last major revision of Army Regulation 1-100 was published in
+          July 2015.
+      - question: What did the 2015 revision of Army Regulation 1-100 do and why was
+          it necessary?
+        answer: |-
+          The 2015 revision of Army Regulation 1-100 standardized the acceptance,
+          recording, reporting, and accountability of gifts accepted for the benefit of
+          various organizations and activities across the Department of the Army. It was
+          necessary because it superseded Army Regulation 1-101 and was the first revision
+          in thirty-two years.
+      - question: |-
+          Why was Army Regulation 1-101 superseded by the 2015 revision of Army Regulation
+          1-100?
+        answer: |-
+          Army Regulation 1-101 was superseded by the 2015 revision of Army Regulation
+          1-100 because it included an extrastatutory authority to certain commanders.
+  - context: "For the sixth consecutive year, the Army began its fiscal year without\
+      \ an\napproved  budget,  operating  instead  on  a  continuing  resolution,\
+      \ which\nappropriated amounts for FY 2015 operations under the same conditions\
+      \ and at the\nsame rates as in FY 2014. Under the resolution, no new multiyear\
+      \ procurements\nutilizing advance procurement funding could be initiated. It\
+      \ limited military\nconstruction to planning and design, unspecified minor military\
+      \ construction,\nongoing projects already  authorized,  and  the  Army  Family\
+      \  Housing  program.\nIn early November, the president sent Congress a request\
+      \ for additional\noperational contingency operations funding in FY 2015. The\
+      \ Army would  receive\nabout  $2.5\_ billion;  62\_ percent  of  this  amount\
+      \  would go to training and\nequipping Iraqi forces. Congress finally passed\
+      \ the National Defense\nAuthorization Act for FY 2015 in December ( Tables 1-4\
+      \ ), and on 19 December the\npresident signed it into law."
+    questions_and_answers:
+      - question: What is the source of the $2.5 billion funding for the Army in FY
+          2015?
+        answer: |-
+          The $2.5 billion funding for the Army in FY 2015 came from a request sent to
+          Congress by the president for additional operational contingency operations
+          funding.
+      - question: |-
+          What are the main components of the $2.5 billion funding for the Army in FY
+          2015?
+        answer: |-
+          62% of the $2.5 billion goes to training and equipping Iraqi forces, the rest is
+          not specified in the passage.
+      - question: |-
+          Given that the Army's budget was operating on a continuing resolution, why was
+          it necessary for the president to send a request for additional operational
+          contingency operations funding?
+        answer: |-
+          The passage suggests that the continuing resolution limited the Army's ability
+          to initiate new multiyear procurements and restricted military construction to
+          certain areas. Therefore, the president's request for additional funding might
+          have been necessary to cover expenses that fell outside these limitations.
+  - context: |-
+      Table 1-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy 2015 ( Millions of
+      Dollars ), 1 = Table 1-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy
+      2015 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
+      Army, 1 = 41,225. Military Personnel, Army Reserve, 1 = 4,459. Military
+      Personnel, Army National Guard, 1 = 7,683. Medicare-Eligible Retiree Health Care
+      Fund, Army, 1 = 1,795. Medicare-Eligible Retiree Health Care Fund, Army Reserve,
+      1 = 611. Medicare-Eligible Retiree Health Care Fund, Army National  Guard, 1 =
+      350. Operation and Maintenance, 1 = . Operation and Maintenance, Army, 1 =
+      33,240. Operation and Maintenance, Army Reserve, 1 = 2,491. Operation and
+      Maintenance, Army National Guard, 1 = 6,031. Environmental Restoration, 1 = 202.
+      Procurement, 1 = . Aircraft, 1 = 5,103. Missiles, 1 = 1,017. Weapons and Tracked
+      Combat Vehicle, 1 = 1,471. Ammunition, 1 = 1,031. Other Procurement, 1 = 4,894.
+      Research, Development, Test, and Evaluation, 1 = 6,594. Military Construction, 1
+      = . Military Construction, Army, 1 = 539. Military Construction, Army Reserve, 1
+      = 104. Military Construction, Army National Guard, 1 = 127. Army Family Housing,
+      1 = . Operation, 1 = 351. Construction, 1 = 79. Army Working Capital Fund, 1 =
+      14. Arlington National Cemetery, 1 = 46 a. Base Realignment and Closure, 1 = 84.
+      Chemical Agents-Munitions Destruction/Construction, 1 = 868. Joint Improvised
+      Explosive Device Defeat Fund, 1 = 115. Total, 1 = 120,524
+    questions_and_answers:
+      - question: |-
+          What is the budget request for Operation and Maintenance, Army Reserve in FY
+          2015?
+        answer: 2,491
+      - question: |-
+          What are the total budget requests for all categories of the Army National Guard
+          in FY 2015?
+        answer: 14,292
+      - question: |-
+          Based on the provided data, if the Army were to increase its budget for Military
+          Personnel by 10%, what would be the new budget for this category?
+        answer: |-
+          The new budget for Military Personnel would be 45,347.5 million dollars (41,225
+          + 10% of 41,225). Please note that this is a rough estimate and actual
+          calculations may vary due to rounding.
+  - context: |-
+      Table 2-ToTal oblIgaTIonal auThorITy overSeaS ConTIngenCy  operaTIonS requeST,
+      Fy 2015 ( Millions of Dollars ), 1 = Table 2-ToTal oblIgaTIonal auThorITy
+      overSeaS ConTIngenCy  operaTIonS requeST, Fy 2015 ( Millions of Dollars ).
+      Military Personnel, 1 = . Military Personnel, Army, 1 = 3,829. Military
+      Personnel, Army Reserve, 1 = 25. Military Personnel, Army National Guard, 1 =
+      155. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 46. Operation and
+      Maintenance, 1 = . Operation and Maintenance, Army, 1 = 17,135. Operation and
+      Maintenance, Army Reserve, 1 = 41. Operation and Maintenance, Army National
+      Guard, 1 = 76. Procurement, 1 = . Aircraft, 1 = 36. Missiles, 1 = 32.
+      Ammunition, 1 = 141. Other Procurement, 1 = 778. Research, Development, Test,
+      and Evaluation, 1 = 4. Afghanistan Security Forces Fund, 1 = 4,109. Joint
+      Improvised Explosive Device Defeat Fund, 1 = 379. Iraq Train and Equip Fund, 1 =
+      1,618. Total, 1 = 28,407
+    questions_and_answers:
+      - question: |-
+          What is the amount of the Afghanistan Security Forces Fund in millions of
+          dollars for FY 2015?
+        answer: 4,109
+      - question: |-
+          What are the total military personnel figures for the Army, Army Reserve, and
+          Army National Guard combined for FY 2015?
+        answer: 3,969 (3,829 Army + 25 Army Reserve + 155 Army National Guard)
+  - context: |-
+      Table 3-ToTal oblIgaTIonal auThorITy approved baSe budgeT,  Fy 2015 ( Millions
+      of Dollars ), 1 = Table 3-ToTal oblIgaTIonal auThorITy approved baSe budgeT,  Fy
+      2015 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
+      Army, 1 = 41,116. Military Personnel, Army Reserve, 1 = 4,318. Military
+      Personnel, Army National Guard, 1 = 7,644. Medicare-Eligible Retiree Health Care
+      Fund, Army, 1 = 1,996. Medicare-Eligible Retiree Health Care Fund, Army Reserve,
+      1 = 395. Medicare-Eligible Retiree Health Care Fund, Army  National Guard, 1 =
+      689. Operation and Maintenance, 1 = . Operation and Maintenance, Army, 1 =
+      32,603. Operation and Maintenance, Army Reserve, 1 = 2,513. Operation and
+      Maintenance, Army National Guard, 1 = 6,176. Environmental Restoration, 1 = 202.
+      Procurement, 1 = . Aircraft, 1 = 5,216. Missiles, 1 = 1,209. Weapons and Tracked
+      Combat Vehicle, 1 = 1,722. Ammunition, 1 = 1,015. Other Procurement, 1 = 4,748.
+      Research, Development, Test, and Evaluation, 1 = 6,673. Military Construction, 1
+      = . Military Construction, Army, 1 = 589. Military Construction, Army Reserve, 1
+      = 173. Military Construction, Army National Guard, 1 = 134. Army Family Housing,
+      1 = . Operation, 1 = 351. Construction, 1 = 79. Army Working Capital Fund, 1 =
+      239. Arlington National Cemetery, 1 = 66. Base Realignment and Closure, 1 = 84.
+      Chemical Agents Demilitarization, 1 = 841. Total, 1 = 120,790
+    questions_and_answers:
+      - question: |-
+          What is the budget allocated for Operation and Maintenance, Army Reserve in FY
+          2015?
+        answer: 2,513
+      - question: |-
+          What is the total budget allocated for the Army, including all its reserves, in
+          FY 2015?
+        answer: 51,078
+      - question: |-
+          Based on the provided data, if the budget for Operation and Maintenance, Army
+          Reserve is 2,513 million dollars, what percentage of the total Operation and
+          Maintenance budget does it represent?
+        answer: Approximately 8.2%
+  - context: |-
+      Table 4-ToTal oblIgaTIonal auThorITy approved overSeaS  ConTIngenCy operaTIonS,
+      Fy 2015 ( Millions of Dollars ), 1 = Table 4-ToTal oblIgaTIonal auThorITy
+      approved overSeaS  ConTIngenCy operaTIonS, Fy 2015 ( Millions of Dollars ).
+      Military Personnel, 1 = . Military Personnel, Army, 1 = 3,260. Military
+      Personnel, Army Reserve, 1 = 25. Military Personnel, Army National Guard, 1 =
+      175. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 51. Operation and
+      Maintenance, 1 = . Operation and Maintenance, Army, 1 = 17,509. Operation and
+      Maintenance, Army Reserve, 1 = 42. Operation and Maintenance, Army National
+      Guard, 1 = 78. Procurement, 1 = . Aircraft, 1 = 196. Missiles, 1 = 32. Weapons
+      and Tracked Combat Vehicle, 1 = 5. Ammunition, 1 = 141. Other Procurement, 1 =
+      774. Research, Development, Test, and Evaluation, 1 = 2. Military Construction,
+      Army, 1 = 37. Afghanistan Security Forces Fund, 1 = 4,109. Joint Improvised
+      Explosive Device Defeat Fund, 1 = 444. Iraq Train and Equip Fund, 1 = 1,618.
+      Total, 1 = 28,497
+    questions_and_answers:
+      - question: |-
+          What is the amount of money allocated for the procurement of Aircraft in FY
+          2015?
+        answer: '196'
+      - question: What are the total funds approved for all operations in FY 2015?
+        answer: 28,497
+      - question: |-
+          Based on the information provided, if the Army National Guard were to increase
+          its procurement budget by 50%, how much more would they have for procurement?
+        answer: |-
+          The Army National Guard currently has a procurement budget of 5. If it were to
+          increase by 50%, the new budget would be 7.5.
+  - context: "The  Army  executed  its  expiring-year  FY  2013  procurement program\
+      \ at\n99.4\_percent, leaving only $107\_million unobligated. The primary  reason\
+      \  for\nthis  amount  was  lower-than-expected  contract closeout costs from\
+      \ the Kiowa\nWarrior program. The expiring-year FY 2014/2015 research,  development,\
+      \  test,\nand  evaluation  program reached 99.6\_percent obligated and 81.7\_\
+      percent\ndisbursed. The Army retained  the  remaining  funds  to  finance  contract\n\
+      adjustments.  The FY  2015  execution  rate  for  Army  family  housing\noperations\
+      \  was 99.7\_percent. Of the 229 FY 2011/2015 military construction\nprojects,\
+      \ the Army awarded 228. The remaining project, for land acquisition at\nFort\
+      \ Benning, Georgia, was not required."
+    questions_and_answers:
+      - question: What percentage of the FY 2013 procurement program was executed
+          by the Army?
+        answer: The Army executed 99.4% of the FY 2013 procurement program.
+      - question: |-
+          What was the purpose of the funds retained from the FY 2014/2015 research,
+          development, test, and evaluation program?
+        answer: |-
+          The funds retained from the FY 2014/2015 research, development, test, and
+          evaluation program were used to finance contract adjustments.
+      - question: |-
+          Based on the information provided, why was the land acquisition project at Fort
+          Benning, Georgia not required?
+        answer: |-
+          The land acquisition project at Fort Benning, Georgia was not required because
+          the Army had already awarded 228 out of 229 FY 2011/2015 military construction
+          projects.
+  - context: "Reduced funding levels and improved management and execution of accounts\
+      \ left\nthe Army with significantly fewer sources from which to reprogram funds\
+      \ than in\nprior years. Reprogramming funds requiring congressional  approval\
+      \  totaled\n$4.44\_ billion,  a  27\_ percent  decrease from FY 2014. The service\
+      \ reprogrammed\nan additional $3.22\_billion for actions below the thresholds\
+      \ that require\ncongressional approval. The service funded a total of $2.5\_\
+      billion in unfinanced\nrequirements with money  taken  from  operations  and\
+      \  maintenance  accounts.\nPrograms  funded  through  reprogramming  include\
+      \  base  operations support\n($916\_ million);  sustainment  modernization \
+      \ and  restoration ($222.7\_\nmillion);  Army  marketing  ($120\_ million);\
+      \  Kosovo  Force, Balkans\n($40.8\_million); Site G ($43.8\_million); and IT\
+      \ services and support\n($245.7\_million)."
+    questions_and_answers:
+      - question: How much money was reprogrammed for Army marketing?
+        answer: $120 million
+      - question: What are the different programs that were funded through reprogramming?
+        answer: |-
+          Base operations support, sustainment modernization and restoration, Army
+          marketing, Kosovo Force, Balkans, Site G, and IT services and support
+      - question: |-
+          Based on the provided information, can we infer that the Army is facing
+          financial challenges and is therefore reallocating funds from operations and
+          maintenance accounts to other areas?
+        answer: |-
+          Yes, the passage suggests that the Army is facing funding challenges and is
+          reprogramming funds from operations and maintenance accounts to fund unfinanced
+          requirements.
+  - context: |-
+      During testimony before congressional committees in 2015, senior Army leaders
+      warned that the service's readiness would be threatened if its funding were to
+      be cut below the amount it requested for its FY 2016 budget. If sequestration
+      budget cuts were implemented in FY 2016, by FY 2020 the Army would have to cut
+      its active strength by 70,000 soldiers, its National Guard strength by 35,000,
+      and its Army Reserve strength by 10,000. These personnel cuts would include the
+      involuntary separation of about 14,000 officers and noncommissioned officers.
+      Such reductions in personnel would then trigger the inactivation of between ten
+      and twelve brigade combat teams (BCTs). Additionally,  sequestration  would
+      require  significant  reductions  in funding for training and materiel
+      modernization ( Tables 5-6 ).
+    questions_and_answers:
+      - question: |-
+          How many soldiers would the Army have to cut from its active strength by FY 2020
+          if sequestration budget cuts were implemented in FY 2016?
+        answer: 70,000 soldiers
+      - question: |-
+          What are the potential impacts on the Army's structure and capabilities if
+          sequestration budget cuts were implemented in FY 2016 by FY 2020?
+        answer: |-
+          The Army would have to cut its active strength by 70,000 soldiers, its National
+          Guard strength by 35,000, and its Army Reserve strength by 10,000, including the
+          involuntary separation of about 14,000 officers and noncommissioned officers.
+          This would trigger the inactivation of between ten and twelve brigade combat
+          teams and require significant reductions in funding for training and materiel
+          modernization.
+      - question: |-
+          Given the potential impacts of sequestration budget cuts on the Army's
+          readiness, what strategic decisions might the Army need to consider?
+        answer: |-
+          The Army might need to consider strategies such as prioritizing funding for
+          critical capabilities, restructuring its forces to maintain key competencies,
+          and exploring alternative sources of funding or support.
+  - context: |-
+      Table 5-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy 2016 ( Millions of
+      Dollars ), 1 = Table 5-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy
+      2016 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
+      Army, 1 = 41,131. Military Personnel, Army Reserve, 1 = 4,551. Military
+      Personnel, Army National Guard, 1 = 7,942. Medicare-Eligible Retiree Health Care
+      Fund, Army, 1 = 1,785. Medicare-Eligible Retiree Health Care Fund, Army Reserve,
+      1 = 333. Medicare-Eligible Retiree Health Care Fund, Army National  Guard, 1 =
+      588. Operation and Maintenance, 1 = . Operation and Maintenance, Army, 1 =
+      35,108. Operation and Maintenance, Army Reserve, 1 = 2,666. Operation and
+      Maintenance, Army National Guard, 1 = 6,718. Environmental Restoration, 1 = 235.
+      Procurement, 1 = . Aircraft, 1 = 5,689. Missiles, 1 = 1,420. Weapons and Tracked
+      Combat Vehicle, 1 = 1,887. Ammunition, 1 = 1,233. Other Procurement, 1 = 5,899.
+      Research, Development, Test, and Evaluation, 1 = 6,925. Military Construction, 1
+      = . Military Construction, Army, 1 = 743. Military Construction, Army Reserve, 1
+      = 114. Military Construction, Army National Guard, 1 = 197. Army Family Housing,
+      1 = . Operation, 1 = 394. Construction, 1 = 100. Army Working Capital Fund, 1 =
+      50. Arlington National Cemetery, 1 = 46. Base Realignment and Closure, 1 = 30.
+      Chemical Agents Demilitarization, 1 = 721. Total, 1 = 126,503
+    questions_and_answers:
+      - question: |-
+          What is the budget request for Operation and Maintenance, Army Reserve in FY
+          2016?
+        answer: 2,666
+      - question: What are the total budget requests for all categories in the Army
+          for FY 2016?
+        answer: 126,503
+      - question: |-
+          Given the budget requests for each category in the Army, what would be the
+          impact on the total budget if the procurement of Aircraft was reduced by 10% in
+          FY 2016?
+        answer: The impact on the total budget would be a reduction of 568.9 million
+          dollars.
+  - context: |-
+      Table 6-ToTal oblIgaTIonal auThorITy overSeaS ConTIngenCy  operaTIonS requeST,
+      Fy 2016 ( Millions of Dollars ), 1 = Table 6-ToTal oblIgaTIonal auThorITy
+      overSeaS ConTIngenCy  operaTIonS requeST, Fy 2016 ( Millions of Dollars ).
+      Military Personnel, 1 = . Military Personnel, Army, 1 = 1,828. Military
+      Personnel, Army Reserve, 1 = 24. Military Personnel, Army National Guard, 1 =
+      166. Operation and Maintenance, 1 = . Operation and Maintenance, Army, 1 =
+      11,383. Operation and Maintenance, Army Reserve, 1 = 25. Operation and
+      Maintenance, Army National Guard, 1 = 61. Procurement, 1 = . Aircraft, 1 = 165.
+      Missiles, 1 = 37. Weapons and Tracked Combat Vehicle, 1 = 26. Ammunition, 1 =
+      192. Other Procurement, 1 = 1,206. Research, Development, Test, and Evaluation,
+      1 = 2. Afghanistan Security Forces Fund, 1 = 2,762. Joint Improvised Explosive
+      Device Defeat Fund, 1 = 493. Iraq Train and Equip Fund, 1 = 715. Syria Train and
+      Equip Fund, 1 = 600. Total, 1 = 20,685
+    questions_and_answers:
+      - question: |-
+          What is the amount of the Iraq Train and Equip Fund for FY 2016 in millions of
+          dollars?
+        answer: '715'
+      - question: |-
+          What are the total funds requested for all the mentioned operations in FY 2016
+          in millions of dollars?
+        answer: 20,685
+      - question: |-
+          Based on the provided data, which operation or fund would likely receive the
+          most significant portion of the total budget in FY 2016?
+        answer: |-
+          The Afghanistan Security Forces Fund would likely receive the most significant
+          portion of the total budget in FY 2016, as it has the highest allocated amount
+          among the mentioned operations and funds.
+  - context: |-
+      Female, Table 10-army naTIonal guard perSonnel   by gender, Fy 2015.Officer =
+      14.3%. Female, Table 10-army naTIonal guard perSonnel   by gender, Fy
+      2015.Warrant = 9.8%. Female, Table 10-army naTIonal guard perSonnel   by gender,
+      Fy 2015.Enlisted = 16.7%. Female, Table 10-army naTIonal guard perSonnel   by
+      gender, Fy 2015.Total Force = 16.2%. Male, Table 10-army naTIonal guard
+      perSonnel   by gender, Fy 2015.Officer = 85.7%. Male, Table 10-army naTIonal
+      guard perSonnel   by gender, Fy 2015.Warrant = 90.2%. Male, Table 10-army
+      naTIonal guard perSonnel   by gender, Fy 2015.Enlisted = 83.3%. Male, Table
+      10-army naTIonal guard perSonnel   by gender, Fy 2015.Total Force = 83.8%
+    questions_and_answers:
+      - question: What percentage of female officers were in the Army National Guard
+          in FY 2015?
+        answer: 14.3%
+      - question: |-
+          What was the total percentage of female and male personnel in the Army National
+          Guard in FY 2015?
+        answer: 100% (16.2% female and 83.8% male)
+      - question: |-
+          Based on the provided data, if the percentage of female officers in the Army
+          National Guard in FY 2015 was 14.3%, what would be the approximate percentage of
+          male officers?
+        answer: 85.7% (100% - 14.3%)
+  - context: |-
+      In FY 2015, Human Resources Command organized four active component  officer
+      force-shaping  boards.  The  boards  convened  to meet  congressionally
+      mandated  end-strength  reductions  and  to reduce  overpopulated  branches  and
+      areas  of  concentration.  The Colonel  Army  Competitive  Category  Selective
+      Early  Retirement Board  considered  565  officers  and  selected  142.  The
+      Lieutenant Colonel  Army  Competitive  Category  Selective  Early  Retirement
+      Board considered 547 officers and selected 151. The Captain Army Competitive
+      Category  Officer  Selection  Board/Enhanced  Selective Early Retirement Board
+      considered 3,433 officers and selected 500. The  Captain  Army  Medical
+      Department  Officer  Selection  Board/ Enhanced Selective Early Retirement Board
+      considered 883 officers and selected 241.
+    questions_and_answers:
+      - question: |-
+          How many officers were considered by the Captain Army Competitive Category
+          Officer Selection Board/Enhanced Selective Early Retirement Board?
+        answer: 3,433 officers
+      - question: |-
+          How many officers were selected by all the boards convened by Human Resources
+          Command in FY 2015?
+        answer: 1,034 officers
+      - question: |-
+          If a Lieutenant Colonel officer was selected by the Lieutenant Colonel Army
+          Competitive Category Selective Early Retirement Board, would they still be
+          serving in the army?
+        answer: |-
+          No, they would not be serving in the army as they were selected by the Selective
+          Early Retirement Board, implying retirement.
+  - context: |-
+      In  January  2015,  the  Army  ended  the  policy  of  masking  junior officer
+      evaluation  reports.  Under  this  policy,  selection  boards  could not view
+      these reports once an officer was promoted to captain or chief warrant officer
+      3. In addition to ending the masking policy, Human Resources  Command  moved
+      previously  masked  evaluation  reports to  the  performance  section  of
+      officers'  personnel  files.  This  change occurred as the secretary of the Army
+      directed selection boards to move from the 'fully qualified' to the 'best
+      qualified' criteria. Unmasking junior  officer  evaluation  reports  will
+      provide  selection  boards  with evidence justifying not selecting officers
+      under the new criteria.
+    questions_and_answers:
+      - question: |-
+          What policy did the Army end in January 2015 regarding junior officer evaluation
+          reports?
+        answer: |-
+          The Army ended the policy of masking junior officer evaluation reports in
+          January 2015.
+      - question: |-
+          What changes were made to the handling of junior officer evaluation reports and
+          why were these changes implemented?
+        answer: |-
+          The Army moved previously masked evaluation reports to the performance section
+          of officers' personnel files and unmasked these reports for selection boards.
+          These changes were implemented to provide selection boards with more evidence to
+          justify not selecting officers under the new 'best qualified' criteria.
+      - question: |-
+          Given the Army's shift from 'fully qualified' to 'best qualified' criteria for
+          selection boards, how might unmasking junior officer evaluation reports impact
+          the selection process?
+        answer: |-
+          Unmasking junior officer evaluation reports would provide selection boards with
+          more evidence to assess officers' performance, potentially leading to more
+          informed decisions under the new criteria.
+  - context: |-
+      In  October  2014,  the  Army  launched  the  Commander  360 program, a new
+      assessment for battalion and brigade commanders in which they receive feedback
+      from leaders, peers, and subordinates throughout their organization. It is a
+      leader development program within the Army's Multi-Source Assessment and
+      Feedback suite of tools.  The  Army  pilot-tested  Commander  360  from  April
+      to  July 2013 and received favorable reviews from participating commanders and
+      raters.  Following  the  pilot,  it  used  twenty-four  Regular  Army commanders
+      to test the final version of the program in spring and summer  2014.  The
+      multisource  feedback  produces  useful  insights
+    questions_and_answers:
+      - question: When was the Commander 360 program launched by the Army?
+        answer: October 2014
+      - question: What is the purpose and structure of the Commander 360 program?
+        answer: |-
+          The Commander 360 program is a leader development program within the Army's
+          Multi-Source Assessment and Feedback suite of tools. It provides multisource
+          feedback to battalion and brigade commanders from leaders, peers, and
+          subordinates throughout their organization.
+      - question: |-
+          Based on the information provided, how successful was the pilot testing of the
+          Commander 360 program?
+        answer: |-
+          The pilot testing of the Commander 360 program received favorable reviews from
+          participating commanders and raters.
+  - context: |-
+      about commanders that they and their raters are not likely to come by  on  their
+      own.  Only  the  commanders  and  their  current  raters have  access  to  the
+      feedback.  The  Army  designed  the  program  for Centralized  Selection List
+      lieutenant colonels and  colonels. It focuses  on  battalion-  and  brigade-
+      level  commanders  because  they have  a  critical  role  as  organizational
+      leaders.  The  Army  requires approximately 1,200 Centralized Selection List-
+      level Regular Army commanders to participate in two Commander 360 events during
+      the course of their command tenure, the first within three to six months of
+      assuming command and the second between fifteen to eighteen months  of  command.
+      The  Army  plans  to  extend  the  program  to nearly 2,400 reserve component
+      commanders in October 2015.
+    questions_and_answers:
+      - question: |-
+          When are the first and second Commander 360 events scheduled for battalion- and
+          brigade-level commanders?
+        answer: |-
+          The first event is scheduled within three to six months of assuming command, and
+          the second event is scheduled between fifteen to eighteen months of command.
+      - question: |-
+          What is the focus of the Army's Centralized Selection List program and who has
+          access to the feedback?
+        answer: |-
+          The focus of the Army's Centralized Selection List program is on battalion- and
+          brigade-level commanders, who have a critical role as organizational leaders.
+          Only the commanders and their current raters have access to the feedback.
+      - question: |-
+          Based on the information provided, why is the Army extending the Commander 360
+          program to reserve component commanders in October 2015?
+        answer: |-
+          The text does not provide explicit information on why the Army is extending the
+          program to reserve component commanders in October 2015. However, it can be
+          inferred that this extension is part of the Army's plan to expand the reach of
+          the program.
+document_outline: |
+  US Army Historical Summary of Fiscal Year 2015.
+document:
+  repo: https://github.com/pdavis327/west-point-poc
+  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  patterns:
+    - assets/docling_out/*.md
