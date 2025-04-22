@@ -38,40 +38,6 @@ seed_examples:
           to be increasing their assertiveness, attacking Royal Laotian forces without the
           facade of the Pathet Lao for the first time since 1962.
   - context: |-
-      The status of major Army units improved generally in personnel and logistics
-      during fiscal year 1970, while their training status remained essentially
-      unchanged. Support units remained about the same as the previous year; many
-      units reported unsatisfactory readiness status. The orderly reduction of Army
-      manpower during the first half of the fiscal year, through redeployments from
-      Vietnam and subsequent unit inactivations, permitted some improvement in
-      readiness of personnel. But toward the end of the year, reduced draft calls,
-      failures in meeting draft calls, and changes in planned Vietnam redeployment
-      increased the shortage of trained strength and reduced the number of personnel
-      available for assignment to units. The result was an erosion of some of the
-      gains in personnel readiness made earlier in the year.
-    questions_and_answers:
-      - question: What was the status of Army units' training during fiscal year 1970?
-        answer: |-
-          The training status of Army units remained essentially unchanged during fiscal
-          year 1970.
-      - question: |-
-          What was the overall status of Army units in terms of personnel, logistics, and
-          training during fiscal year 1970?
-        answer: |-
-          The status of major Army units improved generally in personnel and logistics
-          during fiscal year 1970, while their training status remained essentially
-          unchanged. However, towards the end of the year, reduced draft calls, failures
-          in meeting draft calls, and changes in planned Vietnam redeployment led to an
-          erosion of some of the gains in personnel readiness.
-      - question: |-
-          Why was there an erosion of gains in personnel
-          readiness towards the end of fiscal year 1970?
-        answer: |-
-          The erosion of gains in personnel readiness occurred towards the end of fiscal
-          year 1970 due to reduced draft calls, failures in meeting draft calls, and
-          changes in planned Vietnam redeployment, which increased the shortage of trained
-          strength and reduced the number of personnel available for assignment to units.
-  - context: |-
       The following table displays admission rates in Vietnam and other areas, for disease and injuries as well as for other causes,
       and includes the incidence rates of malaria and certain other conditions which may cause a high proportion of noneffectiveness in one or more of the areas.
       ADMISSIONS TO HOSPITALS AND QUARTERS AND INCIDENCE OF SELECTED CONDITIONS-U.S. ARMY PERSONNEL ON ACTIVE DUTY FISCAL YEAR 1970
@@ -107,152 +73,6 @@ seed_examples:
         answer: |-
           The rate of Viral Hepatitis among active duty army personnel in FY 1970 in Vietnam
           was 6.54 per 1000 people.
-  - context: |-
-      The operations center continued to co-ordinate the Army's contribution to the
-      U.S. Secret Service in its role of protecting the President and Vice President
-      of the United States. This support included explosive ordinance disposal
-      personnel, helicopters, and other assorted equipment and personnel resources. In
-      this connection, the Army received an increased number of requests from other
-      federal agencies and civil authorities for explosive disposal assistance,
-      involving bomb scares, disarming explosive devices, checking and disposing of
-      war souvenirs, and providing help in transportation accidents involving
-      explosives. Over 4,800 requests were acted upon in fiscal year 1970, compared
-      with 3,762 in the previous year.
-    questions_and_answers:
-      - question: How many explosive disposal assistance requests were acted upon by the Army in fiscal year 1970?
-        answer: Over 4,800 explosive disposal assistance requests were acted upon in fiscal year 1970.
-      - question: |-
-          What kind of assistance did the Army provide in response to the increased number
-          of requests from other federal agencies and civil authorities for explosive disposal assistance?
-        answer: |-
-          The Army provided explosive ordinance disposal personnel, helicopters, and other
-          equipment and personnel resources. This assistance involved dealing with bomb
-          scares, disarming explosive devices, checking and disposing of war souvenirs,
-          and helping in transportation accidents involving explosives.
-      - question: |-
-          Based on the increase in requests for explosive disposal assistance, what can be
-          inferred about the Army's role and the perceived threat level during this
-          period?
-        answer: |-
-          The Army's role in explosive ordnance disposal became more critical during this
-          period, indicating a potential increase in perceived threat level or actual
-          incidents involving explosives.
-  - context: |-
-      The Army's military assistance responsibility includes funding, training,
-      logistic support, and production. In fiscal year 1970 the Military Assistance
-      Program (MAP) continued the rapid decline that began in 1966. The Department of
-      Defense requested $430 million in new funds, and Congress appropriated $350
-      million and imposed a similar limit on 1971 new obligational authority. The
-      Army's portion of the appropriation was $208 million. The size of the
-      appropriation reflects the competing demands between domestic programs and the
-      war in Vietnam, along with increasing congressional opposition to military
-      assistance and other oversea commitments. Along this line the Army has supported
-      the national goal of replacing grant aid with military sales. Meanwhile, the
-      1970 Military Assistance Service Funded program remained at the $2.1 billion
-      level of the previous year. It was anticipated that the Vietnamization program
-      would increase this amount slightly in 1971.
-    questions_and_answers:
-      - question: |-
-          How much was the Army's portion of the Military Assistance Program appropriation
-          for fiscal year 1970?
-        answer: The Army's portion of the Military Assistance Program appropriation was $208 million.
-      - question: |-
-          What can be inferred about the trend of the Military Assistance Program and the
-          Army's portion of it in fiscal year 1970, considering the competing demands and
-          opposition?
-        answer: |-
-          The Military Assistance Program, including the Army's portion, continued a rapid
-          decline in fiscal year 1970 due to competing demands between domestic programs
-          and the war in Vietnam, along with increasing congressional opposition to
-          military assistance and other oversea commitments. Despite this, the Army
-          supported the goal of replacing grant aid with military sales.
-      - question: |-
-          Given the Army's support for replacing grant aid with military sales, how might
-          this affect the nature of military assistance in the future?
-        answer: |-
-          The Army's support for replacing grant aid with military sales suggests a
-          potential shift towards more self-sustained military assistance, where countries
-          would purchase military equipment and services rather than receive them as
-          grants. This could potentially lead to a more balanced distribution of financial
-          burden and a more market-oriented approach in military assistance.
-  - context: |-
-      In a day of complex, technical, and far-flung communications-electronics systems
-      and equipment, efficient and effective operation at all levels requires active
-      and sustained management. There were a number of management activities during
-      fiscal year 1970 that were more than routine. Communications-electronics
-      management in Army installations in the United States, for example, was
-      addressed in a major study, and one of the important recommendations, approved
-      by the Chief of Staff, was that the installation's communications-electronics
-      officer should be at the principal staff level. As a member of the
-      installation's principal staff, the C-E officer will be in a position to
-      evaluate communications-electronics requirements and provide support
-      expeditiously. This management improvement will be reflected not only at
-      installation level but in more responsive communications Army-wide.
-    questions_and_answers:
-      - question: |-
-          What was one of the recommendations of the major study on communications-
-          electronics management in Army installations in the United States?
-        answer: |-
-          One of the recommendations was that the installation's communications-
-          electronics officer should be at the principal staff level.
-      - question: |-
-          What changes in communications-electronics management in Army installations in
-          the United States were approved by the Chief of Staff?
-        answer: |-
-          The communications-electronics changes approved by the Chief of Staff included making the installation's
-          communications-electronics officer a member of the installation's principal
-          staff, which would allow for more efficient evaluation of communications-
-          electronics requirements and support provision.
-      - question: |-
-          Why would making the communications-electronics officer a member of the
-          installation's principal staff improve communications-electronics management in
-          Army installations in the United States?
-        answer: |-
-          Making the communications-electronics officer a member of the installation's
-          principal staff would allow for a more comprehensive evaluation of
-          communications-electronics requirements and more expeditious provision of
-          support, thereby improving communications-electronics management at the
-          installation level and enhancing responsiveness Army-wide.
-  - context: |-
-      In seeking to improve the management of its human and physical resources, the
-      Army moved ahead in a number of areas. Adivision restructuring study assessed
-      the organization of the Army's heavy combat divisions, and experiments using
-      alternative structures containing smaller but more numerous maneuver elements
-      began. Based upon ideas contained in a study completed in fiscal year 1978, the
-      Army brought about a number of changes to improve the training and education of
-      individual officers. In the management of installations, facilities, and
-      equipment, energy conservation increased, industrial pollution decreased,
-      property accountability improved, and escalating base operating costs were
-      checked. Continued reliance on automation and the proliferation of individual
-      automated data systems has focused attention on the integration,
-      interoperability, survivability, and security of the various systems. In October
-      1978, the Office ofthe Assistant Chief of Staff for Automation and
-      Communications was established to manage the integration of technologies in
-      these rapidly expanding fields.
-    questions_and_answers:
-      - question: |-
-          What was established in October 1978 to manage the integration of technologies
-          in the fields of automation and communications?
-        answer: The Office of the Assistant Chief of Staff for Automation and Communications
-         was established in October 1978 to manage the integration of technologies
-          in the fields of automation and communications.
-      - question: |-
-          What were the main areas in which the Army sought to improve its management of
-          human and physical resources?
-        answer: |-
-          The Army sought to improve its management of human and physical resources
-          through division restructuring, changes in the training and education of
-          individual officers, better management of installations, facilities, and
-          equipment, and focus on the integration, interoperability, survivability, and
-          security of automated data systems.
-      - question: |-
-          Given the focus on energy conservation, decreased industrial pollution, improved
-          property accountability, and controlled base operating costs, can we infer that
-          the Army's management of installations, facilities, and equipment became more
-          efficient?
-        answer: |-
-          Yes, we can infer that the Army's management of installations, facilities, and
-          equipment became more efficient.
   - context: |-
       In 1979, U.S. Army, Europe, was about 200,000 soldiers strong, or more than a
       quarter the strength of the active Army. With the exception of Brigade 75 (which
@@ -291,40 +111,6 @@ seed_examples:
           was beneficial as it would better enable the Army to prepare for
           war by allowing them to focus more on military readiness and less on base
           management operations.
-  - context: |-
-      In the other global trouble spot where the Army stood on guard, it was a year of
-      discovery and surprise. The withdrawal of the 2d Infantry Division from its
-      sectors in South Korea, announced by President Carter in 1977, had been based on
-      a favorable assessment ofthe peninsular balance. But in 1978, new intelligence
-      indicated that the earlier estimate had been overly optimistic, that North
-      Korea's forces, the forth largest in the communist world, had much more
-      capability to launch an invasion of the Republic of Korea than anyone in Seoul
-      or Washington had previously thought. In July 1979 the President decided to
-      temporarily freeze combat withdrawals. Certain supporting units would still
-      depart in 1980, but air defense units would leave somewhat later. Equipment
-      would continue to be turned over to the Korean forces. Other than that, the Army
-      would remain on duty in South Korea.
-    questions_and_answers:
-      - question: |-
-          What military division was withdrawn from South Korea based on a favorable
-          assessment?
-        answer: The 2d Infantry Division was withdrawn from South Korea based on a favorable
-          assessment.
-      - question: |-
-          What was the President's decision regarding combat withdrawals in South Korea in
-          July 1979?
-        answer: |-
-          The President decided to temporarily freeze combat withdrawals, with certain
-          supporting units still departing in 1980 and air defense units leaving somewhat
-          later. Equipment would continue to be turned over to the Korean forces.
-      - question: |-
-          Given the new intelligence about North Korea's forces, why did the President
-          decide to temporarily freeze combat withdrawals?
-        answer: |-
-          The President decided to temporarily freeze combat withdrawals because the new
-          intelligence indicated that North Korea's forces had much more capability to
-          launch an invasion of the Republic of Korea than anyone in Seoul or Washington
-          had previously thought.
   - context: |-
       The U.S. Army Forces Command (FORSCOM) continued to execute a major portion of
       the force development activities in the active Army in fiscal year 1979. During
@@ -405,85 +191,6 @@ seed_examples:
           weapons and equipment systems, tactical and organizational concepts, and the
           impact of these changes on the structure and operation of the heavy division.
   - context: |-
-      Fiscal years (FYs) 90 and 91 witnessed dramatic changes in the world order and
-      the international security environment. While many nations became more
-      politically independent, economic interdependence also increased. New centers of
-      political and economic influence were evolving. America's North Atlantic Treaty
-      Organization (NATO) allies pursued their national interests more assertively,
-      while Japan and other nations of the Pacific Rim advanced their positions in the
-      world order. U.S. leaders maintained serious concerns about a series of
-      international security issues. These issues included the proliferation of
-      nuclear, chemical, and missile technologies among many developing nations;
-      statesponsored terrorism; insurgency; the subversion of legitimate governments;
-      and international drug trafficking. On a brighter note, positive changes
-      occurred among many Communist nations during FY 90 and 91. The Soviet Union and
-      other members of the Warsaw Pact took giant steps toward renouncing communism
-      and adopting free elections and private enterprise.
-    questions_and_answers:
-      - question: |-
-          Which two international organizations were mentioned as having significant
-          changes in FY 90 and 91?
-        answer: North Atlantic Treaty Organization (NATO) and the Warsaw Pact had
-          saw significant changes in FY 90 and 91.
-      - question: |-
-          What were the main concerns of U.S. leaders regarding international security
-          during FY 90 and 91?
-        answer: |-
-          The main international security concerns of U.S. leaders in 1990 and 1991 included
-          proliferation of nuclear, chemical, and missile technologies among many
-          developing nations; statesponsored terrorism; insurgency; the subversion of
-          legitimate governments; and international drug trafficking.
-      - question: |-
-          Based on the described changes, why might U.S. leaders have been concerned about
-          the proliferation of nuclear, chemical, and missile technologies during FY 90
-          and 91?
-        answer: |-
-          The increased political independence of many nations, coupled with the rise of
-          new centers of political and economic influence, could have led to unstable
-          situations where these technologies could be misused or fall into the wrong
-          hands, posing a threat to international security.
-  - context: |-
-      Although funding was limited, quality of life programs continued to receive
-      emphasis from both the Army leadership and Congress during FY 90 and 91. Budget
-      constraints on new housing resulted in concentration upon maintenance and
-      revitalization of existing structures as demonstrated by the Whole Neighborhood
-      Revitalization Program. Passed in November 1989, the Military Child Care Act
-      provided financial resources to assure minimum funding levels and also
-      improvements in the staffs of Army child care facilities. The Army Medical
-      Department (AMEDD) tried to increase the quality of medical services for Army
-      families while controlling skyrocketing medical costs. Through the Civilian
-      Health and Medical Program for Uniformed Services (CHAMPUS) Management
-      Improvement Program the Army looked to tighten review procedures for CHAMPUS
-      services and to control doctors' fees. In October 1990 the Army Surgeon General
-      introduced the Gateway to Care Program as an interim measure. The program
-      authorized local military hospital commanders to utilize both military and
-      civilian provider health care for their patients.
-    questions_and_answers:
-      - question: |-
-          What program was introduced in October 1990 to improve medical services for Army
-          families?
-        answer: The Gateway to Care Program was introduced in October 1990 to improve medical services for Army
-          families.
-      - question: |-
-          What measures were taken to improve the quality of life programs for the Army in
-          FY 90 and 91, despite budget constraints?
-        answer: |-
-          Funding was limited, but quality of life programs continued to receive emphasis.
-          Budget constraints on new housing led to a focus on maintenance and
-          revitalization of existing structures. The Military Child Care Act was passed to
-          assure minimum funding levels and improvements in the staffs of Army child care
-          facilities. The Army Medical Department tried to increase the quality of medical
-          services for Army families while controlling medical costs through the CHAMPUS
-          Management Improvement Program and the Gateway to Care Program.
-      - question: |-
-          Given the introduction of the Gateway to Care Program in October 1990, what can
-          be inferred about the Army's approach to medical services for its families?
-        answer: |-
-          The Army was looking to improve its medical services for families by introducing
-          the Gateway to Care Program, which allowed local military hospital commanders to
-          utilize both military and civilian provider health care for their patients. This
-          suggests a more flexible and comprehensive approach to medical care.
-  - context: |-
       Army unit training was influenced during FY 90 and 91 by both budget constraints
       and DESERT SHIELD/DESERT STORM. The Persian Gulf war reduced unit rotations at
       the National Training Center (NTC) from twelve in FY 90 to five in FY 91. The
@@ -520,80 +227,6 @@ seed_examples:
           Armored of Mississippi, and the 256th Infantry of Louisiana - were considered to
           have some deficiencies in combat readiness because they train only part-time as
           reserve component units.
-  - context: |-
-      The ability to mobilize, deploy, and sustain its forces effectively for combat
-      operations has long been a major concern of the Army. Evidence of this concern
-      has been demonstrated by various programs in recent years - CAPSTONE; the Army
-      Mobilization and Operations Planning System (AMOPS); various mobilization and
-      training exercises, such as OPTIMAL FOCUS and REFORGER; and annual screenings of
-      IRRs. The brief duration and operational security needs of JUST CAUSE did not
-      favor mobilization of reserve component units, while thorough rehearsing ensured
-      almost flawless deployment. Mobilization, deployment, and sustainment for DESERT
-      SHIELD/DESERT STORM presented major challenges to the Army leadership for a
-      number of reasons. These reasons included no stationing of U.S. troops or
-      stockpiling of military materiel in the Middle East, an 8,700-mile supply line
-      from CONUS, and the piecemeal activation of reserve component combat service
-      support personnel. The demand for strategic lift saw the first activation of the
-      Civilian Reserve Air Fleet (CRAF) by the president and expensive chartering of
-      foreign-flag commercial ships because of deficiencies in the Ready Reserve Force
-      (RRF).
-    questions_and_answers:
-      - question: |-
-          What was the impact of the 8,700-mile supply line from CONUS on the Army
-          leadership during DESERT SHIELD/DESERT STORM?
-        answer: |-
-          The 8,700-mile supply line from CONUS presented a major challenge to the Army
-          leadership during DESERT SHIELD/DESERT STORM.
-      - question: |-
-          What were the main reasons that mobilization, deployment, and sustainment for
-          DESERT SHIELD/DESERT STORM presented major challenges to the Army leadership?
-        answer: |-
-          The main reasons were the lack of stationing of U.S. troops or stockpiling of
-          military materiel in the Middle East, an 8,700-mile supply line from CONUS, and
-          the piecemeal activation of reserve component combat service support personnel.
-      - question: |-
-          Based on the challenges faced during DESERT SHIELD/DESERT STORM, what could have
-          been improved in the Army's mobilization, deployment, and sustainment
-          strategies?
-        answer: |-
-          The Army could have improved its strategies by considering the stationing of
-          U.S. troops or stockpiling of military materiel in the Middle East, improving
-          the readiness of the Ready Reserve Force, and ensuring the availability of
-          strategic lift.
-  - context: |-
-      The Army performed a variety of special functions for the civilian sector in
-      both the United States and foreign countries during FY 90 and 91. These
-      functions included civil works, water projects, the war against drugs,
-      improvement and preservation of the environment, and relief for the local
-      populace following both natural disasters and the destructive effects of war. As
-      part of President Bush's new attack on the illegal drug traffic in FY 89, HQDA
-      produced the Army Counter-Narcotics Plan in April 1990. The plan essentially
-      reinforced existing Army assistance, which included intelligence, loan of
-      equipment, and training of law enforcement personnel in combat and jungle
-      operations. In November 1989 the Commander in Chief, U.S. Forces Command (CINC-
-      FORSCOM), formed Joint Task Force Six at Fort Bliss, Texas, to coordinate Army
-      support to the war against illegal drugs along the Southwest border. By April
-      1991 U.S. Southern Command (SOUTHCOM) had e l even ant drug training teams in
-      five Latin American countries. The ARNG had participated in the drug war for
-      thirteen years, and in FY 90 it took a direct part in twenty-five counterdrug
-      operations while under state control.
-    questions_and_answers:
-      - question: What is the name of the Army Counter-Narcotics Plan producer?
-        answer: HQDA was the the name of the Army's Counter-Narcotics Plan.
-      - question: What are the roles of the Army in the war against drugs?
-        answer: |-
-          The Army's roles in the war against drugs include providing intelligence,
-          loaning equipment, and training law enforcement personnel in combat and jungle
-          operations. The Army also participates in the drug war under state control and
-          has formed joint task forces and training teams in various countries.
-      - question: |-
-          Based on the Army's roles in the war against drugs, why was the Army Counter-
-          Narcotics Plan produced?
-        answer: |-
-          The Army Counter-Narcotics Plan was produced to reinforce existing Army
-          assistance in the war against drugs, which included intelligence, loan of
-          equipment, and training of law enforcement personnel in combat and jungle
-          operations.
   - context: |-
       As the U.S. Army began the last decade of the twentieth century, it faced
       uncertain times and substantial downsizing, even though on two occasions during
@@ -654,39 +287,258 @@ seed_examples:
           What were the Flood Control and Coastal Emergencies Corps of Engineers civil appropriation funds for fiscal year 1991?
         answer: |-
           The funds fir the Flood Control and Coastal Emergencies were $20,000,000.
-
   - context: |-
-      This conflict between shrinking resources and expanding commitments shaped the
-      structure and operation of the U.S. Army as it entered FY 2000. To reconcile the
-      contradiction, Army leaders chose to emphasize strategic mobility to meet
-      contingencies. Illustrative of this was Operation Desert thunder in February
-      1998, when a brigade (-) of the 3d Infantry Division deployed from Fort Stewart,
-      Georgia, to Kuwait in less than ninety-six hours in response to Iraqi
-      provocation. The Army accomplished this deployment through the use of pre-
-      positioned equipment stocks and elaborate logistical networks,  but  the
-      leadership  soon  recognized  the  expense,  inflexibility, and vulnerability of
-      this approach. These drawbacks would drive much of the Army's research and
-      development in FY 2000, as the service sought to obtain both powerful forces
-      with reduced logistical impact and supply systems less dependent on masses of
-      materiel positioned in forward areas.
+      Meeting extensive commitments with limited resources also demanded the most
+      effective personnel possible to accomplish multiple missions  under  a
+      comparatively  low  personnel  ceiling. As a result, in FY 2000 the Army
+      continued to put considerable effort into recruiting the  best  possible
+      personnel,  giving  them  thorough  and  demanding training,  and  retaining
+      them  through  incentives.  But  in  the  post-Cold War situation, a strong
+      civilian economy competed with the Army for recruits, and operational
+      commitments complicated training. The strains of frequent deployment taxed
+      soldiers and their families, especially in the face of the opportunities
+      presented by a growing civilian labor market demanding workers with the
+      technical and managerial skills imparted by Army training. Responding to this
+      complex set of problems required the Army to improve the quality of life for its
+      personnel, improving aspects of  the  financial,  communal,  and  physical
+      environment  strained  by  the long drawdown. Doing so forced the service to use
+      its resources more effectively, not only through the use of technology to
+      realize efficiencies in  management,  logistics,  and  training  but  also
+      through  new  human resources initiatives and budget reallocations.
     questions_and_answers:
       - question: |-
-          What operation did a brigade of the 3d Infantry Division deploy to in less than
-          ninety-six hours in response to Iraqi provocation?
-        answer: Operation Desert thunder in Kuwait was the response to Iraqi provocation that
-          the 3d Infantry Division deploy to in less than ninety-six hours.
+          What was one of the challenges the Army faced in recruiting personnel in FY
+          2000?
+        answer: A strong civilian economy competing with the Army for recruits was a significant
+          challenge the army faced in recruitment in fiscal year 2000.
       - question: |-
-          What measures did the Army take to accomplish the rapid deployment in Operation
-          Desert thunder?
-        answer: The Army used pre-positioned equipment stocks and elaborate logistical
-          networks
-      - question: |-
-          Given the drawbacks of this approach, what was the main focus of the Army's
-          research and development in FY 2000?
+          What were the main areas the Army focused on to improve the quality of life for
+          its personnel?
         answer: |-
-          The Army sought to obtain both powerful forces with reduced logistical impact
-          and supply systems less dependent on masses of materiel positioned in forward
-          areas.
+          The Army focused on improving the financial, communal, and physical environment
+          for its personnel
+      - question: |-
+          Given the strains of frequent deployment and the growing civilian labor market
+          demanding workers with technical and managerial skills imparted by Army
+          training, why was it necessary for the Army to improve the quality of life for
+          its personnel?
+        answer: |-
+          To retain personnel and attract new recruits in the face of a strong civilian
+          economy and the opportunities it presents.
+  - context: |-
+      Their  recognition  that  new  information  systems  were  central  to achieving
+      the battlefield goal of information dominance also drove efforts to  address
+      future  conventional  war  threats,  which  were  consolidated into the Army's
+      digitization initiative. Despite traditionally receiving the smallest
+      Department  of  Defense  budget  allocation  (15  percent  in  FY 1999) for
+      research, development, test, and evaluation, the Army continued to  develop  new
+      sensors,  computing  equipment,  and  communications networks. These tools now
+      promised to give soldiers and commanders at all levels unparalleled knowledge of
+      their tactical and operational situation, which would enable them to employ a
+      new generation of precision-guided weapons  in  both  close  combat  and  deep
+      attacks  with  disproportionate effect. In FY 2000, Army leaders sought to
+      exploit this promise sooner rather than later.
+    questions_and_answers:
+      - question: |-
+          What percentage of the Department of Defense budget did the Army receive for
+          research, development, test, and evaluation in FY 1999?
+        answer: The Army received 15 percent of the Department of Defense budget
+          for research, development, test, and evaluation in FY 1999?
+      - question: |-
+          What did the Army aim to achieve with its digitization initiative in terms of
+          the benefits for soldiers and commanders?
+        answer: |-
+          The digitization initiative aimed to give soldiers and commanders at all levels unparalleled
+          knowledge of their tactical and operational situation, enabling them to employ a
+          new generation of precision-guided weapons with disproportionate effect in both
+          close combat and deep attacks.
+      - question: |-
+          Given the Army's efforts to develop new sensors, computing equipment, and
+          communications networks for the battlefield, what conclusion can be drawn about
+          the Army's strategy for addressing future conventional war threats?
+        answer: |-
+          The Army's strategy for addressing future conventional war threats involves
+          leveraging advanced information systems to gain information dominance, which
+          would enable the effective use of precision-guided weapons.
+  - context: |-
+      Since its establishment in 2006, the commander of the Installation Management
+      Command  (IMCOM)  had  been  HQDA's  assistant chief  of  staff  for
+      installation  management.  The  move  of  IMCOM headquarters from the National
+      Capital Region to Fort Sam Houston, Texas, made this arrangement unwieldy by
+      2013. An analysis by the Office  of  the  Assistant  Chief  of  Staff  for
+      Installation  Management resulted in the creation of the IMCOM Task Force and
+      the Installation Management  Task  Force  to  identify  the  issues  associated
+      with separating the two positions. In December 2014, the chief of staff of the
+      Army decided to pursue a separate lieutenant general position for the  IMCOM
+      commander. In June 2015, the secretary of the Army approved this separation and
+      the new lieutenant general position, with IMCOM becoming a direct-reporting unit
+      to the assistant secretary of the Army (installations, energy, and environment).
+      The transition to this new arrangement will be completed during FY 2016.
+    questions_and_answers:
+      - question: What is the current position of the IMCOM commander?
+        answer: The IMCOM commander is currently a lieutenant general position.
+      - question: |-
+          What were the sequence of events that led to the creation of the new lieutenant
+          general position for the IMCOM commander?
+        answer: |-
+          First, an analysis was conducted by the Office of the Assistant Chief of Staff
+          for Installation Management. This led to the creation of the IMCOM Task Force
+          and the Installation Management Task Force. Following this, the chief of staff
+          of the Army decided to pursue a separate lieutenant general position for the
+          IMCOM commander, which was approved by the secretary of the Army. The transition
+          to this new arrangement will be completed during FY 2016.
+      - question: |-
+          Given the information that the IMCOM headquarters was moved to Fort Sam Houston,
+          Texas in 2013 and the unwieldiness of the previous arrangement, why was it
+          necessary to create a separate lieutenant general position for the IMCOM
+          commander?
+        answer: |-
+          The previous arrangement of the IMCOM commander being the
+          HQDA's assistant chief of staff for installation management became unwieldy
+          after the move. Therefore, it was necessary to create a separate position to
+          manage these responsibilities effectively.
+  - context: |-
+      The  deputy  secretary  of  defense  in  October  2014  directed  a study  into
+      the  operational  cost  of  the  Pentagon  Reservation.  One recommendation  of
+      the  study  was  that  information  technology (IT)  in  the  Pentagon  be
+      consolidated  under  a  Joint  Information Technology Single Service Provider
+      (JITSSP), which would be a field service  agency  of  the  Defense  Information
+      Systems  Agency.  The resources and capabilities of the new organization would
+      be provided by Washington Headquarters Services' Enterprise Information
+      Technology  Directorate,  the  Joint  Staff's  IT  operations,  and  the Army's
+      Information  Technology  Agency  (ITA),  which  provides  IT services  for  many
+      other  DoD  organizations  within  the  National Capital Region. In May 2015,
+      the deputy secretary of defense accepted this recommendation and directed its
+      implementation in two phases. The  first  phase  of  the  transition  began  in
+      July  2015  when  JITSSP assumed operational control of ITA and the Enterprise
+      Information Technology  Directorate.  Consolidation  of  common  or  shared  IT
+      services within organizations of Office of the Secretary of Defense in the
+      Pentagon and the National Capital Region will occur during this phase. The
+      second phase will extend the consolidation to the military departments'
+      headquarters in the Pentagon and their elements in the National Capital Region.
+      The transition is expected to be complete by the end of FY 2016.
+    questions_and_answers:
+      - question: |-
+          When did the deputy secretary of defense accept the recommendation to
+          consolidate IT in the Pentagon under a JITSSP?
+        answer: The deputy secretary of defense accept the recommendation in
+          to consolidate IT in the Pentagon in May 2015.
+      - question: |-
+          What are the three organizations that will provide resources and capabilities to
+          the new JITSSP organization?
+        answer: |-
+          Washington Headquarters Services' Enterprise Information Technology Directorate,
+          the Joint Staff's IT operations, and the Army's Information Technology Agency
+          (ITA) were the three organizations that will provide resources and capabilities to
+          the new JITSSP organization.
+      - question: |-
+          What is the expected completion date of
+          consolidatation of IT in the Pentagon under a JITSSP transition?
+        answer: The IT consolidation transition is expected to be complete by the end of FY 2016
+  - context: |-
+      Table 1-Total obligational authority base budget request,  Fy 2015 ( Millions of
+      Dollars ), 1 = Table 1-Total obligational authority base budget request,  Fy
+      2015 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
+      Army, 1 = 41,225. Military Personnel, Army Reserve, 1 = 4,459. Military
+      Personnel, Army National Guard, 1 = 7,683. Medicare-Eligible Retiree Health Care
+      Fund, Army, 1 = 1,795. Medicare-Eligible Retiree Health Care Fund, Army Reserve,
+      1 = 611. Medicare-Eligible Retiree Health Care Fund, Army National  Guard, 1 =
+      350. Operation and Maintenance, 1 = . Operation and Maintenance, Army, 1 =
+      33,240. Operation and Maintenance, Army Reserve, 1 = 2,491. Operation and
+      Maintenance, Army National Guard, 1 = 6,031. Environmental Restoration, 1 = 202.
+      Procurement, 1 = . Aircraft, 1 = 5,103. Missiles, 1 = 1,017. Weapons and Tracked
+      Combat Vehicle, 1 = 1,471. Ammunition, 1 = 1,031. Other Procurement, 1 = 4,894.
+      Research, Development, Test, and Evaluation, 1 = 6,594. Military Construction, 1
+      = . Military Construction, Army, 1 = 539. Military Construction, Army Reserve, 1
+      = 104. Military Construction, Army National Guard, 1 = 127. Army Family Housing,
+      1 = . Operation, 1 = 351. Construction, 1 = 79. Army Working Capital Fund, 1 =
+      14. Arlington National Cemetery, 1 = 46 a. Base Realignment and Closure, 1 = 84.
+      Chemical Agents-Munitions Destruction/Construction, 1 = 868. Joint Improvised
+      Explosive Device Defeat Fund, 1 = 115. Total, 1 = 120,524
+    questions_and_answers:
+      - question: |-
+          What is the budget request for Operation and Maintenance, Army Reserve in FY
+          2015?
+        answer: The budget request for Army reserve
+          Operation and Maintenance in 2015 was $2,491,000,000 dollars.
+      - question: |-
+          What are the total budget requests for all categories of the Army National Guard
+          in FY 2015?
+        answer: The total budget request for the Army National Guard in 2015 was
+          14,292,000,000 dollars
+      - question: |-
+          What was the US Army base budget request for environmental restoration in 2015?
+        answer: |-
+          The base budget request for environmental restoration in 2015 was 202 million dollars.
+  - context: |-
+      There were two organizational changes in the Office of the ASA (ALT). The Office
+      of the Deputy Assistant Secretary of the Army (Acquisition, Policy, and
+      Logistics) became the Office of the Deputy Assistant  Secretary  of  the  Army
+      (Sustainment),  reflecting  the increased importance of sustainment
+      considerations in all phases of the Army's acquisition process. Functional areas
+      of responsibility for the office include product support planning and policy,
+      sustainment integration  planning  and  oversight,  industrial  base  policy
+      and oversight, program protection planning and oversight, and supply chain risk
+      management. The Army redesignated the chief systems engineer  as  the  deputy
+      assistant  secretary  of  the  Army  (data, engineering, and software) to
+      emphasize the growing significance of data, engineering, and software throughout
+      a program's life cycle.
+    questions_and_answers:
+      - question: |-
+          What is the new name of the Office of the Deputy Assistant Secretary of the Army
+          (Acquisition, Policy, and Logistics)?
+        answer: The Office of the Deputy Assistant Secretary of the Army (Sustainment)
+          was the new name of the Office of the Deputy Assistant Secretary of the Army.
+      - question: |-
+          What are the functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment)?
+        answer: |-
+          The functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment) are Product support planning and policy,
+          sustainment integration planning and oversight, industrial base policy and oversight,
+          program protection planning and oversight, and supply chain risk management.
+      - question: |-
+          Why was the chief systems engineer redesignated as the deputy assistant
+          secretary of the Army (data, engineering, and software)?
+        answer: |-
+          The chief systems engineer redesignated as the deputy assistant
+          secretary of the Army to emphasize the growing significance of data, engineering, and software
+          throughout a program's life cycle.
+  - context: |-
+      In the FY 2022-2026 military construction, Army, appropriation, the service
+      awarded contracts for five of thirty-two projects for a total of $110.2 million.
+      The twenty-seven remaining projects were not awarded because of the effects of
+      inflation or environmental, site, or solicitation issues. They are scheduled to
+      be awarded in FY 2023 or FY 2024. Unobligated funding in the amount of $1.7
+      billion is available for the remaining FY 2022 projects, adjustments to prior
+      year projects, minor construction projects, contingencies, contract adjustments,
+      and  for  reprogramming  to  other  RA  construction projects in the event of
+      cost growth. In the FY 2018-2022 military construction, Army, appropriation,
+      twenty-nine of thirty projects were awarded for a total of $1.115 billion. The
+      remaining project
+    questions_and_answers:
+      - question: |-
+          How many projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Five projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation.
+      - question: |-
+          What was the total amount awarded for the projects in the FY 2022-2026 military
+          construction, Army, appropriation?
+        answer: |-
+          A total of $110.2 million was awarded for the projects in the FY 2022-2026
+          military construction, Army, appropriation.
+      - question: |-
+          Given the total unobligated funding and the amount awarded, can we infer the
+          potential impact of inflation or environmental, site, or solicitation issues on
+          the awarding of projects in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Yes, the potential impact of inflation or environmental, site, or solicitation
+          issues can be inferred as the reason for not awarding contracts for twenty-seven
+          out of thirty-two projects in the FY 2022-2026 military construction, Army,
+          appropriation.
 document_outline: |
   US Army Historical Fiscal Year Summaries.
 document:
