@@ -5,7 +5,7 @@ seed_examples:
   - context: |-
       Meeting extensive commitments with limited resources also demanded the most
       effective personnel possible to accomplish multiple missions  under  a
-      comparatively  low  personnel  ceiling. As  a  result,  in FY 2000 the Army
+      comparatively  low  personnel  ceiling. As a result, in FY 2000 the Army
       continued to put considerable effort into recruiting the  best  possible
       personnel,  giving  them  thorough  and  demanding training,  and  retaining
       them  through  incentives.  But  in  the  post-Cold War situation, a strong
@@ -24,7 +24,8 @@ seed_examples:
       - question: |-
           What was one of the challenges the Army faced in recruiting personnel in FY
           2000?
-        answer: A strong civilian economy competing with the Army for recruits
+        answer: A strong civilian economy competing with the Army for recruits was a significant
+          challenge the army faced in recruitment in fiscal year 2000.
       - question: |-
           What were the main areas the Army focused on to improve the quality of life for
           its personnel?
@@ -56,12 +57,13 @@ seed_examples:
       - question: |-
           What percentage of the Department of Defense budget did the Army receive for
           research, development, test, and evaluation in FY 1999?
-        answer: 15 percent
+        answer: The Army received 15 percent of the Department of Defense budget
+          for research, development, test, and evaluation in FY 1999?
       - question: |-
           What did the Army aim to achieve with its digitization initiative in terms of
           the benefits for soldiers and commanders?
         answer: |-
-          The Army aimed to give soldiers and commanders at all levels unparalleled
+          The digitization initiative aimed to give soldiers and commanders at all levels unparalleled
           knowledge of their tactical and operational situation, enabling them to employ a
           new generation of precision-guided weapons with disproportionate effect in both
           close combat and deep attacks.
@@ -92,8 +94,7 @@ seed_examples:
       study team determine the feasibility of establishing such a corps.
     questions_and_answers:
       - question: |-
-          What military personnel initiatives were proposed regarding Functional Area 24
-          and 53?
+          What was the purpose of the Functional Area 24 and 53 military personnel initiatives?
         answer: |-
           The initiatives increased the opportunities for Functional Area 24 (information
           systems engineering) and Functional Area 53 (automation systems) officers to
@@ -137,7 +138,7 @@ seed_examples:
     questions_and_answers:
       - question: What is the name of the armed reconnaissance helicopter in the FY
           2000 budget?
-        answer: Comanche (RAH-66)
+        answer: Comanche (RAH-66) was the name of the armed reconnaissance helicopter.
       - question: |-
           What are the major projects funded in the FY 2000 budget under the Army
           research, development, test, and evaluation?
@@ -195,7 +196,7 @@ seed_examples:
           necessary to create a separate lieutenant general position for the IMCOM
           commander?
         answer: |-
-          The text suggests that the previous arrangement of the IMCOM commander being the
+          The previous arrangement of the IMCOM commander being the
           HQDA's assistant chief of staff for installation management became unwieldy
           after the move. Therefore, it was necessary to create a separate position to
           manage these responsibilities effectively.
@@ -223,21 +224,23 @@ seed_examples:
       - question: |-
           When did the deputy secretary of defense accept the recommendation to
           consolidate IT in the Pentagon under a JITSSP?
-        answer: May 2015
+        answer: The deputy secretary of defense accept the recommendation in
+          to consolidate IT in the Pentagon in May 2015.
       - question: |-
           What are the three organizations that will provide resources and capabilities to
           the new JITSSP organization?
         answer: |-
           Washington Headquarters Services' Enterprise Information Technology Directorate,
           the Joint Staff's IT operations, and the Army's Information Technology Agency
-          (ITA)
+          (ITA) were the three organizations that will provide resources and capabilities to
+          the new JITSSP organization.
       - question: |-
-          Given the information about the two phases of the transition, what is the
-          expected completion date of the entire transition?
-        answer: The transition is expected to be complete by the end of FY 2016
+          What is the expected completion date of
+          consolidatation of IT in the Pentagon under a JITSSP transition?
+        answer: The IT consolidation transition is expected to be complete by the end of FY 2016
   - context: |-
-      Table 1-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy 2015 ( Millions of
-      Dollars ), 1 = Table 1-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy
+      Table 1-Total obligational authority base budget request,  Fy 2015 ( Millions of
+      Dollars ), 1 = Table 1-Total obligational authority base budget request,  Fy
       2015 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
       Army, 1 = 41,225. Military Personnel, Army Reserve, 1 = 4,459. Military
       Personnel, Army National Guard, 1 = 7,683. Medicare-Eligible Retiree Health Care
@@ -259,21 +262,20 @@ seed_examples:
       - question: |-
           What is the budget request for Operation and Maintenance, Army Reserve in FY
           2015?
-        answer: 2,491
+        answer: The budget request for Army reserve
+          Operation and Maintenance in 2015 was $2,491,000,000 dollars.
       - question: |-
           What are the total budget requests for all categories of the Army National Guard
           in FY 2015?
-        answer: 14,292
+        answer: The total budget request for the Army National Guard in 2015 was
+          14,292,000,000 dollars
       - question: |-
-          Based on the provided data, if the Army were to increase its budget for Military
-          Personnel by 10%, what would be the new budget for this category?
+          What was the US Army base budget request for environmental restoration in 2015?
         answer: |-
-          The new budget for Military Personnel would be 45,347.5 million dollars (41,225
-          + 10% of 41,225). Please note that this is a rough estimate and actual
-          calculations may vary due to rounding.
+          The base budget request for environmental restoration in 2015 was 202 million dollars.
   - context: |-
-      Table 5-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy 2016 ( Millions of
-      Dollars ), 1 = Table 5-ToTal oblIgaTIonal auThorITy baSe budgeT requeST,  Fy
+      Table 5-Total obligational authority base budget request,  Fy 2016 ( Millions of
+      Dollars ), 1 = Table 5-Total obligational authority base budget request,  Fy
       2016 ( Millions of Dollars ). Military Personnel, 1 = . Military Personnel,
       Army, 1 = 41,131. Military Personnel, Army Reserve, 1 = 4,551. Military
       Personnel, Army National Guard, 1 = 7,942. Medicare-Eligible Retiree Health Care
@@ -294,16 +296,15 @@ seed_examples:
       - question: |-
           What is the budget request for Operation and Maintenance, Army Reserve in FY
           2016?
-        answer: 2,666
-      - question: What are the total budget requests for all categories in the Army
-          for FY 2016?
-        answer: 126,503
+        answer: The base budget request for Army Reserve Operation and Maintenace
+          in 2016 was $2,666,000,000 dollars.
+      - question: What are the total obligational authority base budget request
+          for all categories in the Army for FY 2016?
+        answer: The total budget requuest for the US Army in 2016 was 126,503,000,000 dollars.
       - question: |-
-          Given the budget requests for each category in the Army, what would be the
-          impact on the total budget if the procurement of Aircraft was reduced by 10% in
-          FY 2016?
-        answer: The impact on the total budget would be a reduction of 568.9 million
-          dollars.
+          What was the obligational authority base budget request for ammunition in FY 16?
+        answer: The obligational authority base budget request for ammunition in
+          2016 was $1,233,000,000.
   - context: |-
       In  FY  2022,  the  Army  faced  the  by-then  common  state  of beginning the
       fiscal year without an approved budget. The demand from  combatant  commands
@@ -349,21 +350,24 @@ seed_examples:
           What is the new name of the Office of the Deputy Assistant Secretary of the Army
           (Acquisition, Policy, and Logistics)?
         answer: The Office of the Deputy Assistant Secretary of the Army (Sustainment)
+          was the new name of the Office of the Deputy Assistant Secretary of the Army.
       - question: |-
           What are the functional areas of responsibility for the Office of the Deputy
           Assistant Secretary of the Army (Sustainment)?
         answer: |-
-          Product support planning and policy, sustainment integration planning and
-          oversight, industrial base policy and oversight, program protection planning and
-          oversight, and supply chain risk management
+          The functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment) are Product support planning and policy,
+          sustainment integration planning and oversight, industrial base policy and oversight,
+          program protection planning and oversight, and supply chain risk management.
       - question: |-
           Why was the chief systems engineer redesignated as the deputy assistant
           secretary of the Army (data, engineering, and software)?
         answer: |-
-          To emphasize the growing significance of data, engineering, and software
-          throughout a program's life cycle
+          The chief systems engineer redesignated as the deputy assistant
+          secretary of the Army to emphasize the growing significance of data, engineering, and software
+          throughout a program's life cycle.
   - context: |-
-      In FY 2022, the Army  continued working on zero-trust cybersecurity, building on
+      In FY 2022, the Army continued working on zero-trust cybersecurity, building on
       Network Enterprise Technology Command's test of this concept in FY 2020. This
       zero-trust model eliminates  implicit  trust  in  any  one  element  and
       instead  requires continuous  verification  via  real-time  information  from
@@ -381,7 +385,8 @@ seed_examples:
       - question: |-
           When did the Office of Management and Budget issue the federal zero-trust
           architecture strategy?
-        answer: January 2022
+        answer: The Office of Management and Budget issued the federal zero-trust
+          architecture strategy in January 2022.
       - question: |-
           What are the deadlines and requirements set by the Office of Management and
           Budget's federal zero-trust architecture strategy?
@@ -417,7 +422,7 @@ seed_examples:
     questions_and_answers:
       - question: Who is the co-chair of the Army's audit committee?
         answer: The undersecretary of the Army and the vice chief of staff of the
-          Army
+          Army is the co-chair of the Army's audit committee.
       - question: What are the two main goals of the Army in terms of obtaining an
           audit opinion?
         answer: |-
@@ -433,7 +438,8 @@ seed_examples:
           into the Command Accountability and Execution Review program, and developing a
           multiyear plan to remediate major audit issues.
   - context: |-
-      MILITARY PERSONNEL, 1 = . Military Personnel, Army, 1 = 47,974. Military
+      Table 2—Total Obligational Authority Base Budget Request,
+      FY 2022 (Millions of Dollars) Military Personnel, Army, 1 = 47,974. Military
       Personnel, Army Reserve, 1 = 5,230. Military Personnel, Army National Guard, 1 =
       9,051. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 2,623. Medicare-
       Eligible Retiree Health Care Fund, Army Reserve, 1 = 460. Medicare-Eligible
@@ -452,50 +458,17 @@ seed_examples:
       = 3,328. COUNTER-ISIS TRAIN AND EQUIP FUND, 1 = 522. Total, 1 = 172,962 a
     questions_and_answers:
       - question: |-
-          How many Medicare-Eligible Retiree Health Care Fund personnel are there in the
-          Army National Guard?
-        answer: '820'
+          What was the total obligational authority base budget request in FY 2022?
+        answer: The total obligational authority base budget request in FY 2022 was
+          $172,962,000,000.
       - question: |-
-          What are the total numbers for Military Personnel, Operation and Maintenance,
-          and Procurement?
+          What was the obligational authority base budget request for milliles in FY 2022?
         answer: |-
-          Military Personnel: 62,855, Operation and Maintenance: 64,664, Procurement:
-          20,570
+          The obligational authority base budget request for milliles in FY 2022 was 3,566,000,000 dollars.
       - question: |-
-          Given the provided numbers, can you infer which branch of the military has the
-          highest budget for Procurement?
-        answer: The Army has the highest budget for Procurement at 12,416.
-  - context: |-
-      MILITARY PERSONNEL, 1 = . Military Personnel, Army, 1 = 47,814. Military
-      Personnel, Army Reserve, 1 = 5,157. Military Personnel, Army National Guard, 1 =
-      9,018. Medicare-Eligible Retiree Health Care Fund, Army, 1 = 2,623. Medicare-
-      Eligible Retiree Health Care Fund, Army Reserve, 1 = 460. Medicare-Eligible
-      Retiree Health Care Fund, Army National Guard, 1 = 822. OPERATION AND
-      MAINTENANCE, 1 = . Operation and Maintenance, Army, 1 = 55,013. Operation and
-      Maintenance, Army Reserve, 1 = 3,032. Operation and Maintenance, Army National
-      Guard, 1 = 7,714. ENVIRONMENTAL RESTORATION, 1 = 299. PROCUREMENT, 1 = .
-      Aircraft, 1 = 3,295. Missiles, 1 = 3,460. Weapons and Tracked Combat Vehicle, 1
-      = 4,319. Ammunition, 1 = 2,277. Other Procurement, 1 = 9,454. RESEARCH,
-      DEVELOPMENT, TEST, AND EVALUATION, 1 = 14,528. MILITARY CONSTRUCTION, 1 = .
-      Military Construction, Army, 1 = 1,834. Military Construction, Army Reserve, 1 =
-      136. Military Construction, Army National Guard, 1 = 505. ARMY FAMILY HOUSING, 1
-      = . Operation, 1 = 391. Construction, 1 = 188. ARMY WORKING CAPITAL FUND, 1 =
-      500. ARLINGTON NATIONAL CEMETERY, 1 = 228. BASE REALIGNMENT AND CLOSURE, 1 =
-      125. CHEMICAL AGENTS DEMILITARIZATION, 1 = 1,093. COUNTER-ISIS TRAIN AND EQUIP
-      FUND, 1 = 500. Total, 1 = 174,786 a
-    questions_and_answers:
-      - question: |-
-          How many Medicare-Eligible Retiree Health Care Fund personnel are there in the
-          Army National Guard?
-        answer: '822'
-      - question: |-
-          What are the total number of personnel in the Army, Army Reserve, and Army
-          National Guard combined?
-        answer: 71,989
-      - question: |-
-          Based on the provided data, if the Army was to allocate 10% of its Operation and
-          Maintenance budget to Environmental Restoration, how much would be allocated?
-        answer: 5,501.3
+          What was the obligational authority base budget request for army family housing operation?
+        answer: The obligational authority base budget request for army family housing operation
+          was 391 million dollars.
   - context: |-
       In the FY 2022-2026 military construction, Army, appropriation, the service
       awarded contracts for five of thirty-two projects for a total of $110.2 million.

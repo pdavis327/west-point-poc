@@ -8,7 +8,7 @@ seed_examples:
       offensive was conducted by regular North Vietnamese units in flagrant violation
       of the Geneva Accords concerning the neutrality of Laos. Following the ouster of
       Prince Sihanouk as Cambodia's head of state, Viet Cong and North Vietnamese
-      forces moved out of their sanctuaries along the CambodiaVietnam border to spread
+      forces moved out of their sanctuaries along the Cambodia Vietnam border to spread
       their control over eastern Cambodia. In conjunction with their thrusts into
       Cambodia, the Communist forces seized two provincial capitals in southern Laos,
       thus securing a water supply route through Laos to compensate for their loss of
@@ -19,8 +19,7 @@ seed_examples:
     questions_and_answers:
       - question: What was the name of the Cambodian prince who was ousted in March
           1970?
-        answer: Prince Sihanouk was the Cambodian prince who was ousted in March
-          1970.
+        answer: Prince Sihanouk was the Cambodian prince who was ousted in March 1970.
       - question: |-
           What were the consequences of the North Vietnamese offensive in northern Laos in
           March 1970?
@@ -65,17 +64,53 @@ seed_examples:
           in meeting draft calls, and changes in planned Vietnam redeployment led to an
           erosion of some of the gains in personnel readiness.
       - question: |-
-          Based on the information provided, why did the erosion of gains in personnel
-          readiness occur towards the end of fiscal year 1970?
+          Why was there an erosion of gains in personnel
+          readiness towards the end of fiscal year 1970?
         answer: |-
           The erosion of gains in personnel readiness occurred towards the end of fiscal
           year 1970 due to reduced draft calls, failures in meeting draft calls, and
           changes in planned Vietnam redeployment, which increased the shortage of trained
           strength and reduced the number of personnel available for assignment to units.
   - context: |-
+      The following table displays admission rates in Vietnam and other areas, for disease and injuries as well as for other causes,
+      and includes the incidence rates of malaria and certain other conditions which may cause a high proportion of noneffectiveness in one or more of the areas.
+      ADMISSIONS TO HOSPITALS AND QUARTERS AND INCIDENCE OF SELECTED CONDITIONS-U.S. ARMY PERSONNEL ON ACTIVE DUTY FISCAL YEAR 1970
+      (Rates per 1,000 average strength per year)
+      |                                                  |           | CONUSOversea   | CONUSOversea   |        | Pacific   | Pacific   |
+      |--------------------------------------------------|-----------|----------------|----------------|--------|-----------|-----------|
+      |                                                  | Worldwide | Army Areas     | Areas Total    | Europe | All Areas | Vietnam   |
+      | Admissions                                       |           |                |                |        |           |           |
+      | All Causes                                       | 346       | 354            | 336            | 210    | 394       | 442       |
+      | Disease                                          | 290       | 321            | 257            | 179    | 290       | 314       |
+      | Injury                                           | 56        | 33             | 79             | 31     | 104       | 128       |
+      | Incidence a                                      |           |                |                |        |           |           |
+      | Malaria                                          | 7.19      | 3.04           | 11.58          | 0.29   | 16.83     | 18.49     |
+      | Diarrheal diseases                               | 20.20     | 14.59          | 26.13          | 12.90  | 30.73     | 34.47     |
+      | Actue upper respiratory infection and influenzea | 94.32     | 149.82         | 35.55          | 39.01  | 30.81     | 29.20     |
+      | Skin Diseases                                    |           |                |                |        |           |           |
+
+      | Dermatophytosis             |   9.52 |   5.32 |   13.98 |   2.34 |   19.70 |   22.83 |
+      |-----------------------------|--------|--------|---------|--------|---------|---------|
+      | Neuropsychiatric conditions |  14.04 |  11.86 |   16.35 |   9.63 |   19.55 |   20.94 |
+      | Hepatitis Viral             |   3.38 |   2.48 |    4.34 |   0.4  |    6.35 |    6.54 |
+    questions_and_answers:
+      - question: What was the rate of Malaria in Army personnel on active duty in the Pacific in fiscal year 1970?
+        answer: |-
+          The rate of Malaria in the Pacific in 1970 was 16.83 per 1000 personnel.
+      - question: |-
+          What was the rate of actue upper respiratory infection and influenzea worldwide in FY 1970?
+        answer: |-
+          Among Army personnel worldwide, the actue upper respiratory infection and influenzea rate globally
+          was 94.32 per 1000.
+      - question: |-
+          What was the rate of Viral Hepatitis in Vietnam?
+        answer: |-
+          The rate of Viral Hepatitis among active duty army personnel in FY 1970 in Vietnam
+          was 6.54 per 1000 people.
+  - context: |-
       The operations center continued to co-ordinate the Army's contribution to the
       U.S. Secret Service in its role of protecting the President and Vice President
-      of the United States. This support included explosive ordnance disposal
+      of the United States. This support included explosive ordinance disposal
       personnel, helicopters, and other assorted equipment and personnel resources. In
       this connection, the Army received an increased number of requests from other
       federal agencies and civil authorities for explosive disposal assistance,
@@ -84,13 +119,13 @@ seed_examples:
       explosives. Over 4,800 requests were acted upon in fiscal year 1970, compared
       with 3,762 in the previous year.
     questions_and_answers:
-      - question: How many requests were acted upon by the Army in fiscal year 1970?
-        answer: 4,800
+      - question: How many explosive disposal assistance requests were acted upon by the Army in fiscal year 1970?
+        answer: Over 4,800 explosive disposal assistance requests were acted upon in fiscal year 1970.
       - question: |-
           What kind of assistance did the Army provide in response to the increased number
-          of requests from other federal agencies and civil authorities?
+          of requests from other federal agencies and civil authorities for explosive disposal assistance?
         answer: |-
-          The Army provided explosive ordnance disposal personnel, helicopters, and other
+          The Army provided explosive ordinance disposal personnel, helicopters, and other
           equipment and personnel resources. This assistance involved dealing with bomb
           scares, disarming explosive devices, checking and disposing of war souvenirs,
           and helping in transportation accidents involving explosives.
@@ -120,7 +155,7 @@ seed_examples:
       - question: |-
           How much was the Army's portion of the Military Assistance Program appropriation
           for fiscal year 1970?
-        answer: $208 million
+        answer: The Army's portion of the Military Assistance Program appropriation was $208 million.
       - question: |-
           What can be inferred about the trend of the Military Assistance Program and the
           Army's portion of it in fiscal year 1970, considering the competing demands and
@@ -164,7 +199,7 @@ seed_examples:
           What changes in communications-electronics management in Army installations in
           the United States were approved by the Chief of Staff?
         answer: |-
-          The changes approved by the Chief of Staff included making the installation's
+          The communications-electronics changes approved by the Chief of Staff included making the installation's
           communications-electronics officer a member of the installation's principal
           staff, which would allow for more efficient evaluation of communications-
           electronics requirements and support provision.
@@ -199,6 +234,8 @@ seed_examples:
           What was established in October 1978 to manage the integration of technologies
           in the fields of automation and communications?
         answer: The Office of the Assistant Chief of Staff for Automation and Communications
+         was established in October 1978 to manage the integration of technologies
+          in the fields of automation and communications.
       - question: |-
           What were the main areas in which the Army sought to improve its management of
           human and physical resources?
@@ -236,7 +273,7 @@ seed_examples:
       NATO allies and would better enable the Army to prepare for war.
     questions_and_answers:
       - question: How many soldiers were in U.S. Army, Europe in 1979?
-        answer: 200,000 soldiers
+        answer: 200,000 US Army soldiers were in Europe in 1979.
       - question: What measures were taken to strengthen the U.S. Army, Europe in
           the late 70s?
         answer: |-
@@ -247,10 +284,11 @@ seed_examples:
           responses of ammunition units alerted for battle were added, and a proposal was
           made to turn over to Germany nearly all the base management operations.
       - question: |-
-          Based on the information provided, why was the proposal to turn over base
+          Why was the proposal to turn over base
           management operations to Germany beneficial for the U.S. Army, Europe?
         answer: |-
-          The proposal was beneficial as it would better enable the Army to prepare for
+          The proposal to turn over base management operations to Germany
+          was beneficial as it would better enable the Army to prepare for
           war by allowing them to focus more on military readiness and less on base
           management operations.
   - context: |-
@@ -270,7 +308,8 @@ seed_examples:
       - question: |-
           What military division was withdrawn from South Korea based on a favorable
           assessment?
-        answer: The 2d Infantry Division
+        answer: The 2d Infantry Division was withdrawn from South Korea based on a favorable
+          assessment.
       - question: |-
           What was the President's decision regarding combat withdrawals in South Korea in
           July 1979?
@@ -309,7 +348,7 @@ seed_examples:
       - question: |-
           Which division was redesignated as a mechanized unit by FORSCOM in fiscal year
           1979?
-        answer: The 24th Infantry Division
+        answer: The 24th Infantry Division was redesignated as a mechanized unit by FORSCOM in 1979.
       - question: How many units did FORSCOM activate, inactivate, and deploy in fiscal
           year 1979?
         answer: |-
@@ -351,7 +390,7 @@ seed_examples:
       - question: |-
           What is the name of the long-range study conducted by the U.S. Army's Training
           and Doctrine Command (TRADOC) in 1976?
-        answer: The DIVISION 86 project
+        answer: The DIVISION 86 project was the name of the long-range study conducted by the U.S. Army.
       - question: What are the main components of the DIVISION 86 project's objectives?
         answer: |-
           The DIVISION 86 project's objectives include the study of new systems, tactical
@@ -384,14 +423,16 @@ seed_examples:
       - question: |-
           Which two international organizations were mentioned as having significant
           changes in FY 90 and 91?
-        answer: North Atlantic Treaty Organization (NATO) and the Warsaw Pact
+        answer: North Atlantic Treaty Organization (NATO) and the Warsaw Pact had
+          saw significant changes in FY 90 and 91.
       - question: |-
           What were the main concerns of U.S. leaders regarding international security
           during FY 90 and 91?
         answer: |-
-          Proliferation of nuclear, chemical, and missile technologies among many
+          The main international security concerns of U.S. leaders in 1990 and 1991 included
+          proliferation of nuclear, chemical, and missile technologies among many
           developing nations; statesponsored terrorism; insurgency; the subversion of
-          legitimate governments; and international drug trafficking
+          legitimate governments; and international drug trafficking.
       - question: |-
           Based on the described changes, why might U.S. leaders have been concerned about
           the proliferation of nuclear, chemical, and missile technologies during FY 90
@@ -421,7 +462,8 @@ seed_examples:
       - question: |-
           What program was introduced in October 1990 to improve medical services for Army
           families?
-        answer: The Gateway to Care Program
+        answer: The Gateway to Care Program was introduced in October 1990 to improve medical services for Army
+          families.
       - question: |-
           What measures were taken to improve the quality of life programs for the Army in
           FY 90 and 91, despite budget constraints?
@@ -460,7 +502,7 @@ seed_examples:
       part-time.
     questions_and_answers:
       - question: How many allied troops were employed during REFORGER 91?
-        answer: 28,000
+        answer: 28,000 allied troops were employed during REFORGER 1991.
       - question: |-
           What were the changes in the Army unit training during FY 90 and FY 91 in terms
           of budget constraints, DESERT SHIELD/DESERT STORM, and the number of unit
@@ -537,7 +579,7 @@ seed_examples:
       operations while under state control.
     questions_and_answers:
       - question: What is the name of the Army Counter-Narcotics Plan producer?
-        answer: HQDA
+        answer: HQDA was the the name of the Army's Counter-Narcotics Plan.
       - question: What are the roles of the Army in the war against drugs?
         answer: |-
           The Army's roles in the war against drugs include providing intelligence,
@@ -571,25 +613,24 @@ seed_examples:
       operational plans in the Pacific theater remained unchanged during FY 90 and 91.
     questions_and_answers:
       - question: What was the name of the U.S. invasion of Panama in December 1989?
-        answer: Operation JUST CAUSE
+        answer: Operation JUST CAUSE was the name of the U.S. invasion of Panama in December 1989.
       - question: |-
           What were the two major military operations the U.S. Army was engaged in at the
           beginning of the last decade of the twentieth century?
         answer: Operation JUST CAUSE and Operation DESERT SHIELD/DESERT STORM
+          were the two major military operations the Army engaged in at the
+          end of the twentieth century.
       - question: |-
-          Given the change in operational plans from a global strategy to a regional
-          focus, why did the operational plans in the Pacific theater remain unchanged
-          during FY 90 and 91?
+          What government leader was outsted as a result of the U.S. invasion of
+          Panama in 1989?
         answer: |-
-          The text does not provide specific information on why the operational plans in
-          the Pacific theater remained unchanged. However, it could be inferred that the
-          threat from regional powers in the Pacific may not have been as significant as
-          in other regions during this period.
+          Manuel Noriega was outsted from Panama in Devember 1989 as a result of the
+          US invasion.
   - context: |-
       This conflict between shrinking resources and expanding commitments shaped the
       structure and operation of the U.S. Army as it entered FY 2000. To reconcile the
       contradiction, Army leaders chose to emphasize strategic mobility to meet
-      contingencies. Illustrative of this was Operation Desert thunDer in February
+      contingencies. Illustrative of this was Operation Desert thunder in February
       1998, when a brigade (-) of the 3d Infantry Division deployed from Fort Stewart,
       Georgia, to Kuwait in less than ninety-six hours in response to Iraqi
       provocation. The Army accomplished this deployment through the use of pre-
@@ -603,10 +644,11 @@ seed_examples:
       - question: |-
           What operation did a brigade of the 3d Infantry Division deploy to in less than
           ninety-six hours in response to Iraqi provocation?
-        answer: Operation Desert thunDer in Kuwait
+        answer: Operation Desert thunder in Kuwait was the response to Iraqi provocation that
+          the 3d Infantry Division deploy to in less than ninety-six hours.
       - question: |-
           What measures did the Army take to accomplish the rapid deployment in Operation
-          Desert thunDer?
+          Desert thunder?
         answer: The Army used pre-positioned equipment stocks and elaborate logistical
           networks
       - question: |-
