@@ -627,6 +627,35 @@ seed_examples:
           Manuel Noriega was outsted from Panama in Devember 1989 as a result of the
           US invasion.
   - context: |-
+      TABLE 10-CORPS OF ENGINEERS CIVIL APPROPRIATIONS FISCAL YEARS 90-91
+
+      | Appropriation Title                   | FY 90          | FY 91          |
+      |---------------------------------------|----------------|----------------|
+      | Total Appropriation*                  | $3,196,589,000 | $3,314,262,000 |
+      | General Investigations                | 129,251        | 146,433,000    |
+      | Construction, General                 | 1,083,811,000  | 1,143,073,000  |
+      | Operations and Maintenance, General** | 1,398,219,000  | 1,450,656,000  |
+      | Regulatory Program                    | 68,455,000     | 71,099,000     |
+      | Mississippi River and Tributaries     | 336,000,000    | 344,602,000    |
+      | General Expenses                      | 141,997,000    | 126,598,000    |
+      | Flood Control and Coastal Emergencies | 20,000,000     | 20,000,000     |
+      | Permanent appropriations              | 14,700,000     | 11,801,000     |
+      | Revolving fund                        | 9,860,000      | -              |
+
+      - *Funds contributed by nonfederal sponsors of civil works projects and studies as part of local cooperation agreements amounted to $135,819,000 in FY 90 and $121,179,000 in FY 91.
+      - **Special Recreation Use fees included in Operations and Maintenance appropriation.
+    questions_and_answers:
+      - question: What was the Corps of Engineers total civil appropriates for fiscal year 1991?
+        answer:  The total civil appropriates for for the Corps of Engineers in fiscal year 1991 was $3,314,262,000.
+      - question: |-
+          Did the Corps of Engineers have civil appropriation funds for the Mississippi River and Tributaries in FY 90?
+        answer: Yes, the appropriation funds for the Mississippi River and Tributaries in FY 90 was $336,000,000.
+      - question: |-
+          What were the Flood Control and Coastal Emergencies Corps of Engineers civil appropriation funds for fiscal year 1991?
+        answer: |-
+          The funds fir the Flood Control and Coastal Emergencies were $20,000,000.
+
+  - context: |-
       This conflict between shrinking resources and expanding commitments shaped the
       structure and operation of the U.S. Army as it entered FY 2000. To reconcile the
       contradiction, Army leaders chose to emphasize strategic mobility to meet
