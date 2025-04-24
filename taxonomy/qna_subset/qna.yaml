@@ -1,0 +1,295 @@
+version: 3
+domain: Military History
+created_by: pdavis
+seed_examples:
+  - context: |-
+      Dispersion of the service's schools and different institutional agendas
+      prevented  the  development  of  a  university  structure.  Advances  in digital
+      technology  and  distance  learning  now  enable  integrating Training and
+      Doctrine Command (TRADOC) schools into a single educational structure modeled
+      after successful state university systems, as well as the Air, Marine Corps, and
+      National Defense Universities. All elements of officer, warrant officer,
+      noncommissioned officer, and civilian education systems, both active and reserve
+      components, and the Reserve Officers' Training Corps precommissioning program
+      will be included. The Army War College will retain its unique status as a
+      direct-reporting unit to the chief of staff of the Army. At HQDA, the Office of
+      the Deputy Chief of Staff G-3/5/7 will develop relevant policy  and  manage
+      resources for the program, which is expected to reach full operational
+      capability in June 2017.
+    questions_and_answers:
+      - question: |-
+          What is the expected date for the new educational structure to reach full
+          operational capability?
+        answer: June 2017 was the expected date for the new educational structure to reach full
+          operational capability.
+      - question: |-
+          What components of the officer, warrant officer, noncommissioned officer, and
+          civilian education systems will be integrated into the new educational
+          structure?
+        answer: |-
+          All elements of officer, warrant officer, noncommissioned officer, and civilian
+          education systems, both active and reserve components, and the Reserve Officers'
+          Training Corps precommissioning program will be included
+      - question: |-
+          Why is the Army War College not being integrated into the new educational structure?
+        answer: |-
+          The Army War College will retain its unique status as a direct-reporting unit to
+          the chief of staff of the Army, possibly due to its specific and distinct role
+          in education and training.
+  - context: |-
+      The TRADOC commanding general will act as Army University chancellor and serve
+      as the systemwide integrator, reporting directly to the chief of staff of the
+      Army. The commanding general of the Combined Arms Center at Fort  Leavenworth,
+      Kansas,  will  act  as executive  vice  chancellor  for  training  and
+      education,  providing oversight  of  academic  quality,  support  programs,
+      finances,  future development  of  the  system,  and  public  representation
+      for  the university. The commandant of the Army War College will act as vice
+      chancellor, advising the chancellor and the chief of staff of the Army on
+      matters  concerning  strategic  education.  The  Combined  Arms Center's deputy
+      commanding general will act as provost, responsible for long-term continuity,
+      and will also serve as manager of the Army Learning Coordination Council, which
+      will synchronize education activities across the Army.
+    questions_and_answers:
+      - question: Who is the vice chancellor of Army University?
+        answer: The commandant of the Army War College acts as the vice chancellor.
+      - question: |-
+          Who are the four key figures in the Army University leadership structure and
+          what are their roles?
+        answer: |-
+          The TRADOC commanding general acts as the Army University chancellor and
+          systemwide integrator, reporting directly to the chief of staff of the Army. The
+          commanding general of the Combined Arms Center at Fort Leavenworth, Kansas, acts
+          as executive vice chancellor for training and education. The commandant of the
+          Army War College acts as vice chancellor, advising the chancellor and the chief
+          of staff of the Army on matters concerning strategic education. The Combined
+          Arms Center's deputy commanding general acts as provost, responsible for long-
+          term continuity and managing the Army Learning Coordination Council.
+      - question: |-
+          Based on the roles of the TRADOC commanding general and the commanding general
+          of the Combined Arms Center, how are they related in terms of their
+          responsibilities in the Army University?
+        answer: |-
+          The TRADOC commanding general, as the Army University chancellor, is the overall
+          head of the university, while the commanding general of the Combined Arms
+          Center, as the executive vice chancellor for training and education, provides
+          oversight of academic quality, support programs, finances, future development of
+          the system, and public representation for the university. Therefore, the TRADOC
+          commanding general is superior to the commanding general of the Combined Arms
+          Center in the Army University hierarchy.
+  - context: |-
+      The  deputy  secretary  of  defense  in  October  2014  directed  a study  into
+      the  operational  cost  of  the  Pentagon  Reservation.  One recommendation  of
+      the  study  was  that  information  technology (IT)  in  the  Pentagon  be
+      consolidated  under  a  Joint  Information Technology Single Service Provider
+      (JITSSP), which would be a field service  agency  of  the  Defense  Information
+      Systems  Agency.  The resources and capabilities of the new organization would
+      be provided by Washington Headquarters Services' Enterprise Information
+      Technology  Directorate,  the  Joint  Staff's  IT  operations,  and  the Army's
+      Information  Technology  Agency  (ITA),  which  provides  IT services  for  many
+      other  DoD  organizations  within  the  National Capital Region. In May 2015,
+      the deputy secretary of defense accepted this recommendation and directed its
+      implementation in two phases. The  first  phase  of  the  transition  began  in
+      July  2015  when  JITSSP assumed operational control of ITA and the Enterprise
+      Information Technology  Directorate.  Consolidation  of  common  or  shared  IT
+      services within organizations of Office of the Secretary of Defense in the
+      Pentagon and the National Capital Region will occur during this phase. The
+      second phase will extend the consolidation to the military departments'
+      headquarters in the Pentagon and their elements in the National Capital Region.
+      The transition is expected to be complete by the end of FY 2016.
+    questions_and_answers:
+      - question: |-
+          When did the deputy secretary of defense accept the recommendation to
+          consolidate IT in the Pentagon under a JITSSP?
+        answer: The deputy secretary of defense accept the recommendation in
+          to consolidate IT in the Pentagon in May 2015.
+      - question: |-
+          What are the three organizations that will provide resources and capabilities to
+          the new JITSSP organization?
+        answer: |-
+          Washington Headquarters Services' Enterprise Information Technology Directorate,
+          the Joint Staff's IT operations, and the Army's Information Technology Agency
+          (ITA) were the three organizations that will provide resources and capabilities to
+          the new JITSSP organization.
+      - question: |-
+          What is the expected completion date of
+          consolidatation of IT in the Pentagon under a JITSSP transition?
+        answer: The IT consolidation transition is expected to be complete by the end of FY 2016
+  - context: |-
+      ## Mobilization
+
+      During FY 2019, the Army National Guard mobilized a total  of  22,050  soldiers  for  active  federal  service  ( Table  8 ).
+      The  Army  Reserve  mobilized  13,502  soldiers  from  674  units. The majority of the troops supported U.S. Central Command operations,  with  most  serving  in  Kuwait  or  Afghanistan.  Army  Reserve
+
+      table 8-army national guard mobilizations, Fy2019
+
+      | Kosovo Forces                                              | 602   |
+      |------------------------------------------------------------|-------|
+      | Multinational Force Observers Sinai                        | 208   |
+      | National Capital Region Integrated Air Defense System      | 275   |
+      | Operation atlantic resolve European Reassurance Initiative | 2     |
+      | Operation enduring Freedom                                 | 1,124 |
+      | guantanamo                                                 | 1,270 |
+      | Operation Freedom's sentinel                               | 5,459 |
+      | Operation inherent resolve                                 | 1,356 |
+      | Operations partan shield                                   | 9,412 |
+      | Operation gladiator phoenix                                | 168   |
+      | Other Named Operations                                     | 555   |
+    questions_and_answers:
+      - question: |-
+          How many army national guard forced were mobilized to Guantanamo in FY 19?
+        answer: The budget request for Army reserve
+          1,270 army national guard soldiers were in Guantanamo in 2019.
+      - question: |-
+          How many soldiers were a part of operation gladiator pheonix in 2019?
+        answer: 168 Army National Guard soldiers were mobilied to Operation gladiator phoenix in 2019.
+      - question: |-
+          Were Army National Guard soldiers mobilized to Operation Freedom's sentinel in 2019?
+        answer: |-
+          Yes, 5,459 Army National Guard soldiers were mobilized in 2019 to Operation Freedom's sentinel.
+  - context: |-
+      There were two organizational changes in the Office of the ASA (ALT). The Office
+      of the Deputy Assistant Secretary of the Army (Acquisition, Policy, and
+      Logistics) became the Office of the Deputy Assistant  Secretary  of  the  Army
+      (Sustainment),  reflecting  the increased importance of sustainment
+      considerations in all phases of the Army's acquisition process. Functional areas
+      of responsibility for the office include product support planning and policy,
+      sustainment integration  planning  and  oversight,  industrial  base  policy
+      and oversight, program protection planning and oversight, and supply chain risk
+      management. The Army redesignated the chief systems engineer  as  the  deputy
+      assistant  secretary  of  the  Army  (data, engineering, and software) to
+      emphasize the growing significance of data, engineering, and software throughout
+      a program's life cycle.
+    questions_and_answers:
+      - question: |-
+          What is the new name of the Office of the Deputy Assistant Secretary of the Army
+          (Acquisition, Policy, and Logistics)?
+        answer: The Office of the Deputy Assistant Secretary of the Army (Sustainment)
+          was the new name of the Office of the Deputy Assistant Secretary of the Army.
+      - question: |-
+          What are the functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment)?
+        answer: |-
+          The functional areas of responsibility for the Office of the Deputy
+          Assistant Secretary of the Army (Sustainment) are Product support planning and policy,
+          sustainment integration planning and oversight, industrial base policy and oversight,
+          program protection planning and oversight, and supply chain risk management.
+      - question: |-
+          Why was the chief systems engineer redesignated as the deputy assistant
+          secretary of the Army (data, engineering, and software)?
+        answer: |-
+          The chief systems engineer redesignated as the deputy assistant
+          secretary of the Army to emphasize the growing significance of data, engineering, and software
+          throughout a program's life cycle.
+  - context: |-
+      In the FY 2022-2026 military construction, Army, appropriation, the service
+      awarded contracts for five of thirty-two projects for a total of $110.2 million.
+      The twenty-seven remaining projects were not awarded because of the effects of
+      inflation or environmental, site, or solicitation issues. They are scheduled to
+      be awarded in FY 2023 or FY 2024. Unobligated funding in the amount of $1.7
+      billion is available for the remaining FY 2022 projects, adjustments to prior
+      year projects, minor construction projects, contingencies, contract adjustments,
+      and  for  reprogramming  to  other  RA  construction projects in the event of
+      cost growth. In the FY 2018-2022 military construction, Army, appropriation,
+      twenty-nine of thirty projects were awarded for a total of $1.115 billion. The
+      remaining project
+    questions_and_answers:
+      - question: |-
+          How many projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Five projects were awarded in the FY 2022-2026 military construction, Army,
+          appropriation.
+      - question: |-
+          What was the total amount awarded for the projects in the FY 2022-2026 military
+          construction, Army, appropriation?
+        answer: |-
+          A total of $110.2 million was awarded for the projects in the FY 2022-2026
+          military construction, Army, appropriation.
+      - question: |-
+          Given the total unobligated funding and the amount awarded, can we infer the
+          potential impact of inflation or environmental, site, or solicitation issues on
+          the awarding of projects in the FY 2022-2026 military construction, Army,
+          appropriation?
+        answer: |-
+          Yes, the potential impact of inflation or environmental, site, or solicitation
+          issues can be inferred as the reason for not awarding contracts for twenty-seven
+          out of thirty-two projects in the FY 2022-2026 military construction, Army,
+          appropriation.
+  - context: |-
+      In the FY 2022-2024 procurement appropriation, the service had obligated 60.8
+      percent of the available allotment against the 80 percent goal set by DoD for
+      the first year of availability. The Army did not meet this goal because it did
+      not receive these appropriations until 11 March 2022, and it concentrated on
+      executing the FY 20212023 procurement appropriation. For this appropriation, the
+      Army exceeded DoD's standard of 90 percent obligation in the second year of
+      availability by 3.3 percent. The Army executed its expiring FY 2020-2022
+      procurement appropriation at 99.7 percent. It disbursed 40.2 percent of its FY
+      2022 research, development, test, and evaluation appropriation against the 55
+      percent goal set by DoD. The service disbursed  80.8  percent  of  its  expiring
+      FY  2021  appropriation  in this account.
+    questions_and_answers:
+      - question: |-
+          What percentage of the FY 2022-2024 procurement appropriation did the Army
+          execute in the second year of availability?
+        answer: |-
+          The Army exceeded DoD's standard of 90 percent obligation in the second year of
+          availability by 3.3 percent.
+      - question: |-
+          What is the overall performance of the Army in executing its procurement and
+          research appropriations for the given fiscal years?
+        answer: |-
+          The Army executed its expiring FY 2020-2022 procurement appropriation at 99.7
+          percent, and disbursed 40.2 percent of its FY 2022 research, development, test,
+          and evaluation appropriation against the 55 percent goal set by DoD. It also
+          disbursed 80.8 percent of its expiring FY 2021 appropriation in this account.
+      - question: |-
+          Given the information about the Army's execution of its procurement and research
+          appropriations, why do you think the Army did not meet the 80 percent obligation
+          goal in the first year of availability for the FY 2022-2024 procurement
+          appropriation?
+        answer: |-
+          The Army did not meet this goal because it did not receive these appropriations
+          until 11 March 2022, and it concentrated on executing the FY 2021-2023
+          procurement appropriation.
+  - context: |-
+      In January  2022,  the  secretary  of  the Army  published  a memorandum on the
+      need for accountability and fiscal stewardship. To focus efforts on moving the
+      service from a disclaimer to a sustained unmodified  audit  opinion,  the
+      secretary  directed  the  assistant secretary  of  the  Army  (financial
+      management  and  comptroller) to establish an audit committee. The committee,
+      cochaired by the undersecretary of the Army and the vice chief of staff of the
+      Army, is composed of all assistant secretaries and commanding generals from
+      major commands. It meets quarterly. The secretary also directed the inclusion of
+      audit metrics into the Command Accountability and Execution Review program.
+      Additionally, the assistant secretary of the Army (financial management and
+      comptroller), in collaboration with  responsible  officials in each  business
+      area, developed  a multiyear plan for remediating the major audit issues. The
+      assistant secretary  of  the  Army  (financial  management  and  comptroller)
+      reports quarterly on the progress of organizations and individuals to meet their
+      milestones in the plan. The Army expects to obtain an audit opinion for the Army
+      Working Capital Fund in FY 2026 and for the Army General Fund in FY 2027.
+    questions_and_answers:
+      - question: Who is the co-chair of the Army's audit committee?
+        answer: The undersecretary of the Army and the vice chief of staff of the
+          Army
+      - question: What are the two main goals of the Army in terms of obtaining an
+          audit opinion?
+        answer: |-
+          The Army expects to obtain an audit opinion for the Army Working Capital Fund in
+          FY 2026 and for the Army General Fund in FY 2027
+      - question: |-
+          Based on the establishment of the audit committee and the multiyear plan, what
+          can be inferred about the Army's commitment to fiscal stewardship and
+          accountability?
+        answer: |-
+          The Army is demonstrating a strong commitment to fiscal stewardship and
+          accountability by establishing an audit committee, incorporating audit metrics
+          into the Command Accountability and Execution Review program, and developing a
+          multiyear plan to remediate major audit issues.
+document_outline: |
+  US Army Historical Fiscal Year Summaries.
+document:
+  repo: https://github.com/pdavis327/west-point-poc
+  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  patterns:
+    - assets/subset_years/*.md
