@@ -290,6 +290,6 @@ document_outline: |
   US Army Historical Fiscal Year Summaries.
 document:
   repo: https://github.com/pdavis327/west-point-poc
-  commit: 32d3199e207b5252c99fca71f3ba4a9722023cf5
+  commit: 6aded2936f378a91b891f61e06b5323009df425c
   patterns:
     - assets/subset_years/*.md
