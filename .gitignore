@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #models 
-./models
+models/
 # data
 assets/raw_data
 assets/*.zip
