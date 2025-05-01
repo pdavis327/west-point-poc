@@ -1,0 +1,91 @@
+apiVersion: machine.openshift.io/v1beta1
+kind: MachineSet
+metadata:
+  annotations:
+    capacity.cluster-autoscaler.kubernetes.io/labels: kubernetes.io/arch=amd64
+    machine.openshift.io/GPU: "0"
+    machine.openshift.io/memoryMb: "65536"
+    machine.openshift.io/vCPU: "16"
+  creationTimestamp: "2025-04-30T13:54:45Z"
+  labels:
+    machine.openshift.io/cluster-api-cluster: cluster-k5mjq-8xcdn
+  name: cluster-k5mjq-8xcdn-worker-us-east-2a-gpu
+  namespace: openshift-machine-api
+  resourceVersion: "9244"
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      machine.openshift.io/cluster-api-cluster: cluster-k5mjq-8xcdn
+      machine.openshift.io/cluster-api-machineset: cluster-k5mjq-8xcdn-worker-us-east-2a-gpu
+  template:
+    metadata:
+      labels:
+        machine.openshift.io/cluster-api-cluster: cluster-k5mjq-8xcdn
+        machine.openshift.io/cluster-api-machine-role: worker
+        machine.openshift.io/cluster-api-machine-type: worker
+        machine.openshift.io/cluster-api-machineset: cluster-k5mjq-8xcdn-worker-us-east-2a-gpu
+    spec:
+      lifecycleHooks: {}
+      metadata: {}
+      providerSpec:
+        value:
+          ami:
+            id: ami-078e26f293629fe91
+          apiVersion: machine.openshift.io/v1beta1
+          blockDevices:
+          - ebs:
+              encrypted: true
+              iops: 0
+              kmsKey:
+                arn: ""
+              volumeSize: 100
+              volumeType: gp2
+          capacityReservationId: ""
+          credentialsSecret:
+            name: aws-cloud-credentials
+          deviceIndex: 0
+          iamInstanceProfile:
+            id: cluster-k5mjq-8xcdn-worker-profile
+          instanceType: g6e.4xlarge 
+          kind: AWSMachineProviderConfig
+          metadata:
+            creationTimestamp: null
+          metadataServiceOptions: {}
+          placement:
+            availabilityZone: us-east-2a
+            region: us-east-2
+          securityGroups:
+          - filters:
+            - name: tag:Name
+              values:
+              - cluster-k5mjq-8xcdn-node
+          - filters:
+            - name: tag:Name
+              values:
+              - cluster-k5mjq-8xcdn-lb
+          subnet:
+            filters:
+            - name: tag:Name
+              values:
+              - cluster-k5mjq-8xcdn-subnet-private-us-east-2a
+          tags:
+          - name: kubernetes.io/cluster/cluster-k5mjq-8xcdn
+            value: owned
+          - name: Stack
+            value: project ocp4-cluster-k5mjq
+          - name: env_type
+            value: ocp4-cluster
+          - name: guid
+            value: k5mjq
+          - name: owner
+            value: unknown
+          - name: platform
+            value: RHPDS
+          - name: uuid
+            value: 5a1b1dcd-4422-5ec8-ada4-b859053c6ee5
+          userDataSecret:
+            name: worker-user-data
+status:
+  observedGeneration: 1
+  replicas: 0
