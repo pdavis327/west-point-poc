@@ -6,7 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
-#models 
+# ocp
+users.*
+
+#models
 models/
 # data
 assets/raw_data
